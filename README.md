@@ -1,7 +1,3 @@
-[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
-
-![Static Badge](https://img.shields.io/badge/compose--bom-2023.06.01-blue)
-
 # Smart Sleep
 
 Smart Sleep is an app that can calculate sleep cycle so you can estimate the time you need to go to bed or wake up. It has some extra features as well.
