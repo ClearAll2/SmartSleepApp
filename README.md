@@ -46,7 +46,3 @@ If you like my work and want to help, buy me a coffee at [PayPal](https://paypal
 - [Don't kill my app](https://dontkillmyapp.com/)
 - [Flaticon](https://www.flaticon.com/)
 - [Pixabay](https://pixabay.com/)
-
-## License
-
-Apache License 2.0 - see the [LICENSE](https://github.com/ClearAll2/SmartSleep/blob/master/LICENSE) for details
