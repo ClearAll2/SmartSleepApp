@@ -25,6 +25,10 @@ It's just a personal project. I'm learning Android as a hobby and want to build 
 - Support Material You (Android 12+)
 - Support themed icon (Android 13+)
 
+## Translation
+
+You can help me translate by editting [string.xml](https://github.com/ClearAll2/SmartSleepRepo/blob/main/strings.xml) file
+
 ## Support
 
 You can support me by downloading this app from [Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep) and sharing it to your friends.
