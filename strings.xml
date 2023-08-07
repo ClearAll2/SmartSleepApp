@@ -48,6 +48,7 @@
     <string name="bed_time">Bedtime</string>
     <string name="wake_up_time">Wake-up time</string>
     <string name="the_average_human_time_to_sleep">The average human takes 15 minutes to fall asleep. We included that time when calculating your result.</string>
+    <string name="the_average_human_time_to_sleep_without_15">The average human takes 15 minutes to fall asleep.</string>
     <string name="to_wake_up">To wake up refreshed at %1$s:%2$s, you need to sleep at one of the following times:</string>
     <string name="wake_in_90_min_cycle">If you wakeup at one of these times, you’ll rise in between 90-minute sleep cycles.</string>
     <string name="sleep_in_90_min_cycle">If you sleep at one of these times, you’ll rise in between 90-minute sleep cycles.</string>
@@ -200,4 +201,5 @@
     <string name="permission_request_2">You need to allow DND access</string>
     <string name="permission_granted_2">Access granted.</string>
     <string name="permission_denied_2">Access not granted.</string>
+    <string name="minus_15">Include time to fall asleep</string>
 </resources>
