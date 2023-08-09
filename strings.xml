@@ -1,10 +1,10 @@
 <resources>
-    <string name="currentVer">Add Nap (beta for plus users only).\nImprove user experience.</string>
-    <string name="version5">Support Vietnamese.\nAlarms will no longer be canceled when you reboot device.\nImprove performance and app size.\nImprove user experience.\nFixed: a bug of play/stop button.\nFixed: a bug of purchase button.</string>
-    <string name="version4">New \"Set alarm\" button.\nNew changelog section.\nAdd 2 new sleep sounds.\nImprove user experience.\nFixed: \"remember last played\" setting.</string>
-    <string name="version3">Fixed: same alarm time bug. \nMinor UI changes.</string>
-    <string name="version2">Volume of alarm is now controlled by system\'s alarm volume instead of media/notification volume.</string>
-    <string name="version1">Now you can edit scheduled alarms.\nAdd alarm troubleshooting tips.\nImprove UI for large screen devices.</string>
+    <string name="currentVer">Add F.A.Q.\nAdd a new option for Calculator.\nRevamp calculation result UI.</string>
+    <string name="version5">Add Nap (beta for plus users only).\nImprove user experience.</string>
+    <string name="version4">Support Vietnamese.\nAlarms will no longer be canceled when you reboot device.\nImprove performance and app size.\nImprove user experience.\nFixed: a bug of play/stop button.\nFixed: a bug of purchase button.</string>
+    <string name="version3">New \"Set alarm\" button.\nNew changelog section.\nAdd 2 new sleep sounds.\nImprove user experience.\nFixed: \"remember last played\" setting.</string>
+    <string name="version2">Fixed: same alarm time bug. \nMinor UI changes.</string>
+    <string name="version1">Volume of alarm is now controlled by system\'s alarm volume instead of media/notification volume.</string>
     <string name="app_name" translatable="false">Smart Sleep</string>
     <string name="icon_credit_text">Open link to Flaticon</string>
     <string name="sound_credit_text">Open link to Pixabay</string>
@@ -50,15 +50,15 @@
     <string name="the_average_human_time_to_sleep">The average human takes 15 minutes to fall asleep. We included that time when calculating your result.</string>
     <string name="the_average_human_time_to_sleep_without_15">The average human takes 15 minutes to fall asleep.</string>
     <string name="to_wake_up">To wake up refreshed at %1$s:%2$s, you need to sleep at one of the following times:</string>
-    <string name="wake_in_90_min_cycle">If you wakeup at one of these times, you’ll rise in between 90-minute sleep cycles.</string>
+    <string name="wake_in_90_min_cycle">If you wake up at one of these times, you’ll rise in between 90-minute sleep cycles.</string>
     <string name="sleep_in_90_min_cycle">If you sleep at one of these times, you’ll rise in between 90-minute sleep cycles.</string>
     <string name="to_sleep_now">If you sleep at %1$s:%2$s, you need to wake up at one of the following times:</string>
     <string name="a_good_sleep">A good sleep should consist of 5–6 complete sleep cycles.</string>
     <string name="suggested">Suggested</string>
     <string name="if_you_sleep_action">If you sleep at %1$s:%2$s, you\'ll get:</string>
     <string name="if_you_wakeup_action">If you wakeup at %1$s:%2$s, you\'ll get:</string>
-    <string name="sleep_time_details">%1$s sleep cycles, %2$s hours of sleep.</string>
-    <string name="one_cycle_sleep_time_details">1 sleep cycle, %s hours of sleep.</string>
+    <string name="sleep_time_details">%1$s sleep cycles, %2$s hours of sleep</string>
+    <string name="one_cycle_sleep_time_details">1 sleep cycle, %s hours of sleep</string>
     <string name="sleep_time_recommend_details">Healthy adults need at least seven hours of sleep per night. Babies, young children, and teens need even more sleep to enable their growth and development.</string>
     <string name="set_alarm">Set alarm</string>
     <string name="cycles">%s cycles</string>
@@ -202,4 +202,23 @@
     <string name="permission_granted_2">Access granted.</string>
     <string name="permission_denied_2">Access not granted.</string>
     <string name="minus_15">Include time to fall asleep</string>
+    <string name="back">Back</string>
+    <string name="calculate_again">Calculate again</string>
+    <string name="faq">F.A.Q</string>
+    <string name="q1">What is the main function of this app?</string>
+    <string name="q1_a">The main function of this app is estimating the best time for you to sleep and wake up.</string>
+    <string name="q2">What is a sleep cycle?</string>
+    <string name="q2_a">A sleep cycle is a physiological process that occurs during sleep. It allows the brain and body to perform “housekeeping” functions, such as repairing or growing tissues, removing toxins, and processing memories. Each sleep cycle consists of four stages, with each having varying effects on the body. The first four stages make up our non-rapid eye movement (NREM) sleep, and the fifth stage is when rapid eye movement (REM) sleep occurs. A sleep cycle lasts about 90 minutes.</string>
+    <string name="q3">What time should I go to sleep?</string>
+    <string name="q3_a">There is no “one size fits all” bedtime, but there are ways to determine optimal bed and wake-up times based on age, geographic location, lifestyle preferences, and obligations like work and school. Experts suggest waking up and falling asleep at the same time each day, even on weekends and days off. Teens should try to go to bed between 9:00 and 10:00 p.m. Adults should try to go to sleep between 10:00 and 11:00 p.m. Despite age and sleep need, having a consistent wake time, even on the weekends, is important for better sleep.</string>
+    <string name="q4">What time should I wake up?</string>
+    <string name="q4_a">The best times to go to sleep and wake up will vary among individuals. Many different factors, including a person’s age, work schedule, and lifestyle, can affect their sleep patterns. People should aim for 7–9 hours of sleep each night. You can use the sleep calculator to develop an optimal sleep schedule based on your unique biology and lifestyle preferences, including your age and either your bedtime or wake-up time.</string>
+    <string name="q5_a">Getting enough sleep is important for many reasons. It can help you stay healthy by boosting your immune system, reducing your risk of developing chronic diseases such as diabetes and heart disease, and improving your mental health. Sleep also helps you think more clearly, be more productive, and feel better overall. It can also help you maintain a healthy weight and reduce your risk of accidents.</string>
+    <string name="q5">Why is it important to get enough sleep?</string>
+    <string name="none">None</string>
+    <string name="q6">How to improve sleep?</string>
+    <string name="q6_a">Stick to a sleep schedule\nCreate a bedtime routine\nMake your bedroom comfortable\nLimit exposure to bright light in the evenings\nTurn off electronic devices at least 30 minutes before bedtime\nDon’t eat a large meal before bedtime\nExercise regularly and maintain a healthy diet\nManage stress</string>
+    <string name="sleep_foundation">Sleep info from Sleep Foundation</string>
+    <string name="sleep_foundation_text">Open link to Sleep Foundation</string>
+    <string name="sleep_foundation_link" translatable="false">https://www.sleepfoundation.org/</string>
 </resources>
