@@ -25,6 +25,12 @@ It's just a personal project. I'm learning Android as a hobby and want to build 
 - Support Material You (Android 12+)
 - Support themed icon (Android 13+)
 
+## Privacy policy
+- This product only collects advertising ID to show personalised ads from Google.
+- This product does not collect, save, transmit key strokes when user types in this product itself and other applications.
+- This product does not access, collect, or transmit personal information (data that could be used to identify a person).
+- This product does not share or transmit the data that user created by using this product.
+
 ## Translation
 
 You can help me translate by editting [string.xml](https://github.com/ClearAll2/SmartSleepRepo/blob/main/strings.xml) file
@@ -40,9 +46,10 @@ If you like my work and want to help, buy me a coffee at [PayPal](https://paypal
 ## This project is made possible by
 - [Stack Overflow](https://stackoverflow.com/)
 - [Jetpack Compose Tutorial](https://www.jetpackcompose.net/)
-- [Philipp Lackner](https://www.youtube.com/@PhilippLackner)
 - [Circular SeekBar](https://github.com/ningyuv/CircularSeekBar?ref=androidexample365.com)
 - [M3 DateTime Pickers](https://github.com/marosseleng/compose-material3-datetime-pickers)
 - [Don't kill my app](https://dontkillmyapp.com/)
 - [Flaticon](https://www.flaticon.com/)
 - [Pixabay](https://pixabay.com/)
+
+© 2023 [LKONLE](https://t.me/lkonle), and published to [Google Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep).
