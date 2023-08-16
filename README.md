@@ -2,8 +2,7 @@
 
 Smart Sleep is an Android app that can calculate sleep cycle so you can estimate the time you need to go to bed or wake up. It has some extra features as well.
 <p>
-  <a href='https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.eps'/>
-  </a>
+ <a href='https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="80px"/></a>
 </p>
 <p>
   <img src="screenshots/1.png" alt="sp1"  height="400px"/>
