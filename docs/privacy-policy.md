@@ -2,7 +2,7 @@
 # Smart Sleep - Privacy policy
 
 ## Privacy policy
-
+- This product only collects advertising ID to show personalised ads from Google.
 - This product does not collect, save, transmit key strokes when user types in this product itself and other applications.
 - This product does not access, collect, or transmit personal information (data that could be used to identify a person).
 - This product does not share or transmit the data that user created by using this product.
