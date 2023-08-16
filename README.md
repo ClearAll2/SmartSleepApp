@@ -17,12 +17,7 @@ Smart Sleep is an Android app that can calculate sleep cycle so you can estimate
   <img src="screenshots/8.png" alt="sp8"  height="400px"/>
 </p>
 
-## Why this project exist?
-
-It's just a personal project. I'm learning Android as a hobby and want to build some apps for myself and friends.
-
 ## Features
-
 - Sleep Calculator
 - Sleep Sounds
 - Nap timer (plus only)
@@ -30,27 +25,39 @@ It's just a personal project. I'm learning Android as a hobby and want to build 
 - Support dark/light theme
 - Support Material You (Android 12+)
 - Support themed icon (Android 13+)
+- Support large screen devices
+
+This app contains ads but you can get rid of them by upgrading to Smart Sleep+
+
+## Smart Sleep+
+Why should you get Smart Sleep+ (one-time payment):
+- Ads free
+- Unlock all settings and features
+- Support future development
+- Be the first one to get latest features
 
 ## Privacy policy
-- This product only collects advertising ID to show personalised ads from Google.
-- This product does not collect, save, transmit key strokes when user types in this product itself and other applications.
-- This product does not access, collect, or transmit personal information (data that could be used to identify a person).
-- This product does not share or transmit the data that user created by using this product.
+- This app only collects advertising ID to show personalised ads from Google.
+- This app does not collect, save, transmit key strokes when user types in this product itself and other applications.
+- This app does not access, collect, or transmit personal information (data that could be used to identify a person).
+- This app does not share or transmit the data that user created by using this product.
+- This app does not use background services to send or receive any data.
+- This app does not use Do Not Disturb access to collect any data.
+- This app does not use Notification permission to spam or show ads.
+
+## Found bugs?
+Submit issue [here](https://github.com/ClearAll2/SmartSleepApp/issues/new)
 
 ## Translation
-
-You can help me translate by editting [string.xml](https://github.com/ClearAll2/SmartSleepRepo/blob/main/strings.xml) file
+You can help me by translating text in [string.xml](https://github.com/ClearAll2/SmartSleepRepo/blob/main/strings.xml) file
 
 ## Support
-
 You can support me by downloading this app from [Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep) and sharing it to your friends.
 
 ## Donate
-
 If you like my work and want to help, buy me a coffee at [PayPal](https://paypal.me/clearall2?country.x=VN&locale.x=en_US).
 
 ## This project is made possible by
-- [Stack Overflow](https://stackoverflow.com/)
 - [Jetpack Compose Tutorial](https://www.jetpackcompose.net/)
 - [Circular SeekBar](https://github.com/ningyuv/CircularSeekBar?ref=androidexample365.com)
 - [M3 DateTime Pickers](https://github.com/marosseleng/compose-material3-datetime-pickers)
