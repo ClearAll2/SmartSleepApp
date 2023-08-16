@@ -1,10 +1,10 @@
 <resources>
-    <string name="currentVer">Add F.A.Q.\nAdd a new option for Calculator.\nRevamp calculation result UI.</string>
-    <string name="version5">Add Nap (beta for plus users only).\nImprove user experience.</string>
-    <string name="version4">Support Vietnamese.\nAlarms will no longer be canceled when you reboot device.\nImprove performance and app size.\nImprove user experience.\nFixed: a bug of play/stop button.\nFixed: a bug of purchase button.</string>
-    <string name="version3">New \"Set alarm\" button.\nNew changelog section.\nAdd 2 new sleep sounds.\nImprove user experience.\nFixed: \"remember last played\" setting.</string>
-    <string name="version2">Fixed: same alarm time bug. \nMinor UI changes.</string>
-    <string name="version1">Volume of alarm is now controlled by system\'s alarm volume instead of media/notification volume.</string>
+    <string name="currentVer">Add Alarm vibration.\nNew app icon.</string>
+    <string name="version5">Add F.A.Q.\nAdd a new option for Calculator.\nRevamp calculation result UI.\nImprove UI for large screen devices.</string>
+    <string name="version4">Add Nap (beta for plus users only).\nImprove user experience.</string>
+    <string name="version3">Support Vietnamese.\nAlarms will no longer be canceled when you reboot device.\nImprove performance and app size.\nImprove user experience.\nFixed: a bug of play/stop button.\nFixed: a bug of purchase button.</string>
+    <string name="version2">New \"Set alarm\" button.\nNew changelog section.\nAdd 2 new sleep sounds.\nImprove user experience.\nFixed: \"remember last played\" setting.</string>
+    <string name="version1">Fixed: same alarm time bug. \nMinor UI changes.</string>
     <string name="app_name" translatable="false">Smart Sleep</string>
     <string name="icon_credit_text">Open link to Flaticon</string>
     <string name="sound_credit_text">Open link to Pixabay</string>
@@ -13,7 +13,7 @@
     <string name="rate_link" translatable="false">https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep</string>
     <string name="privacy_link" translatable="false">https://fdsrepo.cf/privacy/smartsleep/</string>
     <string name="contact_link" translatable="false">https://t.me/lkonle</string>
-    <string name="icon_link" translatable="false">https://www.flaticon.com/free-icon/nighttime_10862280?term=sleep&amp;page=1&amp;position=76&amp;origin=search&amp;related_id=10862280</string>
+    <string name="icon_link" translatable="false">https://www.flaticon.com/free-icon/time_10609412?term=sleep&amp;page=1&amp;position=89&amp;origin=search&amp;related_id=10609412</string>
     <string name="icon_link_2" translatable="false">https://www.flaticon.com/free-icon/zzz_595082?term=sleep&amp;page=1&amp;position=18&amp;origin=search&amp;related_id=595082</string>
     <string name="icon_link_3" translatable="false">https://www.flaticon.com/free-icon/music-note_8702617?term=sleep+note&amp;page=1&amp;position=8&amp;origin=search&amp;related_id=8702617</string>
     <string name="icon_link_4" translatable="false">https://www.flaticon.com/free-icon/moon_865813?term=sleep&amp;page=1&amp;position=29&amp;origin=search&amp;related_id=865813</string>
@@ -90,7 +90,7 @@
     <string name="dark">Dark</string>
     <string name="system_default">System default</string>
     <string name="theme">Theme</string>
-    <string name="why_should_you">Why should you get?</string>
+    <string name="why_should_you">Why should you get? (one-time payment)</string>
     <string name="already_got">Great! You already own this.</string>
     <string name="unlock_all">- Unlock all features and settings</string>
     <string name="plus_remember">* Remember last played</string>
@@ -128,7 +128,7 @@
     <string name="sun">Sun</string>
     <string name="not_scheduled">Not scheduled</string>
     <string name="app_ver_text">App version</string>
-    <string name="sleep_icon_text">Sleep icon created by nangicon</string>
+    <string name="sleep_icon_text">App icon created by Cap Cool</string>
     <string name="zzz_text">ZZZ icon created by Freepik</string>
     <string name="music_note_text">Music note icon created by Vector Stall</string>
     <string name="moon_text">Moon icon created by Good Ware</string>
@@ -221,4 +221,14 @@
     <string name="sleep_foundation">Sleep info from Sleep Foundation</string>
     <string name="sleep_foundation_text">Open link to Sleep Foundation</string>
     <string name="sleep_foundation_link" translatable="false">https://www.sleepfoundation.org/</string>
+    <string name="allow">Allow</string>
+    <string name="deny">Deny</string>
+    <string name="DND_permission_request">Allow Smart Sleep to access Do Not Disturb?</string>
+    <string name="DND_permission_request_details">This lets Smart Sleep to turn on/off Do Not Disturb automatically.</string>
+    <string name="alarm_permission_request">Allow Smart Sleep to schedule alarms?</string>
+    <string name="alarm_permission_request_details">This lets Smart Sleep to schedule your exact alarms.</string>
+    <string name="alarm_permission_warning">No Alarm &amp; reminders permission. Smart Sleep will not be able to schedule alarm. Tap to allow.</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="special_thanks">This app is made possible by</string>
+    <string name="icon_and_sound">Icons and sounds</string>
 </resources>
