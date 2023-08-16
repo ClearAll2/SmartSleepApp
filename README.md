@@ -2,14 +2,17 @@
 
 Smart Sleep is an app that can calculate sleep cycle so you can estimate the time you need to go to bed or wake up. It has some extra features as well.
 <p>
-  <img src="https://fdsrepo.cf/download/sample_1.jpg" alt="sp1"  height="640px"/>
-  <img src="https://fdsrepo.cf/download/sample_2.jpg" alt="sp2"  height="640px"/>
+  <img src="screenshots/1.png" alt="sp1"  height="400px"/>
+  <img src="screenshots/2.png" alt="sp2"  height="400px"/>
+  <img src="screenshots/3.png" alt="sp3"  height="400px"/>
+  <img src="screenshots/4.png" alt="sp4"  height="400px"/>
 </p>
 <p>
-  <img src="https://fdsrepo.cf/download/sample_3.jpg" alt="sp3"  height="640px"/>
-  <img src="https://fdsrepo.cf/download/sample_4.jpg" alt="sp4"  height="640px"/>
+  <img src="screenshots/5.png" alt="sp5"  height="400px"/>
+  <img src="screenshots/6.png" alt="sp6"  height="400px"/>
+  <img src="screenshots/7.png" alt="sp7"  height="400px"/>
+  <img src="screenshots/8.png" alt="sp8"  height="400px"/>
 </p>
-
 
 ## Why this project exist?
 
@@ -19,7 +22,7 @@ It's just a personal project. I'm learning Android as a hobby and want to build 
 
 - Sleep Calculator
 - Sleep Sounds
-- Nap timer
+- Nap timer (plus only)
 - Schedule alarm
 - Support dark/light theme
 - Support Material You (Android 12+)
