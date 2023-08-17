@@ -5,16 +5,16 @@ Smart Sleep is an Android app that can calculate sleep cycle so you can estimate
  <a href='https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="80px"/></a>
 </p>
 <p>
-  <img src="screenshots/1.png" alt="sp1"  height="300px"/>
-  <img src="screenshots/2.png" alt="sp2"  height="300px"/>
-  <img src="screenshots/3.png" alt="sp3"  height="300px"/>
-  <img src="screenshots/4.png" alt="sp4"  height="300px"/>
+  <img src="screenshots/1.png" alt="sp1"  height="350px"/>
+  <img src="screenshots/2.png" alt="sp2"  height="350px"/>
+  <img src="screenshots/3.png" alt="sp3"  height="350px"/>
+  <img src="screenshots/4.png" alt="sp4"  height="350px"/>
 </p>
 <p>
-  <img src="screenshots/5.png" alt="sp5"  height="300px"/>
-  <img src="screenshots/6.png" alt="sp6"  height="300px"/>
-  <img src="screenshots/7.png" alt="sp7"  height="300px"/>
-  <img src="screenshots/8.png" alt="sp8"  height="300px"/>
+  <img src="screenshots/5.png" alt="sp5"  height="350px"/>
+  <img src="screenshots/6.png" alt="sp6"  height="350px"/>
+  <img src="screenshots/7.png" alt="sp7"  height="350px"/>
+  <img src="screenshots/8.png" alt="sp8"  height="350px"/>
 </p>
 
 ## Features
