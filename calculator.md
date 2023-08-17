@@ -1,12 +1,6 @@
----
-title: Sleep Calculator
-layout: template
-filename: calculator.md
----
-
 # Sleep Calculator
 
-Sleep calculator can calculate bedtime/wake-up time and sleep cycles for you. You can set alarm after finding a suitable time.
+Sleep calculator can calculate bedtime/wake-up time and sleep cycles with suggested time.
 
 <p>
   <img src="screenshots/1.png" alt="sp1"  height="400px"/>
