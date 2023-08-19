@@ -59,4 +59,4 @@ If you like my work and want to help, buy me a coffee at [PayPal](https://paypal
 - [Flaticon](https://www.flaticon.com/)
 - [Pixabay](https://pixabay.com/)
 
-© 2023 [LKONLE](https://t.me/lkonle), and published to [Google Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep).
+© 2023 [LKONLE](mailto:lkonle@proton.me), and published to [Google Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep).
