@@ -1,5 +1,5 @@
 <resources>
-    <string name="currentVer">Add Alarm vibration.\nNew app icon.</string>
+    <string name="currentVer">New app icon.\nAdd Alarm vibration.\nImprove user interface.</string>
     <string name="version5">Add F.A.Q.\nAdd a new option for Calculator.\nRevamp calculation result UI.\nImprove UI for large screen devices.</string>
     <string name="version4">Add Nap (beta for plus users only).\nImprove user experience.</string>
     <string name="version3">Support Vietnamese.\nAlarms will no longer be canceled when you reboot device.\nImprove performance and app size.\nImprove user experience.\nFixed: a bug of play/stop button.\nFixed: a bug of purchase button.</string>
@@ -11,8 +11,8 @@
     <string name="privacy_text">Read our policy</string>
     <string name="contact_text">Contact us</string>
     <string name="rate_link" translatable="false">https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep</string>
-    <string name="privacy_link" translatable="false">https://fdsrepo.cf/privacy/smartsleep/</string>
-    <string name="contact_link" translatable="false">https://t.me/lkonle</string>
+    <string name="privacy_link" translatable="false">https://clearall2.github.io/SmartSleepApp/privacy.html</string>
+    <string name="contact_link" translatable="false">https://clearall2.github.io/SmartSleepApp/</string>
     <string name="icon_link" translatable="false">https://www.flaticon.com/free-icon/time_10609412?term=sleep&amp;page=1&amp;position=89&amp;origin=search&amp;related_id=10609412</string>
     <string name="icon_link_2" translatable="false">https://www.flaticon.com/free-icon/zzz_595082?term=sleep&amp;page=1&amp;position=18&amp;origin=search&amp;related_id=595082</string>
     <string name="icon_link_3" translatable="false">https://www.flaticon.com/free-icon/music-note_8702617?term=sleep+note&amp;page=1&amp;position=8&amp;origin=search&amp;related_id=8702617</string>
@@ -76,7 +76,7 @@
     <string name="stop_timer">Stop timer</string>
     <string name="one_hour">1 hour</string>
     <string name="select_sleep_sound">Select sleep sound</string>
-    <string name="sound">Sound</string>
+    <string name="sound">Sounds</string>
     <string name="app_info">App Info</string>
     <string name="play_preview">Play preview of sleep sounds</string>
     <string name="keep_screen_on">Keep playing screen on</string>
@@ -90,18 +90,18 @@
     <string name="dark">Dark</string>
     <string name="system_default">System default</string>
     <string name="theme">Theme</string>
-    <string name="why_should_you">Why should you get? (one-time payment)</string>
+    <string name="why_should_you">Get exclusive features and support us by unlocking Smart Sleep+</string>
     <string name="already_got">Great! You already own this.</string>
-    <string name="unlock_all">- Unlock all features and settings</string>
-    <string name="plus_remember">* Remember last played</string>
-    <string name="plus_control_preview">* Control sleep sound preview</string>
-    <string name="plus_control_alarm_length">* Control alarm length</string>
-    <string name="plus_control_snooze_length">* Control snooze length</string>
-    <string name="support_future">- Support future development</string>
-    <string name="be_the_fist">- Be the first one to get latest features</string>
-    <string name="get_plus">Get Smart Sleep+</string>
+    <string name="unlock_all">Unlock all features and settings</string>
+    <string name="plus_remember">Remember last played</string>
+    <string name="plus_control_preview">Control sleep sound preview</string>
+    <string name="plus_control_alarm_length">Control alarm length</string>
+    <string name="plus_control_snooze_length">Control snooze length</string>
+    <string name="support_future">Support future development</string>
+    <string name="be_the_fist">Be the first one to get latest features</string>
+    <string name="get_plus">Unlock Smart Sleep+</string>
     <string name="thanks">Thanks for all the support given!</string>
-    <string name="ads_free">- Ads free</string>
+    <string name="ads_free">Ads free</string>
     <string name="alarm">Alarm</string>
     <string name="alarm_length">Alarm length</string>
     <string name="snooze_length">Snooze length</string>
@@ -196,7 +196,7 @@
     <string name="nap_note_2">The average human takes 15 minutes to fall asleep. You should include that time when calculating your nap.</string>
     <string name="stop_nap">Stop</string>
     <string name="nap_noti_text" translatable="false">Nap timer</string>
-    <string name="plus_nap">* Nap feature</string>
+    <string name="plus_nap">Nap timer</string>
     <string name="turn_on_DND">Do Not Disturb for Nap</string>
     <string name="permission_request_2">You need to allow DND access</string>
     <string name="permission_granted_2">Access granted.</string>
@@ -231,4 +231,21 @@
     <string name="vibrate">Vibrate</string>
     <string name="special_thanks">This app is made possible by</string>
     <string name="icon_and_sound">Icons and sounds</string>
+    <string name="plus" translatable="false">Plus</string>
+    <string name="language_explain">Sets the language of this app</string>
+    <string name="help_us_translate_explain">Your contribution is highly appreciated</string>
+    <string name="remember_last_played_details">Sound and stop time</string>
+    <string name="play_preview_details">Try before real playing</string>
+    <string name="keep_screen_on_details">Only works in Sounds screen</string>
+    <string name="add_or_remove_15_min">Add/remove 15 minutes</string>
+    <string name="ads_free_details">Remove all ads in app</string>
+    <string name="plus_nap_details">Take a nap without disturbance</string>
+    <string name="plus_control_alarm_length_details">In case alarm length too short</string>
+    <string name="plus_control_snooze_length_details">In case snooze length too short</string>
+    <string name="support_future_details">Your purchase will include all future premium features for free and will support the development</string>
+    <string name="be_the_fist_details">Include beta features</string>
+    <string name="one_time_payment">One-time payment</string>
+    <string name="one_time_payment_details">Purchase once and keep forever</string>
+    <string name="turn_on_DND_details">Only priority notifications can reach you</string>
+    <string name="bug_report">Bug report</string>
 </resources>
