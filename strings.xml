@@ -248,4 +248,5 @@
     <string name="one_time_payment_details">Purchase once and keep forever</string>
     <string name="turn_on_DND_details">Only priority notifications can reach you</string>
     <string name="bug_report">Bug report</string>
+    <string name="nap_timer">Nap timer</string>
 </resources>
