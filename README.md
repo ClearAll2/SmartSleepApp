@@ -17,6 +17,9 @@ Smart Sleep is an Android app that can calculate sleep cycle so you can estimate
   <img src="screenshots/8.png" alt="sp8"  height="350px"/>
 </p>
 
+## Demo
+Watch [demo](https://youtu.be/s382DU-VxZ0)
+
 ## Features
 - [Sleep Calculator](calculator.md)
 - [Sleep Sounds](sounds.md)
