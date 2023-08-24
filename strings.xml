@@ -1,16 +1,17 @@
 <resources>
-    <string name="currentVer">New app icon.\nAdd Alarm vibration.\nImprove user interface.</string>
-    <string name="version5">Add F.A.Q.\nAdd a new option for Calculator.\nRevamp calculation result UI.\nImprove UI for large screen devices.</string>
-    <string name="version4">Add Nap (beta for plus users only).\nImprove user experience.</string>
-    <string name="version3">Support Vietnamese.\nAlarms will no longer be canceled when you reboot device.\nImprove performance and app size.\nImprove user experience.\nFixed: a bug of play/stop button.\nFixed: a bug of purchase button.</string>
-    <string name="version2">New \"Set alarm\" button.\nNew changelog section.\nAdd 2 new sleep sounds.\nImprove user experience.\nFixed: \"remember last played\" setting.</string>
-    <string name="version1">Fixed: same alarm time bug. \nMinor UI changes.</string>
+    <string name="currentVer">Fixed: crash of Nap timer.\nFixed: wrong value of alarm length.\nImprove user experience.</string>
+    <string name="version5">New app icon.\nAdd Alarm vibration.\nImprove user interface.</string>
+    <string name="version4">Add F.A.Q.\nAdd a new option for Calculator.\nRevamp calculation result UI.\nImprove UI for large screen devices.</string>
+    <string name="version3">Add Nap (beta for plus users only).\nImprove user experience.</string>
+    <string name="version2">Support Vietnamese.\nAlarms will no longer be canceled when you reboot device.\nImprove performance and app size.\nImprove user experience.\nFixed: a bug of play/stop button.\nFixed: a bug of purchase button.</string>
+    <string name="version1">New \"Set alarm\" button.\nNew changelog section.\nAdd 2 new sleep sounds.\nImprove user experience.\nFixed: \"remember last played\" setting.</string>
     <string name="app_name" translatable="false">Smart Sleep</string>
     <string name="icon_credit_text">Open link to Flaticon</string>
     <string name="sound_credit_text">Open link to Pixabay</string>
     <string name="privacy_text">Read our policy</string>
     <string name="contact_text">Contact us</string>
     <string name="rate_link" translatable="false">https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep</string>
+    <string name="bug_report_link" translatable="false">https://github.com/ClearAll2/SmartSleepApp/issues/new</string>
     <string name="privacy_link" translatable="false">https://clearall2.github.io/SmartSleepApp/privacy.html</string>
     <string name="contact_link" translatable="false">https://clearall2.github.io/SmartSleepApp/</string>
     <string name="icon_link" translatable="false">https://www.flaticon.com/free-icon/time_10609412?term=sleep&amp;page=1&amp;position=89&amp;origin=search&amp;related_id=10609412</string>
@@ -198,7 +199,7 @@
     <string name="nap_noti_text" translatable="false">Nap timer</string>
     <string name="plus_nap">Nap timer</string>
     <string name="turn_on_DND">Do Not Disturb for Nap</string>
-    <string name="permission_request_2">You need to allow DND access</string>
+    <string name="permission_request_2">You need to select Smart Sleep and allow DND access</string>
     <string name="permission_granted_2">Access granted.</string>
     <string name="permission_denied_2">Access not granted.</string>
     <string name="minus_15">Include time to fall asleep</string>
@@ -235,7 +236,7 @@
     <string name="language_explain">Sets the language of this app</string>
     <string name="help_us_translate_explain">Your contribution is highly appreciated</string>
     <string name="remember_last_played_details">Sound and stop time</string>
-    <string name="play_preview_details">Try before real playing</string>
+    <string name="play_preview_details">Turn on or off sounds preview</string>
     <string name="keep_screen_on_details">Only works in Sounds screen</string>
     <string name="add_or_remove_15_min">Add/remove 15 minutes</string>
     <string name="ads_free_details">Remove all ads in app</string>
@@ -249,4 +250,5 @@
     <string name="turn_on_DND_details">Only priority notifications can reach you</string>
     <string name="bug_report">Bug report</string>
     <string name="nap_timer">Nap timer</string>
+    <string name="rate_us">Rate on Play Store</string>
 </resources>
