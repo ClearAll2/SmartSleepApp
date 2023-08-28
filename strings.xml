@@ -1,10 +1,4 @@
 <resources>
-    <string name="currentVer">Fixed: crash of Nap timer.\nFixed: wrong value of alarm length.\nImprove user experience.</string>
-    <string name="version5">New app icon.\nAdd Alarm vibration.\nImprove user interface.</string>
-    <string name="version4">Add F.A.Q.\nAdd a new option for Calculator.\nRevamp calculation result UI.\nImprove UI for large screen devices.</string>
-    <string name="version3">Add Nap (beta for plus users only).\nImprove user experience.</string>
-    <string name="version2">Support Vietnamese.\nAlarms will no longer be canceled when you reboot device.\nImprove performance and app size.\nImprove user experience.\nFixed: a bug of play/stop button.\nFixed: a bug of purchase button.</string>
-    <string name="version1">New \"Set alarm\" button.\nNew changelog section.\nAdd 2 new sleep sounds.\nImprove user experience.\nFixed: \"remember last played\" setting.</string>
     <string name="app_name" translatable="false">Smart Sleep</string>
     <string name="icon_credit_text">Open link to Flaticon</string>
     <string name="sound_credit_text">Open link to Pixabay</string>
@@ -13,6 +7,7 @@
     <string name="rate_link" translatable="false">https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep</string>
     <string name="bug_report_link" translatable="false">https://github.com/ClearAll2/SmartSleepApp/issues/new</string>
     <string name="privacy_link" translatable="false">https://clearall2.github.io/SmartSleepApp/privacy.html</string>
+    <string name="changelog_link" translatable="false">https://clearall2.github.io/SmartSleepApp/changelog.html</string>
     <string name="contact_link" translatable="false">https://clearall2.github.io/SmartSleepApp/</string>
     <string name="icon_link" translatable="false">https://www.flaticon.com/free-icon/time_10609412?term=sleep&amp;page=1&amp;position=89&amp;origin=search&amp;related_id=10609412</string>
     <string name="icon_link_2" translatable="false">https://www.flaticon.com/free-icon/zzz_595082?term=sleep&amp;page=1&amp;position=18&amp;origin=search&amp;related_id=595082</string>
@@ -250,5 +245,5 @@
     <string name="turn_on_DND_details">Only priority notifications can reach you</string>
     <string name="bug_report">Bug report</string>
     <string name="nap_timer">Nap timer</string>
-    <string name="rate_us">Rate on Play Store</string>
+    <string name="rate_us">Rate Smart Sleep</string>
 </resources>
