@@ -39,6 +39,9 @@ Why should you get Smart Sleep+ (one-time payment):
 - Support future development
 - Be the first one to get latest features
 
+## Changelog
+Read app [changelog](changelog.md)
+
 ## Privacy policy
 Read our privacy policy [here](privacy.md)
 
