@@ -1,4 +1,5 @@
 # Changelog
+We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
 ## 0.3.4 (Beta)
 - Replace in-app changelog by web's changelog.
