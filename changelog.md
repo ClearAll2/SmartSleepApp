@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.4 (Beta)
+- Replace in-app changelog by web's changelog.
+- Add app color option.
+
 ## 0.3.3
 - Fixed: crash of Nap timer.
 - Fixed: wrong value of alarm length.
