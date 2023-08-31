@@ -246,4 +246,15 @@
     <string name="bug_report">Bug report</string>
     <string name="nap_timer">Nap timer</string>
     <string name="rate_us">Rate Smart Sleep</string>
+    <string name="dislay">Display</string>
+    <string name="Default">Default</string>
+    <string name="dynamic">Dynamic</string>
+    <string name="app_color">Color</string>
+    <string name="choose_app_color">Choose color</string>
+    <string name="pastel1" translatable="false">Pastel</string>
+    <string name="defaultPlus">Default+</string>
+    <string name="plus_color">More app color</string>
+    <string name="plus_color_details">Get more amazing colors for Smart Sleep</string>
+    <string name="retro" translatable="false">Retro</string>
+    <string name="vintage" translatable="false">Vintage</string>
 </resources>
