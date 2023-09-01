@@ -249,8 +249,10 @@
     <string name="dislay">Display</string>
     <string name="Default">Default</string>
     <string name="dynamic">Dynamic</string>
-    <string name="app_color">Color</string>
-    <string name="choose_app_color">Choose color</string>
+    <string name="dark_color">Dark color</string>
+    <string name="light_color">Light color</string>
+    <string name="choose_app_color">Choose dark color</string>
+    <string name="choose_app_light_color">Choose light color</string>
     <string name="pastel1" translatable="false">Pastel</string>
     <string name="defaultPlus">Default+</string>
     <string name="plus_color">More app color</string>
