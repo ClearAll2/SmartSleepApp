@@ -241,7 +241,7 @@
     <string name="support_future_details">Your purchase will include all future premium features for free and will support the development</string>
     <string name="be_the_fist_details">Include beta features</string>
     <string name="one_time_payment">One-time payment</string>
-    <string name="one_time_payment_details">Purchase once and keep forever</string>
+    <string name="one_time_payment_details">Pay once and keep forever</string>
     <string name="turn_on_DND_details">Only priority notifications can reach you</string>
     <string name="bug_report">Bug report</string>
     <string name="nap_timer">Nap timer</string>
@@ -249,14 +249,16 @@
     <string name="dislay">Display</string>
     <string name="Default">Default</string>
     <string name="dynamic">Dynamic</string>
-    <string name="dark_color">Dark color</string>
-    <string name="light_color">Light color</string>
-    <string name="choose_app_color">Choose dark color</string>
-    <string name="choose_app_light_color">Choose light color</string>
+    <string name="dark_color">Dark theme</string>
+    <string name="light_color">Light theme</string>
+    <string name="choose_app_color">Choose dark theme</string>
+    <string name="choose_app_light_color">Choose light theme</string>
     <string name="pastel1" translatable="false">Pastel</string>
     <string name="defaultPlus">Default+</string>
-    <string name="plus_color">More app color</string>
-    <string name="plus_color_details">Get more amazing colors for Smart Sleep</string>
+    <string name="plus_color">More themes</string>
+    <string name="plus_color_details">Unlock more amazing themes for Smart Sleep</string>
     <string name="retro" translatable="false">Retro</string>
     <string name="vintage" translatable="false">Vintage</string>
+    <string name="plus_remember_details">No need to select sound and stop timer every time you sleep</string>
+    <string name="plus_control_preview_details">No more annoyance</string>
 </resources>
