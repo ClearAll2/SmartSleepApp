@@ -9,8 +9,6 @@ The terms in this document apply to the following properties:
 
 All content on this website and related properties is provided on an as-is basis without warranty of any kind. By using our application, you agree that we are not liable for any potential harm, damages, or other negative effects resulting from your use of applications. Use our applications at your own risk.
 
-We reserve the right to refuse service to anyone for any reason.
-
 ## Apps on Play Store
 
 If you download our applications from the Google Play Store, you are granted a single license to the software for personal use only. This license is non-transferable and non-exclusive; you may not share your license for any of our applications with other users under any circumstances. You may, however, purchase multiple licenses that can be shared with others on a per-individual basis. In such cases, this agreement applies independently to each individual.
