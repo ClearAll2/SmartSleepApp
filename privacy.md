@@ -1,4 +1,6 @@
 # Privacy policy
+This document details how we use your personal information on this website and our applications. Please read it carefully before using our applications, along with the [Terms of Service](terms.md). If you do not fully understand and agree to both this document (“Privacy Policy”) and the Terms of Service, you may not use any of our applications.
+
 Our Privacy Policy is very simple, short and easy to understand, please read it carefully before using our application.
 
 ## Smart Sleep App
@@ -18,7 +20,10 @@ Our Privacy Policy is very simple, short and easy to understand, please read it 
 - This website does not use cookies.
 - This website does not access, collect, or transmit any data.
 
+## Updates
+We reserve the right to update this privacy policy at any time without notice. 
 
+## Contact
 If you have any questions or concerns about privacy policy, please contact us at [lkonle@proton.me](mailto:lkonle@proton.me).
 
-© 2023 [LKONLE](https://t.me/lkonle), and published to [Google Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep).
+© 2023 [LKONLE](mailto:lkonle@proton.me), and published to [Google Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep).
