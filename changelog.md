@@ -1,6 +1,13 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
+## 0.3.5
+- New "Cycle length" option.
+- Rework "Include time to fall asleep" option.
+- New "Enable quick actions" option (plus users only).
+- Now you call pull to refresh Calculator and Alarm screen.
+- Calculation result now shows sleep time in hour and minute.
+
 ## 0.3.4.3
 - Improve user experience.
 

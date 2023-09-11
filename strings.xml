@@ -43,8 +43,8 @@
     <string name="share_app">Share this app</string>
     <string name="bed_time">Bedtime</string>
     <string name="wake_up_time">Wake-up time</string>
-    <string name="the_average_human_time_to_sleep">The average human takes 15 minutes to fall asleep. We included that time when calculating your result.</string>
-    <string name="the_average_human_time_to_sleep_without_15">The average human takes 15 minutes to fall asleep.</string>
+    <string name="the_average_human_time_to_sleep">You need %s minutes to fall asleep. We included that time when calculating your result.</string>
+    <string name="the_average_human_time_to_sleep_without_15">You need %s minutes to fall asleep. We didn\'t include that time when calculating your result.</string>
     <string name="to_wake_up">To wake up refreshed at %1$s:%2$s, you need to sleep at one of the following times:</string>
     <string name="wake_in_90_min_cycle">If you wake up at one of these times, you’ll rise in between 90-minute sleep cycles.</string>
     <string name="sleep_in_90_min_cycle">If you sleep at one of these times, you’ll rise in between 90-minute sleep cycles.</string>
@@ -53,12 +53,12 @@
     <string name="suggested">Suggested</string>
     <string name="if_you_sleep_action">If you sleep at %1$s:%2$s, you\'ll get:</string>
     <string name="if_you_wakeup_action">If you wakeup at %1$s:%2$s, you\'ll get:</string>
-    <string name="sleep_time_details">%1$s sleep cycles, %2$s hours of sleep</string>
-    <string name="one_cycle_sleep_time_details">1 sleep cycle, %s hours of sleep</string>
+    <string name="sleep_time_details">%s sleep cycles</string>
+    <string name="one_cycle_sleep_time_details">1 sleep cycle</string>
     <string name="sleep_time_recommend_details">Healthy adults need at least seven hours of sleep per night. Babies, young children, and teens need even more sleep to enable their growth and development.</string>
     <string name="set_alarm">Set alarm</string>
-    <string name="cycles">%s cycles</string>
-    <string name="one_cycle">1 cycle?</string>
+    <string name="cycles">%s sleep cycles</string>
+    <string name="one_cycle">1 sleep cycle?</string>
     <string name="i_want_to_wake_up_at">I want to wake up at this time</string>
     <string name="i_want_to_sleep_at">I want to sleep at this time</string>
     <string name="calculate_bedtime_button_text">Calculate bedtime</string>
@@ -263,4 +263,14 @@
     <string name="plus_control_preview_details">No more annoyance</string>
     <string name="back_to_recalculate">Back to recalculate</string>
     <string name="back_to_recalculate_details">Use system\'s back button/gesture instead of recalculate button</string>
+    <string name="default_notification_channel_id" translatable="false">New Update</string>
+    <string name="cycle_length">Cycle length</string>
+    <string name="choose_cycle_length">Choose cycle length</string>
+    <string name="choose_tts_length">Choose time to fall asleep</string>
+    <string name="sleep_time_details_2">%1$sh %2$sm</string>
+    <string name="sleep_time_details_3">%sh</string>
+    <string name="use_qa">Enable quick actions</string>
+    <string name="use_qa_details">Show quick actions on top of calculation result</string>
+    <string name="plus_qa">Quick actions in calculation result</string>
+    <string name="plus_qa_details">No need to go back and forth between tabs to change cycle order and cycle length</string>
 </resources>
