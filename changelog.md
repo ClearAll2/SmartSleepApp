@@ -6,7 +6,7 @@ We’re always making changes and improvements to Smart Sleep. To make sure you 
 - Rework "Include time to fall asleep" option.
 - New "Enable quick actions" option (plus users only).
 - Now you call pull to refresh Calculator and Alarm screen.
-- Calculation result now shows sleep time in hour and minute.
+- Calculation results now show sleep time in hour and minute.
 
 ## 0.3.4.3
 - Improve user experience.
