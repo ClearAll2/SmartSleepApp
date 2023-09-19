@@ -1,7 +1,7 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
-## 0.3.6 (Beta)
+## 0.3.6
 - Now you can set alarm sound.
 
 ## 0.3.5
