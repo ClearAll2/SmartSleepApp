@@ -46,7 +46,10 @@ Why should you get Smart Sleep+ (one-time payment):
 Read app [changelog](changelog.md)
 
 ## Privacy policy
-Read our privacy policy [here](privacy.md)
+Read our [privacy policy](privacy.md)
+
+## Terms of service
+Read our [terms](terms.md)
 
 ## Found bugs?
 Submit issue [here](https://github.com/ClearAll2/SmartSleepApp/issues/new)
