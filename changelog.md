@@ -1,6 +1,9 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
+## 0.3.6.2 (Beta)
+- Improve user experience.
+
 ## 0.3.6.1
 - Improve user experience.
 - Fixed: performance issue from last update.
