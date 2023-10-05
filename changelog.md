@@ -1,6 +1,11 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
+## 0.3.7
+- Now you can choose between in-app alarm and system alarm.
+- Add a new option for Plus users.
+- Improve user experience.
+
 ## 0.3.6.5
 - Add in-app browser.
 - Improve user experience.
