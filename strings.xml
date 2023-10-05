@@ -7,12 +7,12 @@
     <string name="rate_link" translatable="false">https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep</string>
     <string name="bug_report_link" translatable="false">https://github.com/ClearAll2/SmartSleepApp/issues/new</string>
     <string name="privacy_link" translatable="false">https://clearall2.github.io/SmartSleepApp/privacy.html</string>
+    <string name="terms_link" translatable="false">https://clearall2.github.io/SmartSleepApp/terms.html</string>
     <string name="changelog_link" translatable="false">https://clearall2.github.io/SmartSleepApp/changelog.html</string>
     <string name="contact_link" translatable="false">https://clearall2.github.io/SmartSleepApp/</string>
     <string name="icon_link" translatable="false">https://www.flaticon.com/free-icon/time_10609412?term=sleep&amp;page=1&amp;position=89&amp;origin=search&amp;related_id=10609412</string>
-    <string name="icon_link_2" translatable="false">https://www.flaticon.com/free-icon/zzz_595082?term=sleep&amp;page=1&amp;position=18&amp;origin=search&amp;related_id=595082</string>
-    <string name="icon_link_3" translatable="false">https://www.flaticon.com/free-icon/music-note_8702617?term=sleep+note&amp;page=1&amp;position=8&amp;origin=search&amp;related_id=8702617</string>
-    <string name="icon_link_4" translatable="false">https://www.flaticon.com/free-icon/moon_865813?term=sleep&amp;page=1&amp;position=29&amp;origin=search&amp;related_id=865813</string>
+    <string name="icon_link_2" translatable="false">https://www.flaticon.com/free-sticker/alarm-clocks_7966483</string>
+    <string name="icon_link_3" translatable="false">https://www.flaticon.com/free-sticker/fixed_7966497</string>
     <string name="sound_link" translatable="false">https://pixabay.com/</string>
     <string name="time_picker_source_link" translatable="false">https://github.com/marosseleng/compose-material3-datetime-pickers</string>
     <string name="time_picker_source_subtext">Open link to Github</string>
@@ -27,9 +27,9 @@
     <string name="dkma_text" translatable="false">https://dontkillmyapp.com/</string>
     <string name="app_ver" translatable="false">x.x.x (build xx)</string>
     <string name="its_time">It\'s time!</string>
-    <string name="alarm_troubleshooting_tittle">Alarm Troubleshooting</string>
+    <string name="alarm_troubleshooting_tittle">In-app Alarm Troubleshooting</string>
     <string name="read_more">Read more</string>
-    <string name="see_below">See below on how you can fix it.</string>
+    <string name="see_below">See below on how you can fix it</string>
     <string name="ignore_bo">Ignore battery optimization</string>
     <string name="ignore_bo_details">Make sure that the app runs in the background to trigger alarms.</string>
     <string name="allow_background">Allow background activities</string>
@@ -46,8 +46,8 @@
     <string name="the_average_human_time_to_sleep">You need %s minutes to fall asleep. We included that time when calculating your result.</string>
     <string name="the_average_human_time_to_sleep_without_15">You need %s minutes to fall asleep. We didn\'t include that time when calculating your result.</string>
     <string name="to_wake_up">To wake up refreshed at %1$s:%2$s, you need to sleep at one of the following times:</string>
-    <string name="wake_in_90_min_cycle">If you wake up at one of these times, you’ll rise in between 90-minute sleep cycles.</string>
-    <string name="sleep_in_90_min_cycle">If you sleep at one of these times, you’ll rise in between 90-minute sleep cycles.</string>
+    <string name="wake_in_90_min_cycle">If you wake up at one of these times, you’ll rise in between %s-minute sleep cycles.</string>
+    <string name="sleep_in_90_min_cycle">If you sleep at one of these times, you’ll rise in between %s-minute sleep cycles.</string>
     <string name="to_sleep_now">If you sleep at %1$s:%2$s, you need to wake up at one of the following times:</string>
     <string name="a_good_sleep">A good sleep should consist of 5–6 complete sleep cycles.</string>
     <string name="suggested">Suggested</string>
@@ -86,7 +86,7 @@
     <string name="dark">Dark</string>
     <string name="system_default">System default</string>
     <string name="theme">Theme</string>
-    <string name="why_should_you">Get exclusive features and support us by unlocking Smart Sleep+</string>
+    <string name="why_should_you">Get exclusive features, support the development and enjoy the best experience</string>
     <string name="already_got">Great! You already own this.</string>
     <string name="unlock_all">Unlock all features and settings</string>
     <string name="plus_remember">Remember last played</string>
@@ -95,7 +95,7 @@
     <string name="plus_control_snooze_length">Control snooze length</string>
     <string name="support_future">Support future development</string>
     <string name="be_the_fist">Be the first one to get latest features</string>
-    <string name="get_plus">Unlock Smart Sleep+</string>
+    <string name="get_plus">Unlock for %s</string>
     <string name="thanks">Thanks for all the support given!</string>
     <string name="ads_free">Ads free</string>
     <string name="alarm">Alarm</string>
@@ -106,7 +106,7 @@
     <string name="cancel">Cancel</string>
     <string name="confirm">Confirm</string>
     <string name="delete">Delete</string>
-    <string name="alarm_troubleshooting_question">Alarms did not trigger?</string>
+    <string name="alarm_troubleshooting_question">In-app alarms did not trigger?</string>
     <string name="are_you_sure">Are you sure?</string>
     <string name="permanent_warning">This is permanent and can\'t be undone</string>
     <string name="delete_all_alarms">Delete all alarms?</string>
@@ -125,9 +125,6 @@
     <string name="not_scheduled">Not scheduled</string>
     <string name="app_ver_text">App version</string>
     <string name="sleep_icon_text">App icon created by Cap Cool</string>
-    <string name="zzz_text">ZZZ icon created by Freepik</string>
-    <string name="music_note_text">Music note icon created by Vector Stall</string>
-    <string name="moon_text">Moon icon created by Good Ware</string>
     <string name="sound_effect_text">Sound Effect files from Pixabay</string>
     <string name="privacy_tittle_text">Privacy Policy</string>
     <string name="dkma_tittle" translatable="false">Don\'t kill my app!</string>
@@ -201,8 +198,8 @@
     <string name="back">Back</string>
     <string name="calculate_again">Recalculate</string>
     <string name="faq">F.A.Q</string>
-    <string name="q1">What is the main function of this app?</string>
-    <string name="q1_a">The main function of this app is estimating the best time for you to sleep and wake up.</string>
+    <string name="q1">Can this app track my sleep?</string>
+    <string name="q1_a">Smart Sleep does not and will not have sleep tracking function. It consumes battery and causes privacy concern.</string>
     <string name="q2">What is a sleep cycle?</string>
     <string name="q2_a">A sleep cycle is a physiological process that occurs during sleep. It allows the brain and body to perform “housekeeping” functions, such as repairing or growing tissues, removing toxins, and processing memories. Each sleep cycle consists of four stages, with each having varying effects on the body. The first four stages make up our non-rapid eye movement (NREM) sleep, and the fifth stage is when rapid eye movement (REM) sleep occurs. A sleep cycle lasts about 90 minutes.</string>
     <string name="q3">What time should I go to sleep?</string>
@@ -234,7 +231,7 @@
     <string name="play_preview_details">Turn on or off sounds preview</string>
     <string name="keep_screen_on_details">Only works in Sounds screen</string>
     <string name="add_or_remove_15_min">15 minutes to fall asleep</string>
-    <string name="ads_free_details">Remove all ads in app</string>
+    <string name="ads_free_details">Enjoy an ad-free experience</string>
     <string name="plus_nap_details">Take a nap without disturbance</string>
     <string name="plus_control_alarm_length_details">In case alarm length too short</string>
     <string name="plus_control_snooze_length_details">In case snooze length too short</string>
@@ -246,7 +243,6 @@
     <string name="bug_report">Bug report</string>
     <string name="nap_timer">Nap timer</string>
     <string name="rate_us">Rate Smart Sleep</string>
-    <string name="dislay">Display</string>
     <string name="Default">Default</string>
     <string name="dynamic">Dynamic</string>
     <string name="dark_color">Dark theme</string>
@@ -255,8 +251,8 @@
     <string name="choose_app_light_color">Choose light theme</string>
     <string name="pastel1" translatable="false">Pastel</string>
     <string name="defaultPlus">Default+</string>
-    <string name="plus_color">More themes</string>
-    <string name="plus_color_details">Unlock more amazing themes for Smart Sleep</string>
+    <string name="plus_color">Amazing themes</string>
+    <string name="plus_color_details">Unlock more themes for Smart Sleep</string>
     <string name="retro" translatable="false">Retro</string>
     <string name="vintage" translatable="false">Vintage</string>
     <string name="plus_remember_details">No need to select sound and stop timer every time you sleep</string>
@@ -272,5 +268,21 @@
     <string name="use_qa">Enable quick actions</string>
     <string name="use_qa_details">Show quick actions on top of calculation result</string>
     <string name="plus_qa">Quick actions in calculation result</string>
-    <string name="plus_qa_details">No need to go back and forth between tabs to change cycle order and cycle length</string>
+    <string name="plus_qa_details">No need to go back and forth between tabs to change cycle order and time to fall asleep</string>
+    <string name="select_alarm_sound">Select alarm sound</string>
+    <string name="terms_and_privacy_notice">"By unlocking Smart Sleep+ you agree to the "</string>
+    <string name="and">" and "</string>
+    <string name="terms_tittle_text">Terms of Service</string>
+    <string name="title_activity_web_view" translatable="false">WebView</string>
+    <string name="open_default_browser">Open in default browser</string>
+    <string name="terms_details">Read our terms of service</string>
+    <string name="use_system_alarm">Use system alarm</string>
+    <string name="use_system_alarm_details">Stop using in-app alarm</string>
+    <string name="alarm_controlled_by_system">You are using default Clock app for alarm\nTap to open</string>
+    <string name="hide_alarm_tab">Hide Alarm tab</string>
+    <string name="hide_alarm_tab_details">Only works if system alarm is enabled</string>
+    <string name="confirm_use_system_alarm_details">This will turn off all scheduled in-app alarms.</string>
+    <string name="confirm_use_inapp_alarm_details">Please note that all scheduled alarms in default Clock app will stay untouched</string>
+    <string name="sticker_text">Alarm Clocks sticker created by GeekClick</string>
+    <string name="sticker2_text">Fixed free sticker created by GeekClick</string>
 </resources>
