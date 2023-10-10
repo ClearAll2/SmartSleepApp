@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_id" translatable="false">ca-app-pub-2561165301615368~7277859520</string>
+    <string name="ad_banner_1" translatable="false">ca-app-pub-2561165301615368/7716062972</string>
+    <string name="ad_banner_2" translatable="false">ca-app-pub-2561165301615368/1936272620</string>
+    <string name="ad_fullscreen" translatable="false">ca-app-pub-2561165301615368/7684468844</string>
+    <string name="rate_link" translatable="false">https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep</string>
+    <string name="bug_report_link" translatable="false">https://github.com/ClearAll2/SmartSleepApp/issues/new</string>
+    <string name="privacy_link" translatable="false">https://clearall2.github.io/SmartSleepApp/privacy.html</string>
+    <string name="terms_link" translatable="false">https://clearall2.github.io/SmartSleepApp/terms.html</string>
+    <string name="changelog_link" translatable="false">https://clearall2.github.io/SmartSleepApp/changelog.html</string>
+    <string name="contact_link" translatable="false">https://clearall2.github.io/SmartSleepApp/</string>
+    <string name="icon_link" translatable="false">https://www.flaticon.com/free-icon/time_10609412?term=sleep&amp;page=1&amp;position=89&amp;origin=search&amp;related_id=10609412</string>
+    <string name="icon_link_2" translatable="false">https://www.flaticon.com/free-sticker/alarm-clocks_7966483</string>
+    <string name="icon_link_3" translatable="false">https://www.flaticon.com/free-sticker/fixed_7966497</string>
+    <string name="sound_link" translatable="false">https://pixabay.com/</string>
+    <string name="app_name" translatable="false">Smart Sleep</string>
+    <string name="time_picker_source_link" translatable="false">https://github.com/marosseleng/compose-material3-datetime-pickers</string>
+    <string name="time_picker_source_text" translatable="false">M3 Jetpack Compose Datetime pickers.</string>
+    <string name="csb_source_text" translatable="false">Circular SeekBar</string>
+    <string name="csb_source_link" translatable="false">https://github.com/ningyuv/CircularSeekBar?ref=androidexample365.com</string>
+    <string name="sleep_time_recommend" translatable="false">https://www.sleepfoundation.org/how-sleep-works/how-much-sleep-do-we-really-need</string>
+    <string name="title_activity_battery_opt_tip" translatable="false">AlarmTroubleshoot</string>
+    <string name="dkma_text" translatable="false">https://dontkillmyapp.com/</string>
+    <string name="app_ver" translatable="false">x.x.x (build xx)</string>
+    <string name="dkma_tittle" translatable="false">Don\'t kill my app!</string>
+    <string name="copy_right_text" translatable="false">© 2023 LKONLE</string>
+    <string name="nap_note_link" translatable="false">https://www.sleepfoundation.org/sleep-hygiene/napping#:~:text=In%20general%2C%20the%20best%20nap,grogginess%20and%20actually%20worsen%20sleepiness.</string>
+    <string name="nap_noti_text" translatable="false">Nap timer</string>
+    <string name="sleep_foundation_link" translatable="false">https://www.sleepfoundation.org/</string>
+    <string name="plus" translatable="false">Plus</string>
+    <string name="pastel1" translatable="false">Pastel</string>
+    <string name="retro" translatable="false">Retro</string>
+    <string name="vintage" translatable="false">Vintage</string>
+    <string name="default_notification_channel_id" translatable="false">New Update</string>
+    <string name="title_activity_web_view" translatable="false">WebView</string>
+</resources>
