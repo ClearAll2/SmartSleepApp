@@ -1,6 +1,11 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
+## 0.3.7.1
+- Support Japanese, Korean, Chinese, Russian, Spanish, Portuguese, Italian, German, French and Dutch.
+- Now you can snooze alarm for one more sleep cycle.
+- Improve user experience.
+
 ## 0.3.7
 - Now you can choose between in-app alarm and system alarm.
 - Add a new option for Plus users.
