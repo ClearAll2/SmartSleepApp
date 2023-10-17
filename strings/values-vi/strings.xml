@@ -272,4 +272,6 @@
     <string name="min_cycle">Số lượng chu kỳ tối thiểu để hiển thị</string>
     <string name="choose_max_cycle">Chọn số lượng tối đa chu kỳ</string>
     <string name="choose_min_cycle">Chọn số lượng tối thiểu chu kỳ</string>
+    <string name="why_should_you_short">Mở khóa và tận hưởng trải nghiệm Smart Sleep tốt nhất</string>
+    <string name="get_plus_title">Nâng cấp lên Smart Sleep+</string>
 </resources>

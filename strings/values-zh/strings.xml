@@ -279,4 +279,6 @@
     <string name="min_cycle">显示的最小周期数量</string>
     <string name="choose_max_cycle">选择最大循环</string>
     <string name="choose_min_cycle">选择最小循环</string>
+    <string name="why_should_you_short">解锁并享受最佳Smart Sleep体验</string>
+    <string name="get_plus_title">升级到 Smart Sleep+</string>
 </resources>

@@ -272,4 +272,6 @@
     <string name="min_cycle">表示するサイクルの最小数</string>
     <string name="choose_max_cycle">最大サイクルを選択してください</string>
     <string name="choose_min_cycle">最小サイクルを選択してください</string>
+    <string name="why_should_you_short">最高の Smart Sleep エクスペリエンスをアンロックして楽しんでください</string>
+    <string name="get_plus_title">アップグレード Smart Sleep +</string>
 </resources>
