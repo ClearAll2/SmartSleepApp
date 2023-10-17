@@ -2,7 +2,7 @@
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
 ## 0.3.7.2
-- Fixed: scheduled alarms were not updated after stop and snooze time had been changed.
+- Fixed: The app did not update scheduled alarms after changing stop and snooze time.
 
 ## 0.3.7.1
 - Support Japanese, Korean, Chinese, Russian, Spanish, Portuguese, Italian, German, French and Dutch.
