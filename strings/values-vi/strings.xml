@@ -39,7 +39,7 @@
     <string name="one_cycle_sleep_time_details">1 chu kỳ giấc ngủ</string>
     <string name="sleep_time_recommend_details">Người trưởng thành khỏe mạnh cần ngủ ít nhất bảy tiếng mỗi đêm. Trẻ sơ sinh, trẻ nhỏ và thanh thiếu niên thậm chí cần ngủ nhiều hơn để có thể tăng trưởng và phát triển.</string>
     <string name="set_alarm">Đặt báo thức</string>
-    <string name="cycles">%s chu kỳ giấc ngủ</string>
+    <string name="sleep_cycles">%s chu kỳ giấc ngủ</string>
     <string name="one_cycle">1 chu kỳ giấc ngủ</string>
     <string name="i_want_to_wake_up_at">Tôi muốn thức dậy giờ này</string>
     <string name="i_want_to_sleep_at">Tôi muốn ngủ giờ này</string>
@@ -268,4 +268,8 @@
     <string name="ja">Tiếng Nhật</string>
     <string name="ko">Tiếng Hàn</string>
     <string name="zh">Tiếng Trung</string>
+    <string name="max_cycle">Số lượng chu kỳ tối đa để hiển thị</string>
+    <string name="min_cycle">Số lượng chu kỳ tối thiểu để hiển thị</string>
+    <string name="choose_max_cycle">Chọn số lượng tối đa chu kỳ</string>
+    <string name="choose_min_cycle">Chọn số lượng tối thiểu chu kỳ</string>
 </resources>

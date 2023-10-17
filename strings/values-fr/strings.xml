@@ -39,8 +39,8 @@
     <string name="one_cycle_sleep_time_details">1 cycle de sommeil</string>
     <string name="sleep_time_recommend_details">Les adultes en santé ont besoin d\'au moins sept heures de sommeil par nuit. Les bébés, les jeunes enfants et les adolescents ont besoin de encore plus de sommeil pour favoriser leur croissance et leur développement.</string>
     <string name="set_alarm">Définir une alarme</string>
-    <string name="cycles">%s cycles de sommeil</string>
-    <string name="one_cycle">1 cycle de sommeil ?</string>
+    <string name="sleep_cycles">%s cycles de sommeil</string>
+    <string name="one_cycle">1 cycle de sommeil</string>
     <string name="i_want_to_wake_up_at">Je veux me réveiller à cette heure</string>
     <string name="i_want_to_sleep_at">Je veux dormir à cette heure</string>
     <string name="calculate_bedtime_button_text">Calculer l\'heure du coucher</string>
@@ -249,8 +249,8 @@ Gérez le stress</string>
     <string name="plus_qa">Actions rapides dans le résultat de calcul</string>
     <string name="plus_qa_details">Pas besoin d\'aller de tab en tab pour changer l\'ordre de cycle et le temps pour s\'endormir</string>
     <string name="select_alarm_sound">Sélectionner le son d\'alarme</string>
-    <string name="terms_and_privacy_notice">En déverrouillant Smart Sleep+, vous acceptez le </string>
-    <string name="and"> et </string>
+    <string name="terms_and_privacy_notice">"En déverrouillant Smart Sleep+, vous acceptez le "</string>
+    <string name="and">" et "</string>
     <string name="terms_tittle_text">Conditions générales d\'utilisation</string>
     <string name="open_default_browser">Ouvrir dans le navigateur par défaut</string>
     <string name="terms_details">Lisez nos conditions d\'utilisation</string>
@@ -275,4 +275,8 @@ Gérez le stress</string>
     <string name="ja">Japonais</string>
     <string name="ko">Coréen</string>
     <string name="zh">Chinois</string>
+    <string name="max_cycle">Nombre maximum de cycles à afficher</string>
+    <string name="min_cycle">Montant minimum de cycles à afficher</string>
+    <string name="choose_max_cycle">Choisir le cycle maximum</string>
+    <string name="choose_min_cycle">Choisissez le cycle minimum</string>
 </resources>

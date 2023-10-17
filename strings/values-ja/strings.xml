@@ -39,8 +39,8 @@
     <string name="one_cycle_sleep_time_details">1サイクルの睡眠</string>
     <string name="sleep_time_recommend_details">健康な成人は、毎晩少なくとも7時間の睡眠が必要です。赤ちゃん、幼児、および10代の若者は、成長と発達を促進するためにさらに多くの睡眠が必要です。</string>
     <string name="set_alarm">アラームをセットする</string>
-    <string name="cycles">%sの睡眠サイクル</string>
-    <string name="one_cycle">1つの睡眠サイクル？</string>
+    <string name="sleep_cycles">%sの睡眠サイクル</string>
+    <string name="one_cycle">1つの睡眠サイクル</string>
     <string name="i_want_to_wake_up_at">私はこの時間に起きたいです</string>
     <string name="i_want_to_sleep_at">この時間に寝たいです</string>
     <string name="calculate_bedtime_button_text">就寝時間を計算する</string>
@@ -242,8 +242,8 @@
     <string name="plus_qa">計算結果のクイックアクション</string>
     <string name="plus_qa_details">サイクルの順序や入眠時間を変更するためにタブ間を行き来する必要はありません</string>
     <string name="select_alarm_sound">アラーム音を選択してください</string>
-    <string name="terms_and_privacy_notice">Smart Sleep+ をアンロックすることで、同意します</string>
-    <string name="and"> と </string>
+    <string name="terms_and_privacy_notice">"Smart Sleep+ をアンロックすることで、同意します "</string>
+    <string name="and">" と "</string>
     <string name="terms_tittle_text">利用規約</string>
     <string name="open_default_browser">デフォルトのブラウザで開く</string>
     <string name="terms_details">利用規約を読んでください</string>
@@ -268,4 +268,8 @@
     <string name="ja">日本語</string>
     <string name="ko">韓国人</string>
     <string name="zh">中国語</string>
+    <string name="max_cycle">表示するサイクルの最大数</string>
+    <string name="min_cycle">表示するサイクルの最小数</string>
+    <string name="choose_max_cycle">最大サイクルを選択してください</string>
+    <string name="choose_min_cycle">最小サイクルを選択してください</string>
 </resources>

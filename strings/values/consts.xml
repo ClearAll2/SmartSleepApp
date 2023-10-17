@@ -34,4 +34,5 @@
     <string name="vintage" translatable="false">Vintage</string>
     <string name="default_notification_channel_id" translatable="false">New Update</string>
     <string name="title_activity_web_view" translatable="false">WebView</string>
+    <string name="empty_string_with_param" translatable="false">%s</string>
 </resources>

@@ -39,8 +39,8 @@
     <string name="one_cycle_sleep_time_details">1 цикл сна</string>
     <string name="sleep_time_recommend_details">Здоровым взрослым необходимо спать как минимум семь часов в ночь. Младенцам, маленьким детям и подросткам нужно спать еще больше, чтобы обеспечить их рост и развитие.</string>
     <string name="set_alarm">Установить будильник</string>
-    <string name="cycles">%s циклов сна</string>
-    <string name="one_cycle">1 цикл сна?</string>
+    <string name="sleep_cycles">%s циклов сна</string>
+    <string name="one_cycle">1 цикл сна</string>
     <string name="i_want_to_wake_up_at">Я хочу проснуться в этот момент</string>
     <string name="i_want_to_sleep_at">Я хочу спать в это время</string>
     <string name="calculate_bedtime_button_text">Рассчитать время сна</string>
@@ -242,8 +242,8 @@
     <string name="plus_qa">Быстрые действия в результате вычисления</string>
     <string name="plus_qa_details">Нет необходимости переключаться между вкладками, чтобы изменить порядок цикла и время для засыпания</string>
     <string name="select_alarm_sound">Выберите звук будильника</string>
-    <string name="terms_and_privacy_notice">Разблокируя Smart Sleep+, вы соглашаетесь с </string>
-    <string name="and"> и </string>
+    <string name="terms_and_privacy_notice">"Разблокируя Smart Sleep+, вы соглашаетесь с "</string>
+    <string name="and">" и "</string>
     <string name="terms_tittle_text">Условия использования</string>
     <string name="open_default_browser">Открыть в браузере по умолчанию</string>
     <string name="terms_details">Прочитайте наши условия обслуживания</string>
@@ -268,4 +268,8 @@
     <string name="ja">Японский</string>
     <string name="ko">Корейский</string>
     <string name="zh">Китайский</string>
+    <string name="max_cycle">Максимальное количество циклов для отображения</string>
+    <string name="min_cycle">Минимальное количество циклов для отображения</string>
+    <string name="choose_max_cycle">Выберите максимальный цикл</string>
+    <string name="choose_min_cycle">Выбрать минимальный цикл</string>
 </resources>

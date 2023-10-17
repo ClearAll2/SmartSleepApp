@@ -39,8 +39,8 @@
     <string name="one_cycle_sleep_time_details">1 ciclo de sueño</string>
     <string name="sleep_time_recommend_details">Los adultos sanos necesitan al menos siete horas de sueño por noche. Los bebés, los niños pequeños y los adolescentes necesitan aún más sueño para facilitar su crecimiento y desarrollo.</string>
     <string name="set_alarm">Configurar alarma</string>
-    <string name="cycles">%s ciclos de sueño</string>
-    <string name="one_cycle">¿1 ciclo de sueño?</string>
+    <string name="sleep_cycles">%s ciclos de sueño</string>
+    <string name="one_cycle">¿1 ciclo de sueño</string>
     <string name="i_want_to_wake_up_at">Quiero despertar a esta hora</string>
     <string name="i_want_to_sleep_at">Quiero dormir a esta hora</string>
     <string name="calculate_bedtime_button_text">Calcular la hora de acostarse</string>
@@ -242,8 +242,8 @@
     <string name="plus_qa">Acciones rápidas en el resultado del cálculo</string>
     <string name="plus_qa_details">No es necesario ir de un lado a otro entre pestañas para cambiar el orden del ciclo y el tiempo para dormirse</string>
     <string name="select_alarm_sound">Seleccionar sonido de alarma</string>
-    <string name="terms_and_privacy_notice">Al desbloquear Smart Sleep+ aceptas los </string>
-    <string name="and"> y </string>
+    <string name="terms_and_privacy_notice">"Al desbloquear Smart Sleep+ aceptas los "</string>
+    <string name="and">" y "</string>
     <string name="terms_tittle_text">Términos de servicio</string>
     <string name="open_default_browser">Abrir en el navegador predeterminado</string>
     <string name="terms_details">Lee nuestros términos de servicio</string>
@@ -268,4 +268,8 @@
     <string name="ja">Japonés</string>
     <string name="ko">Coreano</string>
     <string name="zh">Chino</string>
+    <string name="max_cycle">Cantidad máxima de ciclos a mostrar</string>
+    <string name="min_cycle">Mínima cantidad de ciclos para mostrar</string>
+    <string name="choose_max_cycle">Elige ciclo máximo</string>
+    <string name="choose_min_cycle">Elige el ciclo mínimo</string>
 </resources>

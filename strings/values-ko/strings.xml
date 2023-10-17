@@ -39,8 +39,8 @@
     <string name="one_cycle_sleep_time_details">1 수면 주기</string>
     <string name="sleep_time_recommend_details">건강한 성인은 하루에 최소 7시간의 수면이 필요합니다. 아기, 어린이, 청소년들은 성장과 발달을 위해 더 많은 수면이 필요합니다.</string>
     <string name="set_alarm">알람 설정</string>
-    <string name="cycles">%s 수면 사이클</string>
-    <string name="one_cycle">1 개의 수면 사이클?</string>
+    <string name="sleep_cycles">%s 수면 사이클</string>
+    <string name="one_cycle">1 개의 수면 사이클</string>
     <string name="i_want_to_wake_up_at">나는 이 시간에 일어나고 싶다</string>
     <string name="i_want_to_sleep_at">나는 이 시간에 자고 싶어요</string>
     <string name="calculate_bedtime_button_text">취침 시간 계산</string>
@@ -242,8 +242,8 @@
     <string name="plus_qa">계산 결과에서 빠른 조치</string>
     <string name="plus_qa_details">주기 순서 및 잠들기까지의 시간을 변경하려면 탭 사이를 왔다갔다할 필요가 없습니다.</string>
     <string name="select_alarm_sound">알람 사운드 선택</string>
-    <string name="terms_and_privacy_notice"> Smart Sleep+을(를) 잠금 해제하면 동의합니다. </string>
-    <string name="and"> 와 </string>
+    <string name="terms_and_privacy_notice">"Smart Sleep+을(를) 잠금 해제하면 동의합니다 "</string>
+    <string name="and">" 와 "</string>
     <string name="terms_tittle_text">서비스 약관</string>
     <string name="open_default_browser">기본 브라우저로 열기</string>
     <string name="terms_details">서비스 약관을 읽어보세요</string>
@@ -268,4 +268,8 @@
     <string name="ja">일본어</string>
     <string name="ko">한국어</string>
     <string name="zh">중국어</string>
+    <string name="max_cycle">표시할 주기의 최대 금액</string>
+    <string name="min_cycle">표시할 최소 주기량</string>
+    <string name="choose_max_cycle">최대 사이클 선택</string>
+    <string name="choose_min_cycle">최소 주기 선택</string>
 </resources>

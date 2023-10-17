@@ -39,8 +39,8 @@
     <string name="one_cycle_sleep_time_details">1 ciclo de sono</string>
     <string name="sleep_time_recommend_details">Adultos saudáveis precisam de pelo menos sete horas de sono por noite. Bebês, crianças pequenas e adolescentes precisam de ainda mais sono para permitir seu crescimento e desenvolvimento.</string>
     <string name="set_alarm">Definir alarme</string>
-    <string name="cycles">%s ciclos de sono</string>
-    <string name="one_cycle">1 ciclo de sono?</string>
+    <string name="sleep_cycles">%s ciclos de sono</string>
+    <string name="one_cycle">1 ciclo de sono</string>
     <string name="i_want_to_wake_up_at">Eu quero acordar neste horário</string>
     <string name="i_want_to_sleep_at">Quero dormir a essa hora</string>
     <string name="calculate_bedtime_button_text">Calcular hora de dormir</string>
@@ -242,8 +242,8 @@
     <string name="plus_qa">Ações rápidas no resultado do cálculo</string>
     <string name="plus_qa_details">Não é necessário ir para frente e para trás entre guias para alterar a ordem do ciclo e o tempo para adormecer</string>
     <string name="select_alarm_sound">Selecionar som do alarme</string>
-    <string name="terms_and_privacy_notice">Ao desbloquear Smart Sleep+ você concorda com o</string>
-    <string name="and"> e </string>
+    <string name="terms_and_privacy_notice">"Ao desbloquear Smart Sleep+ você concorda com o "</string>
+    <string name="and">" e "</string>
     <string name="terms_tittle_text">Termos de Serviço</string>
     <string name="open_default_browser">Abrir no navegador padrão</string>
     <string name="terms_details">Leia nossos termos de serviço</string>
@@ -268,4 +268,8 @@
     <string name="ja">Japonês</string>
     <string name="ko">Coreano</string>
     <string name="zh">Chinês</string>
+    <string name="max_cycle">Quantidade máxima de ciclos para exibir</string>
+    <string name="min_cycle">Quantidade mínima de ciclos a exibir</string>
+    <string name="choose_max_cycle">Escolha o ciclo máximo</string>
+    <string name="choose_min_cycle">Escolha o ciclo mínimo</string>
 </resources>

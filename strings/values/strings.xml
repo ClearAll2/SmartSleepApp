@@ -38,8 +38,8 @@
     <string name="one_cycle_sleep_time_details">1 sleep cycle</string>
     <string name="sleep_time_recommend_details">Healthy adults need at least seven hours of sleep per night. Babies, young children, and teens need even more sleep to enable their growth and development.</string>
     <string name="set_alarm">Set alarm</string>
-    <string name="cycles">%s sleep cycles</string>
-    <string name="one_cycle">1 sleep cycle?</string>
+    <string name="sleep_cycles">%s sleep cycles</string>
+    <string name="one_cycle">1 sleep cycle</string>
     <string name="i_want_to_wake_up_at">I want to wake up at this time</string>
     <string name="i_want_to_sleep_at">I want to sleep at this time</string>
     <string name="calculate_bedtime_button_text">Calculate bedtime</string>
@@ -241,8 +241,8 @@
     <string name="plus_qa">Quick actions in calculation result</string>
     <string name="plus_qa_details">No need to go back and forth between tabs to change cycle order and time to fall asleep</string>
     <string name="select_alarm_sound">Select alarm sound</string>
-    <string name="terms_and_privacy_notice">By unlocking Smart Sleep+ you agree to the </string>
-    <string name="and"> and </string>
+    <string name="terms_and_privacy_notice">"By unlocking Smart Sleep+ you agree to the "</string>
+    <string name="and">" and "</string>
     <string name="terms_tittle_text">Terms of Service</string>
     <string name="open_default_browser">Open in default browser</string>
     <string name="terms_details">Read our terms of service</string>
@@ -267,4 +267,8 @@
     <string name="ja">Japanese</string>
     <string name="ko">Korean</string>
     <string name="zh">Chinese</string>
+    <string name="max_cycle">Maximum amount of cycle to display</string>
+    <string name="min_cycle">Minimum amount of cycle to display</string>
+    <string name="choose_max_cycle">Choose maximum cycle</string>
+    <string name="choose_min_cycle">Choose minimum cycle</string>
 </resources>

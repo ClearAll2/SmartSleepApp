@@ -39,8 +39,8 @@
     <string name="one_cycle_sleep_time_details">1个睡眠周期</string>
     <string name="sleep_time_recommend_details">健康的成年人每晚至少需要七个小时的睡眠。婴儿、幼儿和青少年需要更多的睡眠来促进他们的成长和发育。</string>
     <string name="set_alarm">设置闹钟</string>
-    <string name="cycles">%s个睡眠周期</string>
-    <string name="one_cycle">1个睡眠周期?</string>
+    <string name="sleep_cycles">%s个睡眠周期</string>
+    <string name="one_cycle">1个睡眠周期</string>
     <string name="i_want_to_wake_up_at">我想在这个时间醒来</string>
     <string name="i_want_to_sleep_at">我想在这个时间睡觉</string>
     <string name="calculate_bedtime_button_text">计算入睡时间</string>
@@ -249,8 +249,8 @@
     <string name="plus_qa">计算结果中的快速操作</string>
     <string name="plus_qa_details">无需在标签之间来回切换以更改循环顺序和入睡时间</string>
     <string name="select_alarm_sound">选择闹钟声音</string>
-    <string name="terms_and_privacy_notice"> 通过解锁 Smart Sleep+ 您同意 </string>
-    <string name="and"> 和 </string>
+    <string name="terms_and_privacy_notice">"通过解锁 Smart Sleep+ 您同意 "</string>
+    <string name="and">" 和 "</string>
     <string name="terms_tittle_text">服务条款</string>
     <string name="open_default_browser">在默认浏览器中打开</string>
     <string name="terms_details">阅读我们的服务条款</string>
@@ -275,4 +275,8 @@
     <string name="ja">日本语</string>
     <string name="ko">韩国人</string>
     <string name="zh">中文</string>
+    <string name="max_cycle">显示的最大循环次数</string>
+    <string name="min_cycle">显示的最小周期数量</string>
+    <string name="choose_max_cycle">选择最大循环</string>
+    <string name="choose_min_cycle">选择最小循环</string>
 </resources>

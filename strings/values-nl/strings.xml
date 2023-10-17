@@ -39,8 +39,8 @@
     <string name="one_cycle_sleep_time_details">1 slaapcyclus</string>
     <string name="sleep_time_recommend_details">Gezonde volwassenen hebben minstens zeven uur slaap per nacht nodig. Baby\'s, jonge kinderen en tieners hebben zelfs meer slaap nodig om hun groei en ontwikkeling te bevorderen.</string>
     <string name="set_alarm">Stel alarm in</string>
-    <string name="cycles">%s slaapcycli</string>
-    <string name="one_cycle">1 slaapcyclus?</string>
+    <string name="sleep_cycles">%s slaapcycli</string>
+    <string name="one_cycle">1 slaapcyclus</string>
     <string name="i_want_to_wake_up_at">Ik wil op dit tijdstip wakker worden</string>
     <string name="i_want_to_sleep_at">Ik wil op dit tijdstip slapen</string>
     <string name="calculate_bedtime_button_text">Bereken bedtijd</string>
@@ -242,8 +242,8 @@
     <string name="plus_qa">Snelkoppelingen in rekenresultaat</string>
     <string name="plus_qa_details">Geen noodzaak om heen en weer te gaan tussen tabbladen om de volgorde van de cyclus en de tijd om in slaap te vallen te veranderen</string>
     <string name="select_alarm_sound">Selecteer wekgeluid</string>
-    <string name="terms_and_privacy_notice">Door Smart Sleep+ te ontgrendelen ga je akkoord met de </string>
-    <string name="and"> en </string>
+    <string name="terms_and_privacy_notice">"Door Smart Sleep+ te ontgrendelen ga je akkoord met de "</string>
+    <string name="and">" en "</string>
     <string name="terms_tittle_text">Servicevoorwaarden</string>
     <string name="open_default_browser">Openen in standaard browser</string>
     <string name="terms_details">Lees onze gebruiksvoorwaarden</string>
@@ -268,4 +268,8 @@
     <string name="ja">Japans</string>
     <string name="ko">Koreaans</string>
     <string name="zh">Chinees</string>
+    <string name="max_cycle">Maximaal aantal cycli om weer te geven</string>
+    <string name="min_cycle">Minimum aantal cycli om weer te geven</string>
+    <string name="choose_max_cycle">Kies maximale cyclus</string>
+    <string name="choose_min_cycle">Kies de minimale cyclus</string>
 </resources>

@@ -39,8 +39,8 @@
     <string name="one_cycle_sleep_time_details">1 Schlafzyklus</string>
     <string name="sleep_time_recommend_details">Gesunde Erwachsene benötigen mindestens sieben Stunden Schlaf pro Nacht. Babys, Kleinkinder und Jugendliche benötigen sogar noch mehr Schlaf, um ihr Wachstum und ihre Entwicklung zu ermöglichen.</string>
     <string name="set_alarm">Wecker stellen</string>
-    <string name="cycles">%s Schlafzyklen</string>
-    <string name="one_cycle">1 Schlafzyklus?</string>
+    <string name="sleep_cycles">%s Schlafzyklen</string>
+    <string name="one_cycle">1 Schlafzyklus</string>
     <string name="i_want_to_wake_up_at">Ich möchte um diese Zeit aufwachen</string>
     <string name="i_want_to_sleep_at">Ich möchte zu dieser Zeit schlafen</string>
     <string name="calculate_bedtime_button_text">Berechne Bettzeit</string>
@@ -242,8 +242,8 @@
     <string name="plus_qa">Schnellaktionen im Berechnungsergebnis</string>
     <string name="plus_qa_details">Keine Notwendigkeit, zwischen Tabs hin und her zu wechseln, um die Reihenfolge der Zyklen und die Einschlafzeit zu ändern</string>
     <string name="select_alarm_sound">Weckerklang auswählen</string>
-    <string name="terms_and_privacy_notice">Durch das Entsperren von Smart Sleep+ stimmen Sie den </string>
-    <string name="and"> und </string>
+    <string name="terms_and_privacy_notice">"Durch das Entsperren von Smart Sleep+ stimmen Sie den "</string>
+    <string name="and">" und "</string>
     <string name="terms_tittle_text">Nutzungsbedingungen</string>
     <string name="open_default_browser">In Standardbrowser öffnen</string>
     <string name="terms_details">Lesen Sie unsere Nutzungsbedingungen</string>
@@ -268,4 +268,8 @@
     <string name="ja">Japanisch</string>
     <string name="ko">Koreanisch</string>
     <string name="zh">Chinesisch</string>
+    <string name="max_cycle">Maximale Anzahl der anzuzeigenden Zyklen</string>
+    <string name="min_cycle">Mindestmenge an Zyklus zum Anzeigen</string>
+    <string name="choose_max_cycle">Wählen Sie maximalen Zyklus</string>
+    <string name="choose_min_cycle">Mindestzyklus auswählen</string>
 </resources>
