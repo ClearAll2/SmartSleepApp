@@ -36,4 +36,8 @@ As such, a string of characters is translatable if preceded by `>` and suceeded 
 
 If a directory exists for your target language, edit the _strings.xml_ file inside. Otherwise, create a directory following the naming convention described in [Structure](#structure). Inside, copy and paste _strings.xml_ in [default values folder](https://github.com/ClearAll2/SmartSleepApp/tree/main/strings/values) and edit.
 
-You are also welcome to correct existing translations. To do so, find the appropriate `string` tag in the localized _strings.xml_ file and edit its content. To submit a contribution for review, create a pull request. Thanks for your help!
+You are also welcome to correct existing translations. To do so, find the appropriate `string` tag in the localized _strings.xml_ file and edit its content. To submit a contribution for review, create a pull request. 
+
+Thanks for your help!
+
+© 2023 [LKONLE](mailto:lkonle@proton.me), and published to [Google Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep).
