@@ -1,6 +1,10 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
+## 0.3.7.5
+- Add 2 new Calculator options (Plus only): maximum and minimum amount of sleep cycle to display.
+- Bring back Plus section to Settings tab.
+
 ## 0.3.7.2
 - Fixed: The app did not update scheduled alarms after changing stop and snooze time.
 
