@@ -55,7 +55,7 @@ Read our [terms](terms.md)
 Submit issue [here](https://github.com/ClearAll2/SmartSleepApp/issues/new)
 
 ## Translation
-You can help me by translating text in [strings folder](https://github.com/ClearAll2/SmartSleepApp/tree/main/strings)
+Learn how to translate [here](translations.md)
 
 ## Support
 You can support me by downloading this app from [Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep) and sharing it to your friends.
