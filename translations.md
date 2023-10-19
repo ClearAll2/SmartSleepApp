@@ -1,4 +1,4 @@
-# Smart Sleep Translations
+# Translations
 
 This document details how you can contribute your translations for Smart Sleep.
 
