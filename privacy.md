@@ -15,7 +15,7 @@ Our Privacy Policy is very simple, short and easy to understand, please read it 
 - This app does not use Do Not Disturb access to collect any data.
 - This app does not use Notification permission to spam or show ads.
 
-## Display Info App
+## System Info App
 - This app does not collect, save, transmit key strokes when user types in this product itself and other applications.
 - This app does not access, collect, or transmit personal information (data that could be used to identify a person).
 - This app does not share or transmit the data that user created by using this app.
