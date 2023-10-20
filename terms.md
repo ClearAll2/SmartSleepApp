@@ -5,7 +5,7 @@ This document details how you may use this website and our applications. Please 
 The terms in this document apply to the following properties:
 - This website (smartsleep.site)
 - Smart Sleep app on Play Store
-- Display Info app on Play Store
+- System Info app on Play Store
 
 All content on this website and related properties is provided on an as-is basis without warranty of any kind. By using our application, you agree that we are not liable for any potential harm, damages, or other negative effects resulting from your use of applications. Use our applications at your own risk.
 
