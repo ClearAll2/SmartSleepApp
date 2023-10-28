@@ -1,6 +1,10 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
+## 0.3.7.7
+- Fixed: a display bug of Sounds screen .
+- Improve user experience.
+
 ## 0.3.7.6
 - Add Halloween theme.
 - Alarm screen's theme should now follow app theme.
