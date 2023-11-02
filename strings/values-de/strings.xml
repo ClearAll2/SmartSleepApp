@@ -274,4 +274,7 @@
     <string name="choose_min_cycle">Mindestzyklus auswählen</string>
     <string name="why_should_you_short">Entsperren und genießen Sie das beste Smart Sleep Erlebnis</string>
     <string name="get_plus_title">Upgrade auf Smart Sleep+</string>
+    <string name="alarm_volume">Lautstärke des Alarms</string>
+    <string name="alarm_volume_details">Lautstärke des Weckers in den Systemeinstellungen einstellen</string>
+    <string name="plus_more">Mehr Einstellungsoptionen</string>
 </resources>

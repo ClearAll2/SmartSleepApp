@@ -274,4 +274,7 @@
     <string name="choose_min_cycle">최소 주기 선택</string>
     <string name="why_should_you_short">최고의 Smart Sleep 경험을 해제하고 즐기십시오</string>
     <string name="get_plus_title">1 개 이상으로 업그레이드</string>
+    <string name="alarm_volume">알람 볼륨</string>
+    <string name="alarm_volume_details">시스템 설정에서 알람 볼륨 설정</string>
+    <string name="plus_more">더 많은 설정 옵션</string>
 </resources>

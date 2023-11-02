@@ -274,4 +274,7 @@
     <string name="choose_min_cycle">Elige el ciclo mínimo</string>
     <string name="why_should_you_short">Desbloquea y disfruta de la mejor experiencia Smart Sleep</string>
     <string name="get_plus_title">Mejora a Smart Sleep+</string>
+    <string name="alarm_volume">Volumen de la alarma</string>
+    <string name="alarm_volume_details">Configurar el volumen de la alarma en la configuración del sistema</string>
+    <string name="plus_more">Más opciones de configuración</string>
 </resources>

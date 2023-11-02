@@ -274,4 +274,7 @@
     <string name="choose_min_cycle">Kies de minimale cyclus</string>
     <string name="why_should_you_short">Ontgrendel en geniet van de beste Smart Sleep ervaring</string>
     <string name="get_plus_title">Upgrade naar Smart Sleep+</string>
+    <string name="alarm_volume">Alarm volume</string>
+    <string name="alarm_volume_details">Stel het volumeniveau van het alarm in bij systeeminstellingen</string>
+    <string name="plus_more">Meer instellingsopties</string>
 </resources>

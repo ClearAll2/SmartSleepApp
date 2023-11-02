@@ -273,4 +273,7 @@
     <string name="choose_min_cycle">Choose minimum cycle</string>
     <string name="why_should_you_short">Unlock and enjoy the best Smart Sleep experience</string>
     <string name="get_plus_title">Upgrade to Smart Sleep+</string>
+    <string name="alarm_volume">Alarm volume</string>
+    <string name="alarm_volume_details">Set alarm volume in system settings</string>
+    <string name="plus_more">More setting options</string>
 </resources>

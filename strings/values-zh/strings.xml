@@ -281,4 +281,7 @@
     <string name="choose_min_cycle">选择最小循环</string>
     <string name="why_should_you_short">解锁并享受最佳Smart Sleep体验</string>
     <string name="get_plus_title">升级到 Smart Sleep+</string>
+    <string name="alarm_volume">闹钟音量</string>
+    <string name="alarm_volume_details">在系统设置中设置闹钟音量</string>
+    <string name="plus_more">更多设置选项</string>
 </resources>

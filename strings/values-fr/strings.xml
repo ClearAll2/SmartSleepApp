@@ -281,4 +281,7 @@ Gérez le stress</string>
     <string name="choose_min_cycle">Choisissez le cycle minimum</string>
     <string name="why_should_you_short">Déverrouillez et profitez de la meilleure expérience Smart Sleep</string>
     <string name="get_plus_title">Mettre à niveau vers Smart Sleep+</string>
+    <string name="alarm_volume">Volume de l\'alarme</string>
+    <string name="alarm_volume_details">Définissez le volume de l\'alarme dans les paramètres système</string>
+    <string name="plus_more">Plus d\'options de réglage</string>
 </resources>

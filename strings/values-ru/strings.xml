@@ -274,4 +274,7 @@
     <string name="choose_min_cycle">Выбрать минимальный цикл</string>
     <string name="why_should_you_short">Разблокируйте и наслаждайтесь лучшим Smart Sleep опытом</string>
     <string name="get_plus_title">Обновить до Smart Sleep+</string>
+    <string name="alarm_volume">Громкость будильника</string>
+    <string name="alarm_volume_details">Установите громкость сигнала в системных настройках</string>
+    <string name="plus_more">Больше настроек</string>
 </resources>

@@ -274,4 +274,7 @@
     <string name="choose_min_cycle">最小サイクルを選択してください</string>
     <string name="why_should_you_short">最高の Smart Sleep エクスペリエンスをアンロックして楽しんでください</string>
     <string name="get_plus_title">アップグレード Smart Sleep +</string>
+    <string name="alarm_volume">アラーム音量</string>
+    <string name="alarm_volume_details">システム設定でアラームの音量を設定する</string>
+    <string name="plus_more">より多くの設定オプション</string>
 </resources>

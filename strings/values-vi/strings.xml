@@ -274,4 +274,7 @@
     <string name="choose_min_cycle">Chọn số lượng tối thiểu chu kỳ</string>
     <string name="why_should_you_short">Mở khóa và tận hưởng trải nghiệm Smart Sleep tốt nhất</string>
     <string name="get_plus_title">Nâng cấp lên Smart Sleep+</string>
+    <string name="alarm_volume">Âm lượng báo thức</string>
+    <string name="alarm_volume_details">Thay đổi âm lượng báo thức trong cài đặt hệ thống</string>
+    <string name="plus_more">Nhiều tùy chọn cài đặt hơn</string>
 </resources>

@@ -281,4 +281,7 @@ Gestisci lo stress</string>
     <string name="choose_min_cycle">Scegli il ciclo minimo</string>
     <string name="why_should_you_short">Sblocca e goditi la migliore esperienza Smart Sleep</string>
     <string name="get_plus_title">Aggiorna a Smart Sleep+</string>
+    <string name="alarm_volume">Volume allarme</string>
+    <string name="alarm_volume_details">Imposta il volume della sveglia nelle impostazioni di sistema</string>
+    <string name="plus_more">Altre opzioni di impostazione</string>
 </resources>
