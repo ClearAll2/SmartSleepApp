@@ -33,12 +33,16 @@ Watch [demo](https://youtu.be/s382DU-VxZ0)
 - Support large screen devices
 - No need internet connection
 
-This app contains ads but you can get rid of them by upgrading to Smart Sleep+
+For more features, you can upgrade to Smart Sleep+.
 
 ## Smart Sleep+
 Why should you get Smart Sleep+ (one-time payment):
-- Ads free
-- Unlock all settings and features
+- Nap timer
+- Amazing themes
+- Quick actions in calculation result
+- Remember last played
+- Control sleep sound preview
+- More setting options
 - Support future development
 - Be the first one to get latest features
 
