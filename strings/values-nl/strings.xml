@@ -277,4 +277,19 @@
     <string name="alarm_volume">Alarm volume</string>
     <string name="alarm_volume_details">Stel het volumeniveau van het alarm in bij systeeminstellingen</string>
     <string name="plus_more">Meer instellingsopties</string>
+    <string name="welcome">"Welkom bij "</string>
+    <string name="welcome_2">Beter slapen - Beter werken</string>
+    <string name="first_terms_and_privacy_notice">"Door verder te gaan, ga je akkoord met onze"</string>
+    <string name="skip">Overslaan</string>
+    <string name="onboard_sound_title">Sneller in slaap vallen</string>
+    <string name="onboard_sleep_title">Beter slapen</string>
+    <string name="onboard_alarm_details">Smart Sleep heeft in-app alarm, zodat je geen andere apps hoeft te openen.</string>
+    <string name="onboard_sleep_details">Smart Sleep helpt u de beste slaaptijd en -cyclus te vinden, zodat u efficiënt kunt slapen en verfrist kunt wakker worden.</string>
+    <string name="onboard_sound_details">Smart Sleep bevat ontspannings- en natuurgeluiden die je kunnen helpen sneller in slaap te vallen.</string>
+    <string name="general_sticker_text">Gratis sticker van Flaticon</string>
+    <string name="onboard_alarm_title">In-app alarm</string>
+    <string name="next">Volgende</string>
+    <string name="app_notification">App-melding</string>
+    <string name="notification">Notificatie</string>
+    <string name="notification_details">Notificaties van Smart Sleep beheren</string>
 </resources>

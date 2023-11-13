@@ -277,4 +277,19 @@
     <string name="alarm_volume">アラーム音量</string>
     <string name="alarm_volume_details">システム設定でアラームの音量を設定する</string>
     <string name="plus_more">より多くの設定オプション</string>
+    <string name="welcome">"ようこそ"</string>
+    <string name="welcome_2">より良く寝る - より良く働く</string>
+    <string name="first_terms_and_privacy_notice">「続けることで、当社の条件に同意するものと見なされます」</string>
+    <string name="skip">スキップ</string>
+    <string name="onboard_sound_title">より速く眠りにつく</string>
+    <string name="onboard_sleep_title">より良く眠る</string>
+    <string name="onboard_alarm_details">Smart Sleepにはアプリ内アラームがありますので、他のアプリを開く必要はありません。</string>
+    <string name="onboard_sleep_details">Smart Sleepは最適な睡眠時間とサイクルを見つけるのを助けますので、効率的に睡眠をとり、さわやかに目覚めることができます。</string>
+    <string name="onboard_sound_details">Smart Sleepにはリラックスや自然の音があります。これらはより早く眠りにつくのに役立ちます。</string>
+    <string name="general_sticker_text">Flaticonからの無料ステッカー</string>
+    <string name="onboard_alarm_title">アプリ内アラーム</string>
+    <string name="next">次へ</string>
+    <string name="app_notification">アプリの通知</string>
+    <string name="notification">通知</string>
+    <string name="notification_details">「Smart Sleepの通知を制御する」</string>
 </resources>

@@ -277,4 +277,19 @@
     <string name="alarm_volume">Lautstärke des Alarms</string>
     <string name="alarm_volume_details">Lautstärke des Weckers in den Systemeinstellungen einstellen</string>
     <string name="plus_more">Mehr Einstellungsoptionen</string>
+    <string name="welcome">"Willkommen bei "</string>
+    <string name="welcome_2">Besser schlafen - Besser arbeiten</string>
+    <string name="first_terms_and_privacy_notice">"Durch die weitere Nutzung stimmen Sie unseren "</string>
+    <string name="skip">Überspringen</string>
+    <string name="onboard_sound_title">Schneller einschlafen</string>
+    <string name="onboard_sleep_title">Besser schlafen</string>
+    <string name="onboard_alarm_details">Smart Sleep verfügt über In-App-Alarm, sodass Sie keine anderen Apps öffnen müssen.</string>
+    <string name="onboard_sleep_details">Smart Sleep hilft Ihnen, die beste Schlafzeit und Schlafzyklus zu finden, damit Sie effizient schlafen und erfrischt aufwachen können.</string>
+    <string name="onboard_sound_details">Smart Sleep hat Entspannungs- und Naturgeräusche, die Ihnen helfen können, schneller einzuschlafen.</string>
+    <string name="general_sticker_text">Kostenloser Aufkleber von Flaticon</string>
+    <string name="onboard_alarm_title">In-App-Alarm</string>
+    <string name="next">Weiter</string>
+    <string name="app_notification">App-Benachrichtigung</string>
+    <string name="notification">Benachrichtigung</string>
+    <string name="notification_details">Benachrichtigungen von Smart Sleep steuern</string>
 </resources>

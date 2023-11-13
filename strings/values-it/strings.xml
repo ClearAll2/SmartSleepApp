@@ -284,4 +284,19 @@ Gestisci lo stress</string>
     <string name="alarm_volume">Volume allarme</string>
     <string name="alarm_volume_details">Imposta il volume della sveglia nelle impostazioni di sistema</string>
     <string name="plus_more">Altre opzioni di impostazione</string>
+    <string name="welcome">"Benvenuti su "</string>
+    <string name="welcome_2">Dormi meglio - Lavora meglio</string>
+    <string name="first_terms_and_privacy_notice">"Continuando, accetti le nostre "</string>
+    <string name="skip">Salta</string>
+    <string name="onboard_sound_title">Addormentarsi più velocemente</string>
+    <string name="onboard_sleep_title">Dormi meglio</string>
+    <string name="onboard_alarm_details">Smart Sleep dispone di un allarme integrato nell\'app, quindi non è necessario aprire altre app.</string>
+    <string name="onboard_sleep_details">Smart Sleep ti aiuta a trovare il miglior tempo e ciclo di sonno, così puoi dormire in modo efficiente e svegliarti riposato.</string>
+    <string name="onboard_sound_details">Smart Sleep ha suoni di relax e natura che possono aiutarti ad addormentarti più velocemente.</string>
+    <string name="general_sticker_text">Adesivo gratuito da Flaticon</string>
+    <string name="onboard_alarm_title">Sveglia in-app</string>
+    <string name="next">Successivo</string>
+    <string name="app_notification">Notifica dell\'app</string>
+    <string name="notification">Notifica</string>
+    <string name="notification_details">Controlla le notifiche di Smart Sleep</string>
 </resources>

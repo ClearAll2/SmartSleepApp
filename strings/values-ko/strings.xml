@@ -277,4 +277,19 @@
     <string name="alarm_volume">알람 볼륨</string>
     <string name="alarm_volume_details">시스템 설정에서 알람 볼륨 설정</string>
     <string name="plus_more">더 많은 설정 옵션</string>
+    <string name="welcome">"환영합니다"</string>
+    <string name="welcome_2">잘자 - 잘 일하다</string>
+    <string name="first_terms_and_privacy_notice">"계속하면 저희의" 에 동의하십시오.</string>
+    <string name="skip">건너뛰기</string>
+    <string name="onboard_sound_title">빨리 잠들다</string>
+    <string name="onboard_sleep_title">더 잘 자다</string>
+    <string name="onboard_alarm_details">Smart Sleep에는 앱 내 알람이 있어서 다른 앱을 열 필요가 없습니다.</string>
+    <string name="onboard_sleep_details">Smart Sleep는 최상의 수면 시간과 사이클을 찾아줘서 효율적으로 잠을 자고, 상쾌하게 일어날 수 있게 도와줍니다.</string>
+    <string name="onboard_sound_details">Smart Sleep는 수면에 도움을 줄 수 있는 휴식과 자연 소리가 있습니다.</string>
+    <string name="general_sticker_text">Flaticon으로부터 무료 스티커</string>
+    <string name="onboard_alarm_title">앱 내 알람</string>
+    <string name="next">다음</string>
+    <string name="app_notification">앱 알림</string>
+    <string name="notification">알림</string>
+    <string name="notification_details">알림 제어 Smart Sleep</string>
 </resources>

@@ -276,4 +276,19 @@
     <string name="alarm_volume">Alarm volume</string>
     <string name="alarm_volume_details">Set alarm volume in system settings</string>
     <string name="plus_more">More setting options</string>
+    <string name="welcome">"Welcome to "</string>
+    <string name="welcome_2">Sleep better - Work better</string>
+    <string name="first_terms_and_privacy_notice">"By continuing, you agree to our "</string>
+    <string name="onboard_sleep_title">Sleep better</string>
+    <string name="onboard_sleep_details">Smart Sleep helps you find the best sleep time and cycle, so you can sleep efficiently, and wake up refreshed.</string>
+    <string name="onboard_sound_title">Fall asleep faster</string>
+    <string name="onboard_sound_details">Smart Sleep has relaxation and nature sounds which can help you fall asleep faster.</string>
+    <string name="onboard_alarm_title">In-app alarm</string>
+    <string name="onboard_alarm_details">Smart Sleep has in-app alarm so you do not have to open other apps.</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="general_sticker_text">Free sticker from Flaticon</string>
+    <string name="app_notification">App notification</string>
+    <string name="notification">Notification</string>
+    <string name="notification_details">Control notifications of Smart Sleep</string>
 </resources>

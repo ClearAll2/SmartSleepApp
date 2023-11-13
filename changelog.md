@@ -1,6 +1,13 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
+## 0.3.8
+- Remove all ads in app.
+- Add notification setting option.
+- Improve alarm notification screen.
+- Fixed: Triggered alarms are enabled after a system reboot.
+- Fixed: Changing the stop/snooze time can cause the app to crash in a rare case.
+
 ## 0.3.7.9
 - Add 'Alarm volume' setting option.
 - Improve Sounds tab.

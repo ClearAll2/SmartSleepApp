@@ -284,4 +284,19 @@
     <string name="alarm_volume">闹钟音量</string>
     <string name="alarm_volume_details">在系统设置中设置闹钟音量</string>
     <string name="plus_more">更多设置选项</string>
+    <string name="welcome">"欢迎来到"</string>
+    <string name="welcome_2">睡得更好 - 工作得更好</string>
+    <string name="first_terms_and_privacy_notice">继续前进，即表示您同意我们的</string>
+    <string name="skip">跳过</string>
+    <string name="onboard_sound_title">更快入睡</string>
+    <string name="onboard_sleep_title">睡得更好</string>
+    <string name="onboard_alarm_details">Smart Sleep有内置闹钟，所以您不需要打开其他应用程序。</string>
+    <string name="onboard_sleep_details">Smart Sleep 帮助您找到最佳的睡眠时间和周期，从而让您能高效入睡并精神焕发地醒来。</string>
+    <string name="onboard_sound_details">Smart Sleep 拥有放松和自然的声音，可以帮助您更快入睡。</string>
+    <string name="general_sticker_text">来自Flaticon的免费贴纸</string>
+    <string name="onboard_alarm_title">应用内警报</string>
+    <string name="next">下一页</string>
+    <string name="app_notification">应用通知</string>
+    <string name="notification">通知</string>
+    <string name="notification_details">控制Smart Sleep的通知</string>
 </resources>

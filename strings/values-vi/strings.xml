@@ -277,4 +277,19 @@
     <string name="alarm_volume">Âm lượng báo thức</string>
     <string name="alarm_volume_details">Thay đổi âm lượng báo thức trong cài đặt hệ thống</string>
     <string name="plus_more">Nhiều tùy chọn cài đặt hơn</string>
+    <string name="welcome">"Chào mừng đến với "</string>
+    <string name="welcome_2">Ngủ ngon hơn - Làm tốt hơn</string>
+    <string name="first_terms_and_privacy_notice">"Bằng việc tiếp tục, bạn đồng ý với "</string>
+    <string name="onboard_sleep_title">Ngủ tốt hơn</string>
+    <string name="onboard_sleep_details">Smart Sleep giúp bạn tìm thời gian ngủ và chu kỳ ngủ tốt nhất, vì thế bạn có thể ngủ một cách hiệu quả và thức dậy sảng khoái.</string>
+    <string name="onboard_sound_title">Chìm vào giấc ngủ nhanh hơn</string>
+    <string name="onboard_sound_details">Smart Sleep có âm thanh tự nhiên và âm thanh giấc ngủ, có thể giúp bạn chìm vào giấc ngủ nhanh hơn.</string>
+    <string name="onboard_alarm_title">Báo thức trong ứng dụng</string>
+    <string name="onboard_alarm_details">Smart Sleep có báo thức ngay trong ứng dụng vì thế bạn không cần mở các ứng dụng khác.</string>
+    <string name="skip">Bỏ qua</string>
+    <string name="next">Tiếp tục</string>
+    <string name="general_sticker_text">Sticker miễn phí từ Flaticon</string>
+    <string name="app_notification">Thông báo của ứng dụng</string>
+    <string name="notification">Thông báo</string>
+    <string name="notification_details">Kiểm soát các thông báo của Smart Sleep</string>
 </resources>
