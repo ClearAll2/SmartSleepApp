@@ -1,6 +1,9 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
+## 0.3.8.1
+- Improve user experience.
+
 ## 0.3.8
 - Remove all ads in app.
 - Add notification setting option.
