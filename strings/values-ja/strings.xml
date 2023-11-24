@@ -292,4 +292,7 @@
     <string name="app_notification">アプリの通知</string>
     <string name="notification">通知</string>
     <string name="notification_details">「Smart Sleepの通知を制御する」</string>
+    <string name="legal_info">法的情報</string>
+    <string name="turn_on_DND_details_2">通知が届くことはありません</string>
+    <string name="choose_dnd_type">Do Not Disturbのタイプを選択してください</string>
 </resources>

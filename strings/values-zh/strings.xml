@@ -299,4 +299,7 @@
     <string name="app_notification">应用通知</string>
     <string name="notification">通知</string>
     <string name="notification_details">控制Smart Sleep的通知</string>
+    <string name="legal_info">法律信息</string>
+    <string name="turn_on_DND_details_2">无法收到任何通知</string>
+    <string name="choose_dnd_type">选择免打扰类型</string>
 </resources>

@@ -292,4 +292,7 @@
     <string name="app_notification">App-melding</string>
     <string name="notification">Notificatie</string>
     <string name="notification_details">Notificaties van Smart Sleep beheren</string>
+    <string name="legal_info">Juridische informatie</string>
+    <string name="turn_on_DND_details_2">Geen meldingen kunnen u bereiken</string>
+    <string name="choose_dnd_type">Kies het type Niet storen</string>
 </resources>

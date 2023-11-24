@@ -292,4 +292,7 @@
     <string name="app_notification">Уведомление приложения</string>
     <string name="notification">Уведомление</string>
     <string name="notification_details">Управление уведомлениями Smart Sleep</string>
+    <string name="legal_info">Юридическая информация</string>
+    <string name="turn_on_DND_details_2">Вам не будут доставлены уведомления</string>
+    <string name="choose_dnd_type">Выберите тип режима "Не беспокоить"</string>
 </resources>

@@ -291,4 +291,7 @@
     <string name="app_notification">App notification</string>
     <string name="notification">Notification</string>
     <string name="notification_details">Control notifications of Smart Sleep</string>
+    <string name="legal_info">Legal Info</string>
+    <string name="turn_on_DND_details_2">No notifications can reach you</string>
+    <string name="choose_dnd_type">Choose Do Not Disturb type</string>
 </resources>

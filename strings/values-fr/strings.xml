@@ -299,4 +299,7 @@ Gérez le stress</string>
     <string name="app_notification">Notification de l\'application</string>
     <string name="notification">Notification</string>
     <string name="notification_details">Contrôler les notifications de Smart Sleep</string>
+    <string name="legal_info">Informations légales</string>
+    <string name="turn_on_DND_details_2">Aucune notification ne peut vous atteindre</string>
+    <string name="choose_dnd_type">Choisissez le type de Ne pas déranger</string>
 </resources>

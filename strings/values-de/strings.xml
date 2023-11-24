@@ -292,4 +292,7 @@
     <string name="app_notification">App-Benachrichtigung</string>
     <string name="notification">Benachrichtigung</string>
     <string name="notification_details">Benachrichtigungen von Smart Sleep steuern</string>
+    <string name="legal_info">Rechtliche Informationen</string>
+    <string name="turn_on_DND_details_2">Sie können keine Benachrichtigungen empfangen</string>
+    <string name="choose_dnd_type">Wähle den Nicht stören-Typ aus</string>
 </resources>

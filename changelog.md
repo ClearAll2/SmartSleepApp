@@ -1,6 +1,10 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
+## 0.3.8.2
+- Nap (Plus only): increase maximum nap time to 100 minutes, now you can choose Do Not Disturb type.
+- Improve user experience.
+
 ## 0.3.8.1
 - Improve user experience.
 
