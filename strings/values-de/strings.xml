@@ -295,4 +295,8 @@
     <string name="legal_info">Rechtliche Informationen</string>
     <string name="turn_on_DND_details_2">Sie können keine Benachrichtigungen empfangen</string>
     <string name="choose_dnd_type">Wähle den Nicht stören-Typ aus</string>
+    <string name="edit_alarm">Alarm bearbeiten</string>
+    <string name="save">Speichern</string>
+    <string name="inapp_alarm">In-App-Alarm</string>
+    <string name="system_alarm">Systemalarm</string>
 </resources>

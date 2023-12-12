@@ -295,4 +295,8 @@
     <string name="legal_info">Юридическая информация</string>
     <string name="turn_on_DND_details_2">Вам не будут доставлены уведомления</string>
     <string name="choose_dnd_type">Выберите тип режима "Не беспокоить"</string>
+    <string name="edit_alarm">Изменить будильник</string>
+    <string name="save">Сохранить</string>
+    <string name="inapp_alarm">Встроенная сигнализация</string>
+    <string name="system_alarm">Системная тревога</string>
 </resources>

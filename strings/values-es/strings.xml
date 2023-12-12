@@ -295,4 +295,8 @@
     <string name="legal_info">Información Legal</string>
     <string name="turn_on_DND_details_2">No se pueden recibir notificaciones</string>
     <string name="choose_dnd_type">Selecciona el tipo de No molestar</string>
+    <string name="edit_alarm">Editar alarma</string>
+    <string name="save">Guardar</string>
+    <string name="inapp_alarm">Alarma en la aplicación</string>
+    <string name="system_alarm">Alarma del sistema</string>
 </resources>

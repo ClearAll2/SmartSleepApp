@@ -295,4 +295,8 @@
     <string name="legal_info">Thông tin pháp lý</string>
     <string name="turn_on_DND_details_2">Không có thông báo nào sẽ được gửi đến bạn</string>
     <string name="choose_dnd_type">Chọn loại Không Làm Phiền</string>
+    <string name="edit_alarm">Thay đổi báo thức</string>
+    <string name="save">Lưu</string>
+    <string name="inapp_alarm">Báo thức ứng dụng</string>
+    <string name="system_alarm">Báo thức hệ thống</string>
 </resources>

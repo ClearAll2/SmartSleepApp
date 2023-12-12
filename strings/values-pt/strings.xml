@@ -295,4 +295,8 @@
     <string name="legal_info">Informações legais</string>
     <string name="turn_on_DND_details_2">Nenhuma notificação pode alcançá-lo</string>
     <string name="choose_dnd_type">Escolha o tipo Não perturbar</string>
+    <string name="edit_alarm">Editar Alarme</string>
+    <string name="save">Salvar</string>
+    <string name="inapp_alarm">Alarme no aplicativo</string>
+    <string name="system_alarm">Alarme do sistema</string>
 </resources>

@@ -302,4 +302,8 @@ Gestisci lo stress</string>
     <string name="legal_info">Informazioni legali</string>
     <string name="turn_on_DND_details_2">Nessuna notifica può raggiungerti</string>
     <string name="choose_dnd_type">Scegli il tipo di Non disturbare</string>
+    <string name="edit_alarm">Modifica allarme</string>
+    <string name="save">Salva</string>
+    <string name="inapp_alarm">Sveglia in-app</string>
+    <string name="system_alarm">Allarme di sistema</string>
 </resources>

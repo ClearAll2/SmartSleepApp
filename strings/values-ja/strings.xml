@@ -295,4 +295,8 @@
     <string name="legal_info">法的情報</string>
     <string name="turn_on_DND_details_2">通知が届くことはありません</string>
     <string name="choose_dnd_type">Do Not Disturbのタイプを選択してください</string>
+    <string name="edit_alarm">アラームを編集</string>
+    <string name="save">保存</string>
+    <string name="inapp_alarm">アプリ内アラーム</string>
+    <string name="system_alarm">システムアラーム</string>
 </resources>

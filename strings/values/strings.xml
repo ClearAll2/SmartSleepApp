@@ -294,4 +294,8 @@
     <string name="legal_info">Legal Info</string>
     <string name="turn_on_DND_details_2">No notifications can reach you</string>
     <string name="choose_dnd_type">Choose Do Not Disturb type</string>
+    <string name="edit_alarm">Edit Alarm</string>
+    <string name="save">Save</string>
+    <string name="inapp_alarm">In-app alarm</string>
+    <string name="system_alarm">System alarm</string>
 </resources>

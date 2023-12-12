@@ -295,4 +295,8 @@
     <string name="legal_info">Juridische informatie</string>
     <string name="turn_on_DND_details_2">Geen meldingen kunnen u bereiken</string>
     <string name="choose_dnd_type">Kies het type Niet storen</string>
+    <string name="edit_alarm">Alarm bewerken</string>
+    <string name="save">Opslaan</string>
+    <string name="inapp_alarm">In-app alarm</string>
+    <string name="system_alarm">Systeemalarm</string>
 </resources>
