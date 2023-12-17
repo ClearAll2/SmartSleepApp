@@ -1,6 +1,9 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
+## 0.3.9.1
+- Improve user experience.
+
 ## 0.3.9
 - New sleep sounds selection screen.
 - New set/edit alarm and alarm screen.
