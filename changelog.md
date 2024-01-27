@@ -1,6 +1,10 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
+## 0.3.9.4
+- Minor changes.
+- Improve user experience.
+
 ## 0.3.9.3
 - Minor changes.
 
