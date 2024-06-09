@@ -1,6 +1,10 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
+## 0.3.9.8 (137)
+- Fixed: incorrect color preview of "Dynamic" theme color.
+- Support Predictive Back Gesture (Android 13+).
+
 ## 0.3.9.7
 - New theme picker screen.
 
