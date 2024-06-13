@@ -1,33 +1,16 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
-## 0.3.9.8 (137)
-- Fixed: incorrect color preview of "Dynamic" theme color.
+## 0.3.9.8 (137 - 139)
+- Fixed: App crash if stopping sleep sounds from notification.
+- Fixed: incorrect color preview of "Dynamic" theme color (Android 12+).
 - Support Predictive Back Gesture (Android 13+).
 
 ## 0.3.9.7
 - New theme picker screen.
 
-## 0.3.9.6
+## 0.3.9.1 - 0.3.9.6
 - Minor changes.
-
-## 0.3.9.5
-- Minor changes.
-
-## 0.3.9.5
-- Minor changes.
-
-## 0.3.9.4
-- Minor changes.
-- Improve user experience.
-
-## 0.3.9.3
-- Minor changes.
-
-## 0.3.9.2
-- Improve user experience.
-
-## 0.3.9.1
 - Improve user experience.
 
 ## 0.3.9
@@ -35,11 +18,8 @@ We’re always making changes and improvements to Smart Sleep. To make sure you 
 - New set/edit alarm and alarm screen.
 - Improve user experience.
 
-## 0.3.8.2
+## 0.3.8.1 - 0.3.8.2
 - Nap (Plus only): increase maximum nap time to 100 minutes, now you can choose Do Not Disturb type.
-- Improve user experience.
-
-## 0.3.8.1
 - Improve user experience.
 
 ## 0.3.8
