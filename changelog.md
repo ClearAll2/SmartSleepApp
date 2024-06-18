@@ -1,9 +1,10 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
-## 0.3.9.8 (137 - 139)
+## 0.3.9.8 (137 - 141)
 - Fixed: App crash if stopping sleep sounds from notification.
 - Fixed: incorrect color preview of "Dynamic" theme color (Android 12+).
+- Add a new setting option.
 - Support Predictive Back Gesture (Android 13+).
 
 ## 0.3.9.7
