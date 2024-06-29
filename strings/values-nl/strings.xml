@@ -299,4 +299,7 @@
     <string name="save">Opslaan</string>
     <string name="inapp_alarm">In-app alarm</string>
     <string name="system_alarm">Systeemalarm</string>
+    <string name="others">Others</string>
+    <string name="save_nav_history">Save navigation history</string>
+    <string name="save_nav_history_details">Use back button/gesture to navigate to previous tab</string>
 </resources>

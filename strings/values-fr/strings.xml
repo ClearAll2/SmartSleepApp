@@ -306,4 +306,7 @@ Gérez le stress</string>
     <string name="save">Enregistrer</string>
     <string name="inapp_alarm">Alarme dans l\'application</string>
     <string name="system_alarm">Alarme système</string>
+    <string name="others">Others</string>
+    <string name="save_nav_history">Save navigation history</string>
+    <string name="save_nav_history_details">Use back button/gesture to navigate to previous tab</string>
 </resources>
