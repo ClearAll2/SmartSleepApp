@@ -299,7 +299,7 @@
     <string name="save">저장</string>
     <string name="inapp_alarm">앱 내 알람</string>
     <string name="system_alarm">시스템 알람</string>
-    <string name="others">Others</string>
-    <string name="save_nav_history">Save navigation history</string>
-    <string name="save_nav_history_details">Use back button/gesture to navigate to previous tab</string>
+    <string name="others">"기타"</string>
+    <string name="save_nav_history">"내비게이션 기록 저장"</string>
+    <string name="save_nav_history_details">"이전 탭으로 이동하려면 뒤로 가기 버튼/제스처를 사용하세요"</string>
 </resources>

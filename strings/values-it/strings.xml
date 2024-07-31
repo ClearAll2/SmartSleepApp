@@ -306,7 +306,7 @@ Gestisci lo stress</string>
     <string name="save">Salva</string>
     <string name="inapp_alarm">Sveglia in-app</string>
     <string name="system_alarm">Allarme di sistema</string>
-    <string name="others">Others</string>
-    <string name="save_nav_history">Save navigation history</string>
-    <string name="save_nav_history_details">Use back button/gesture to navigate to previous tab</string>
+    <string name="others">"Altri"</string>
+    <string name="save_nav_history">"Salva cronologia di navigazione"</string>
+    <string name="save_nav_history_details">"Usa il pulsante/gesto indietro per navigare alla scheda precedente"</string>
 </resources>
