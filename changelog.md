@@ -1,6 +1,9 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
+## 0.3.9.9 (143) (Coming soon)
+- Update translation.
+
 ## 0.3.9.8 (137 - 141)
 - Fixed: App crash if stopping sleep sounds from notification.
 - Fixed: incorrect color preview of "Dynamic" theme color (Android 12+).
@@ -101,7 +104,7 @@ We’re always making changes and improvements to Smart Sleep. To make sure you 
 
 ## 0.3.2
 - New app icon.
-- Add alarm vibrattion.
+- Add alarm vibration.
 - Improve user interface.
 
 ## 0.3.1
@@ -125,6 +128,6 @@ We’re always making changes and improvements to Smart Sleep. To make sure you 
 - New "Set Alarm" button.
 - New changelog section.
 - Add 2 new sleep sounds.
-- Imrpove user experience.
+- Improve user experience.
 - Fixed: "remember last played" setting.
 
