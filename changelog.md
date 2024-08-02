@@ -1,7 +1,7 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
-## 0.3.9.9 (143) (Coming soon)
+## 0.3.9.9 (143)
 - Update translation.
 
 ## 0.3.9.8 (137 - 141)
