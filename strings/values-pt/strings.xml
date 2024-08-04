@@ -302,4 +302,15 @@
     <string name="others">"Outros"</string>
     <string name="save_nav_history">"Salvar histórico de navegação"</string>
     <string name="save_nav_history_details">"Use o botão/gesto de voltar para navegar para a aba anterior"</string>
+    <string name="howling_wind">"Vento Uivante"</string>
+    <string name="lightning_sound">"Relâmpago"</string>
+    <string name="pencil_sound">"Lápis"</string>
+    <string name="crickets_sound">"Grilos e rãs"</string>
+    <string name="show_tab_name">"Mostrar nome da aba"</string>
+    <string name="show_tab_name_details">"Sempre mostrar todos os nomes das abas"</string>
+    <string name="download_complete">"Baixado com sucesso. Reiniciando o aplicativo em 3 segundos."</string>
+    <string name="downloading_update">"Baixando atualização…"</string>
+    <string name="not_download">"A atualização não será baixada"</string>
+    <string name="plus_sound">"Sons incríveis"</string>
+    <string name="plus_sound_details">"Desbloquear mais sons de sono"</string>
 </resources>

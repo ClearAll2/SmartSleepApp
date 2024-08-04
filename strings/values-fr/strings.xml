@@ -309,4 +309,15 @@ Gérez le stress</string>
     <string name="others">"Autres"</string>
     <string name="save_nav_history">"Enregistrer l\'historique de navigation"</string>
     <string name="save_nav_history_details">"Utilisez le bouton de retour/départ pour naviguer vers l\'onglet précédent"</string>
+    <string name="howling_wind">"Vent hurlant"</string>
+    <string name="lightning_sound">"Éclair"</string>
+    <string name="pencil_sound">"Crayon"</string>
+    <string name="crickets_sound">"Grillons et grenouilles"</string>
+    <string name="show_tab_name">"Afficher le nom de l\'onglet"</string>
+    <string name="show_tab_name_details">"Toujours afficher tous les noms d\'onglets"</string>
+    <string name="download_complete">"Téléchargé avec succès. Redémarrage de l\'application dans 3 secondes."</string>
+    <string name="downloading_update">"Téléchargement de la mise à jour…"</string>
+    <string name="not_download">"La mise à jour ne sera pas téléchargée"</string>
+    <string name="plus_sound">"Sons incroyables"</string>
+    <string name="plus_sound_details">"Débloquez plus de sons de sommeil"</string>
 </resources>

@@ -302,4 +302,15 @@
     <string name="others">"Другие"</string>
     <string name="save_nav_history">"Сохранить историю навигации"</string>
     <string name="save_nav_history_details">"Используйте кнопку/жест назад, чтобы вернуться к предыдущей вкладке"</string>
+    <string name="howling_wind">"Завывающий ветер"</string>
+    <string name="lightning_sound">"Молния"</string>
+    <string name="pencil_sound">"Карандаш"</string>
+    <string name="crickets_sound">"Сверчки и лягушки"</string>
+    <string name="show_tab_name">"Показать имя вкладки"</string>
+    <string name="show_tab_name_details">"Всегда показывать все названия вкладок"</string>
+    <string name="download_complete">"Загружено успешно. Перезапуск приложения через 3 секунды."</string>
+    <string name="downloading_update">"Загрузка обновления…"</string>
+    <string name="not_download">"Обновление не будет загружено"</string>
+    <string name="plus_sound">"Потрясающие звуки"</string>
+    <string name="plus_sound_details">"Откройте больше звуков для сна"</string>
 </resources>

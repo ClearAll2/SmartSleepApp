@@ -302,4 +302,15 @@
     <string name="others">Khác</string>
     <string name="save_nav_history">Lưu lịch sử điều hướng</string>
     <string name="save_nav_history_details">Sử dụng nút/cử chỉ quay lại để điều hướng đến tab trước</string>
+    <string name="pencil_sound">Bút chì</string>
+    <string name="crickets_sound">Dế và ếch</string>
+    <string name="howling_wind">Gió hú</string>
+    <string name="lightning_sound">Tiếng sét</string>
+    <string name="show_tab_name">Hiện tên thẻ</string>
+    <string name="show_tab_name_details">Luôn hiện tên của tất cả các thẻ</string>
+    <string name="not_download">Bản cập nhật sẽ không được tải</string>
+    <string name="downloading_update">Đang tải bản cập nhật…</string>
+    <string name="download_complete">Đã tải xong bản cập nhật thành công. Khởi động lại ứng dung trong 3 giây.</string>
+    <string name="plus_sound">Nhiều âm thanh tuyệt vời</string>
+    <string name="plus_sound_details">Mở khóa nhiều âm thanh giấc ngủ hơn</string>
 </resources>

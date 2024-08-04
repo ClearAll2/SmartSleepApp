@@ -301,4 +301,15 @@
     <string name="others">Others</string>
     <string name="save_nav_history">Save navigation history</string>
     <string name="save_nav_history_details">Use back button/gesture to navigate to previous tab</string>
+    <string name="pencil_sound">Pencil</string>
+    <string name="crickets_sound">Crickets and frogs</string>
+    <string name="howling_wind">Howling Wind</string>
+    <string name="lightning_sound">Lightning</string>
+    <string name="show_tab_name">Show tab name</string>
+    <string name="show_tab_name_details">Always show all tab names</string>
+    <string name="not_download">Update will not be downloaded</string>
+    <string name="downloading_update">Downloading update…</string>
+    <string name="download_complete">Downloaded successfully. Restarting app in 3 seconds.</string>
+    <string name="plus_sound">Amazing sounds</string>
+    <string name="plus_sound_details">Unlock more sleep sounds</string>
 </resources>

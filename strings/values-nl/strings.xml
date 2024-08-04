@@ -302,4 +302,15 @@
     <string name="others">"Overigen"</string>
     <string name="save_nav_history">"Navigatiegeschiedenis opslaan"</string>
     <string name="save_nav_history_details">"Gebruik de terugknop/gebaren om naar het vorige tabblad te navigeren"</string>
+    <string name="howling_wind">"Huilende Wind"</string>
+    <string name="lightning_sound">"Bliksem"</string>
+    <string name="pencil_sound">"Potlood"</string>
+    <string name="crickets_sound">"Krekels en kikkers"</string>
+    <string name="show_tab_name">"Tabbladnaam tonen"</string>
+    <string name="show_tab_name_details">"Altijd alle tabbalknamen weergeven"</string>
+    <string name="download_complete">"Succesvol gedownload. De app wordt opnieuw gestart in 3 seconden."</string>
+    <string name="downloading_update">"Update downloaden…"</string>
+    <string name="not_download">"Update zal niet worden gedownload"</string>
+    <string name="plus_sound">"Geweldige geluiden"</string>
+    <string name="plus_sound_details">"Ontgrendel meer slaapgeluiden"</string>
 </resources>

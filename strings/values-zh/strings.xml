@@ -309,4 +309,15 @@
     <string name="others">"其他"</string>
     <string name="save_nav_history">"保存导航历史"</string>
     <string name="save_nav_history_details">"使用返回按钮/手势导航到上一个标签页"</string>
+    <string name="howling_wind">"呼啸的风"</string>
+    <string name="lightning_sound">"闪电"</string>
+    <string name="pencil_sound">"铅笔"</string>
+    <string name="crickets_sound">"蟋蟀和青蛙"</string>
+    <string name="show_tab_name">"显示标签名称"</string>
+    <string name="show_tab_name_details">"始终显示所有选项卡名称"</string>
+    <string name="download_complete">"下载成功。应用将在 3 秒后重新启动。"</string>
+    <string name="downloading_update">"正在下载更新…"</string>
+    <string name="not_download">"更新将不会被下载"</string>
+    <string name="plus_sound">"惊人的声音"</string>
+    <string name="plus_sound_details">"解锁更多睡眠声音"</string>
 </resources>

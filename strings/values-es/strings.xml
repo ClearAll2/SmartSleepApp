@@ -302,4 +302,15 @@
     <string name="others">"Otros"</string>
     <string name="save_nav_history">"Guardar historial de navegación"</string>
     <string name="save_nav_history_details">"Utiliza el botón/gesto de retroceso para navegar a la pestaña anterior"</string>
+    <string name="howling_wind">"Viento Aullante"</string>
+    <string name="lightning_sound">"Relámpago"</string>
+    <string name="pencil_sound">"Lápiz"</string>
+    <string name="crickets_sound">"Grillos y ranas"</string>
+    <string name="show_tab_name">"Mostrar nombre de la pestaña"</string>
+    <string name="show_tab_name_details">"Mostrar siempre todos los nombres de las pestañas"</string>
+    <string name="download_complete">"Descargado con éxito. Reiniciando la aplicación en 3 segundos."</string>
+    <string name="downloading_update">"Descargando actualización…"</string>
+    <string name="not_download">"La actualización no se descargará"</string>
+    <string name="plus_sound">"Sonidos asombrosos"</string>
+    <string name="plus_sound_details">"Desbloquear más sonidos para dormir"</string>
 </resources>

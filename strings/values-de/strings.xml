@@ -302,4 +302,15 @@
     <string name="others">"Andere"</string>
     <string name="save_nav_history">"Navigationsverlauf speichern"</string>
     <string name="save_nav_history_details">"Verwenden Sie die Schaltfläche oder Geste „Zurück“, um zum vorherigen Tab zu navigieren"</string>
+    <string name="howling_wind">"Heulender Wind"</string>
+    <string name="lightning_sound">"Blitz"</string>
+    <string name="pencil_sound">"Bleistift"</string>
+    <string name="crickets_sound">"Grillen und Frösche"</string>
+    <string name="show_tab_name">"Tab-Namen anzeigen"</string>
+    <string name="show_tab_name_details">"Immer alle Tab-Namen anzeigen"</string>
+    <string name="download_complete">"Erfolgreich heruntergeladen. App wird in 3 Sekunden neu gestartet."</string>
+    <string name="downloading_update">"Update wird heruntergeladen…"</string>
+    <string name="not_download">"Update wird nicht heruntergeladen"</string>
+    <string name="plus_sound">"Erstaunliche Klänge"</string>
+    <string name="plus_sound_details">"Schalten Sie mehr Schlafgeräusche frei"</string>
 </resources>

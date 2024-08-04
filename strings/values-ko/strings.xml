@@ -302,4 +302,15 @@
     <string name="others">"기타"</string>
     <string name="save_nav_history">"내비게이션 기록 저장"</string>
     <string name="save_nav_history_details">"이전 탭으로 이동하려면 뒤로 가기 버튼/제스처를 사용하세요"</string>
+    <string name="howling_wind">"울부짖는 바람"</string>
+    <string name="lightning_sound">"번개"</string>
+    <string name="pencil_sound">"연필"</string>
+    <string name="crickets_sound">"귀뚜라미와 개구리"</string>
+    <string name="show_tab_name">"탭 이름 보기"</string>
+    <string name="show_tab_name_details">"항상 모든 탭 이름 보기"</string>
+    <string name="download_complete">"성공적으로 다운로드되었습니다. 3초 후에 앱이 재시작됩니다."</string>
+    <string name="downloading_update">"업데이트 다운로드 중…"</string>
+    <string name="not_download">"업데이트가 다운로드되지 않습니다"</string>
+    <string name="plus_sound">"놀라운 소리"</string>
+    <string name="plus_sound_details">"더 많은 수면 소리 잠금 해제"</string>
 </resources>

@@ -309,4 +309,15 @@ Gestisci lo stress</string>
     <string name="others">"Altri"</string>
     <string name="save_nav_history">"Salva cronologia di navigazione"</string>
     <string name="save_nav_history_details">"Usa il pulsante/gesto indietro per navigare alla scheda precedente"</string>
+    <string name="howling_wind">"Vento ululante"</string>
+    <string name="lightning_sound">"Fulmine"</string>
+    <string name="pencil_sound">"Matita"</string>
+    <string name="crickets_sound">"Grilli e rane"</string>
+    <string name="show_tab_name">"Mostra il nome della scheda"</string>
+    <string name="show_tab_name_details">"Mostra sempre tutti i nomi delle schede"</string>
+    <string name="download_complete">"Download completato con successo. Riavvio dell'app in 3 secondi."</string>
+    <string name="downloading_update">"Scaricamento aggiornamento…"</string>
+    <string name="not_download">"L'aggiornamento non verrà scaricato"</string>
+    <string name="plus_sound">"Suoni incredibili"</string>
+    <string name="plus_sound_details">"Sblocca più suoni per dormire"</string>
 </resources>
