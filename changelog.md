@@ -1,7 +1,7 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
-## 0.4.0.0 (148)
+## 0.4.0.0 (149) (Internal Beta)
 - Minor UI changes
 - Update translation.
 - Add more haptic feedback actions.
