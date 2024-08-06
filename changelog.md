@@ -1,13 +1,14 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
-## 0.4.0.0 (149) (Internal Beta)
+## 0.4.0.0 (149)
 - Minor UI changes
 - Update translation.
 - Add more haptic feedback actions.
 - Add a new setting option (Plus only).
 - Add new free sleep sounds: Lightning, Howling wind.
 - Add new Plus sleep sounds: Pencil, Crickets and frogs.
+- Improve user experience.
 
 ## 0.3.9.9 (143)
 - Update translation.
