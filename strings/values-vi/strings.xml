@@ -313,4 +313,7 @@
     <string name="download_complete">Đã tải xong bản cập nhật thành công. Khởi động lại ứng dung trong 3 giây.</string>
     <string name="plus_sound">Nhiều âm thanh tuyệt vời</string>
     <string name="plus_sound_details">Mở khóa nhiều âm thanh giấc ngủ hơn</string>
+    <string name="images_text">Các tệp hình ảnh lấy từ Pixabay</string>
+    <string name="turn_off_in_app_alarm">Tắt báo thức của ứng dụng</string>
+    <string name="turn_on_in_app_alarm">Bật báo thức của ứng dụng</string>
 </resources>

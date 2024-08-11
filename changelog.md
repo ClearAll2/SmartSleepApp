@@ -1,7 +1,12 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
-## 0.4.0.0 (149)
+## 0.4.1.0 (152)
+- New sleep sound picker UI.
+- New theme picker UI.
+- Improve user experience.
+
+## 0.4.0 (149)
 - Minor UI changes
 - Update translation.
 - Add more haptic feedback actions.

@@ -312,4 +312,7 @@
     <string name="download_complete">Downloaded successfully. Restarting app in 3 seconds.</string>
     <string name="plus_sound">Amazing sounds</string>
     <string name="plus_sound_details">Unlock more sleep sounds</string>
+    <string name="images_text">Image files from Pixabay</string>
+    <string name="turn_off_in_app_alarm">Turn off in-app alarm?</string>
+    <string name="turn_on_in_app_alarm">Turn on in-app alarm?</string>
 </resources>

@@ -320,4 +320,7 @@ Gérez le stress</string>
     <string name="not_download">"La mise à jour ne sera pas téléchargée"</string>
     <string name="plus_sound">"Sons incroyables"</string>
     <string name="plus_sound_details">"Débloquez plus de sons de sommeil"</string>
+    <string name="images_text">"Fichiers d\'image de Pixabay"</string>
+    <string name="turn_off_in_app_alarm">"Désactiver l\'alarme intégrée?"</string>
+    <string name="turn_on_in_app_alarm">"Activer l\'alarme dans l\'application ?"</string>
 </resources>

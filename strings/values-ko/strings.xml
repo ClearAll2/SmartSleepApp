@@ -313,4 +313,7 @@
     <string name="not_download">"업데이트가 다운로드되지 않습니다"</string>
     <string name="plus_sound">"놀라운 소리"</string>
     <string name="plus_sound_details">"더 많은 수면 소리 잠금 해제"</string>
+    <string name="images_text">"Pixabay에서의 이미지 파일"</string>
+    <string name="turn_off_in_app_alarm">"앱 내 알람을 끄시겠습니까?"</string>
+    <string name="turn_on_in_app_alarm">"앱 내 알람을 켜시겠습니까?"</string>
 </resources>

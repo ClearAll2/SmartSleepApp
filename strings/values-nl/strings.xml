@@ -313,4 +313,7 @@
     <string name="not_download">"Update zal niet worden gedownload"</string>
     <string name="plus_sound">"Geweldige geluiden"</string>
     <string name="plus_sound_details">"Ontgrendel meer slaapgeluiden"</string>
+    <string name="images_text">"Afbeeldingsbestanden van Pixabay"</string>
+    <string name="turn_off_in_app_alarm">"In-app alarm uitschakelen?"</string>
+    <string name="turn_on_in_app_alarm">"In-app alarm inschakelen?"</string>
 </resources>

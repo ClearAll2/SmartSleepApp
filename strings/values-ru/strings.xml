@@ -313,4 +313,7 @@
     <string name="not_download">"Обновление не будет загружено"</string>
     <string name="plus_sound">"Потрясающие звуки"</string>
     <string name="plus_sound_details">"Откройте больше звуков для сна"</string>
+    <string name="images_text">"Файлы изображений от Pixabay"</string>
+    <string name="turn_off_in_app_alarm">"Выключить будильник в приложении?"</string>
+    <string name="turn_on_in_app_alarm">"Включить будильник в приложении?"</string>
 </resources>

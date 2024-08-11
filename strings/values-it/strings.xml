@@ -320,4 +320,7 @@ Gestisci lo stress</string>
     <string name="not_download">"L'aggiornamento non verrà scaricato"</string>
     <string name="plus_sound">"Suoni incredibili"</string>
     <string name="plus_sound_details">"Sblocca più suoni per dormire"</string>
+    <string name="images_text">"File immagine da Pixabay"</string>
+    <string name="turn_off_in_app_alarm">"Spegnere l\'allarme dell\'app?"</string>
+    <string name="turn_on_in_app_alarm">"Attivare la sveglia nell\'app?"</string>
 </resources>

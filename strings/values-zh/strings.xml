@@ -320,4 +320,7 @@
     <string name="not_download">"更新将不会被下载"</string>
     <string name="plus_sound">"惊人的声音"</string>
     <string name="plus_sound_details">"解锁更多睡眠声音"</string>
+    <string name="images_text">"来自 Pixabay 的图像文件"</string>
+    <string name="turn_off_in_app_alarm">"关闭应用内闹钟？"</string>
+    <string name="turn_on_in_app_alarm">"打开应用内闹钟？"</string>
 </resources>

@@ -313,4 +313,7 @@
     <string name="not_download">"A atualização não será baixada"</string>
     <string name="plus_sound">"Sons incríveis"</string>
     <string name="plus_sound_details">"Desbloquear mais sons de sono"</string>
+    <string name="images_text">"Arquivos de imagem de Pixabay"</string>
+    <string name="turn_off_in_app_alarm">"Desativar o alarme no aplicativo?"</string>
+    <string name="turn_on_in_app_alarm">"Ativar alarme no aplicativo?"</string>
 </resources>
