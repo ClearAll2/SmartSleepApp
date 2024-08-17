@@ -1,6 +1,11 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
+## 0.4.1.1 (156)
+- Fixed: missing sleep timer on large display ratio
+- New "Never" option for sleep timer.
+- Minor UI changes, improve user experience.
+
 ## 0.4.1.0 (152)
 - New sleep sound picker UI.
 - New theme picker UI.

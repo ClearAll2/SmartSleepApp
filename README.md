@@ -1,6 +1,11 @@
 # Smart Sleep
 
 Smart Sleep is an Android app that can calculate sleep cycle so you can estimate the time you need to go to bed or wake up. It has some extra features as well.
+
+A good day starts with a good sleep. A good sleep should consist of 5-6 complete sleep cycles. To wake up refreshed, you need to sleep and wakeup at correct time.
+
+Smart Sleep can calculate sleep cycle so you can estimate the time you need to go to bed or wake up. You don't need to open Clock app because you can set alarm right in Smart Sleep. This app can also help you fall asleep faster with nature and relaxation sounds.
+
 <p>
  <a href='https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="80px"/></a>
 </p>
@@ -25,7 +30,7 @@ Watch [demo](https://youtu.be/s382DU-VxZ0)
 - Calculate time to wake up and time to sleep
 - Adjust sleep cycle length and time to fall asleep
 - Play relaxation and nature sounds
-- Nap timer (Smart Sleep+ only)
+- Nap timer (Smart Sleep+)
 - In-app alarm with full customization
 - Multiple themes and colors (more themes with Smart Sleep+)
 - Material You (Android 12+)
@@ -38,10 +43,8 @@ For more features, you can upgrade to Smart Sleep+.
 ## Smart Sleep+
 Why should you get Smart Sleep+ (one-time payment):
 - Nap timer
+- Amazing sounds
 - Amazing themes
-- Quick actions in calculation result
-- Remember last played
-- Control sleep sound preview
 - More setting options
 - Support future development
 - Be the first one to get latest features
