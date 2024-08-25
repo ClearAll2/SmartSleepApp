@@ -3,7 +3,7 @@
 This document details how you may use this website and our applications. Please read it carefully before using our website or applications, along with the [Privacy Policy](privacy.md). If you do not fully understand and agree to both this document (“Terms of Service”) and the Privacy Policy, you may not use any of our applications. We may also refer to this document as the End-User License Agreement.
 
 The terms in this document apply to the following properties:
-- This website (smartsleep.site)
+- This website
 - Smart Sleep app on Play Store
 - System Info app on Play Store
 
