@@ -1,7 +1,6 @@
 name: Smart Sleep
 title: null
+description: Sleep better - Work better
 remote_theme: pages-themes/cayman@v0.2.0
-show_downloads: false
-is_project_page: false
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one

@@ -150,3 +150,5 @@ We’re always making changes and improvements to Smart Sleep. To make sure you 
 - Improve user experience.
 - Fixed: "remember last played" setting.
 
+© 2024 [LKONLE](mailto:lkonle@proton.me), and published to [Google Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep).
+
