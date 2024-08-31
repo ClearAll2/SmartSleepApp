@@ -316,4 +316,11 @@
     <string name="images_text">"Afbeeldingsbestanden van Pixabay"</string>
     <string name="turn_off_in_app_alarm">"In-app alarm uitschakelen?"</string>
     <string name="turn_on_in_app_alarm">"In-app alarm inschakelen?"</string>
+    <string name="add_label">"Label toevoegen"</string>
+    <string name="fullintent_permission_request">"Sta Smart Sleep toe om full-screen meldingen te gebruiken"</string>
+    <string name="fullintent_permission_request_details">"Hiermee kan Smart Sleep een alarm tonen met een volledig schermmelding."</string>
+    <string name="fullitent_permission_warning">"Geen toestemming voor meldingen op volledig scherm, Smart Sleep kan geen alarm weergeven met volledig scherm melding. Tik om te wijzigen."</string>
+    <string name="gentle">"Het volume geleidelijk verhogen"</string>
+    <string name="label">"Label"</string>
+    <string name="permission_request2">"Je moet toestemming voor Volledige schermmeldingen toestaan"</string>
 </resources>

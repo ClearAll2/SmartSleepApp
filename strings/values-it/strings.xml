@@ -323,4 +323,12 @@ Gestisci lo stress</string>
     <string name="images_text">"File immagine da Pixabay"</string>
     <string name="turn_off_in_app_alarm">"Spegnere l\'allarme dell\'app?"</string>
     <string name="turn_on_in_app_alarm">"Attivare la sveglia nell\'app?"</string>
+    <string name="add_label">"Aggiungi etichetta"</string>
+    <string name="fullintent_permission_request">"Consenti a Smart Sleep di utilizzare le notifiche a schermo intero"</string>
+    <string name="fullintent_permission_request_details">"Questo permette a Smart Sleep di mostrare l\'allarme con una notifica a schermo intero."</string>
+    <string name="fullitent_permission_warning">"Nessun permesso per le notifiche a schermo intero, Smart Sleep non sarà in grado di mostrare l\'allarme con notifica a schermo intero. Tocca per modificare."</string>
+    <string name="gentle">"Aumenta gradualmente il volume"</string>
+    <string name="label">"Etichetta"</string>
+    <string name="permission_request2">"È necessario consentire l\'autorizzazione alle notifiche a schermo intero"</string>
+
 </resources>

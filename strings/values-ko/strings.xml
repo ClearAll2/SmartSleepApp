@@ -153,13 +153,13 @@
     <string name="sleep_sound_noti_text">수면을 위해 수면음을 재생 중입니다.</string>
     <string name="refresh">새로고침</string>
     <string name="stop">정지</string>
-    <string name="m">엠</string>
-    <string name="t">화</string>
-    <string name="w">수</string>
-    <string name="th">목</string>
-    <string name="f">금</string>
-    <string name="st">토</string>
-    <string name="sn">일</string>
+    <string name="m">2</string>
+    <string name="t">3</string>
+    <string name="w">4</string>
+    <string name="th">5</string>
+    <string name="f">6</string>
+    <string name="st">7</string>
+    <string name="sn">S</string>
     <string name="about">소개</string>
     <string name="purchase_error">문제가 발생했습니다. 나중에 다시 시도해주세요.</string>
     <string name="nap">낮잠</string>
@@ -316,4 +316,11 @@
     <string name="images_text">"Pixabay에서의 이미지 파일"</string>
     <string name="turn_off_in_app_alarm">"앱 내 알람을 끄시겠습니까?"</string>
     <string name="turn_on_in_app_alarm">"앱 내 알람을 켜시겠습니까?"</string>
+    <string name="add_label">"라벨 추가"</string>
+    <string name="fullintent_permission_request">"Smart Sleep이(가) 전체 화면 알림을 사용하도록 허용하기"</string>
+    <string name="fullintent_permission_request_details">"Smart Sleep이(가) 전체 화면 알림으로 알람을 표시할 수 있습니다."</string>
+    <string name="fullitent_permission_warning">"전체 화면 알림 권한이 없으면, Smart Sleep은 전체 화면 알림으로 알람을 표시할 수 없습니다. 변경하려면 탭하세요."</string>
+    <string name="gentle">"볼륨을 점차적으로 증가시키다"</string>
+    <string name="label">"라벨"</string>
+    <string name="permission_request2">"전체 화면 알림 권한을 허용해야 합니다"</string>
 </resources>

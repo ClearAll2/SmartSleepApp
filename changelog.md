@@ -1,18 +1,23 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
+## 0.4.2.1 (161)
+- Fixed: UI on big display/font scale.
+- New alarm option: swipe left to delete alarm.
+- Minor UI tweaks.
+
 ## 0.4.2 (159)
 - Improve alarm: add label, gradually increase volume option.
-- Improve user experience.
 
 ## 0.4.1.1 (156)
-- Fixed: missing sleep timer on large display ratio
+- Fixed: missing sleep timer on big display/font scale.
 - New "Never" option for sleep timer.
 - Minor UI changes, improve user experience.
 
-## 0.4.1.0 (152)
+## 0.4.1 (152)
 - New sleep sound picker UI.
 - New theme picker UI.
+- New now playing UI.
 - Improve user experience.
 
 ## 0.4.0 (149)

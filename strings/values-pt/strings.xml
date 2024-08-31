@@ -316,4 +316,12 @@
     <string name="images_text">"Arquivos de imagem de Pixabay"</string>
     <string name="turn_off_in_app_alarm">"Desativar o alarme no aplicativo?"</string>
     <string name="turn_on_in_app_alarm">"Ativar alarme no aplicativo?"</string>
+    <string name="add_label">"Adicionar rótulo"</string>
+    <string name="fullintent_permission_request">"Permitir que Smart Sleep use notificações em tela cheia"</string>
+    <string name="fullintent_permission_request_details">"Isso permite que Smart Sleep mostre o alarme com notificação de tela cheia."</string>
+    <string name="fullitent_permission_warning">"Sem a permissão de Notificações em Tela Cheia, Smart Sleep não poderá mostrar o alarme com notificação em tela cheia. Toque para alterar."</string>
+    <string name="gentle">"Aumente o volume gradualmente"</string>
+    <string name="label">"Etiqueta"</string>
+    <string name="permission_request2">"Você precisa permitir a permissão de Notificações em Tela Cheia"</string>
+
 </resources>

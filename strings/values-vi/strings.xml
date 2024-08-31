@@ -316,4 +316,11 @@
     <string name="images_text">Các tệp hình ảnh lấy từ Pixabay</string>
     <string name="turn_off_in_app_alarm">Tắt báo thức của ứng dụng</string>
     <string name="turn_on_in_app_alarm">Bật báo thức của ứng dụng</string>
+    <string name="fullintent_permission_request">Cho phép Smart Sleep sử dụng thông báo toàn màn hình</string>
+    <string name="fullintent_permission_request_details">Điều này cho phép Smart Sleep hiển thị cảnh báo bằng thông báo toàn màn hình.</string>
+    <string name="permission_request2">Bạn cần cho phép quyền Thông báo toàn màn hình</string>
+    <string name="fullitent_permission_warning">Không có quyền Thông báo toàn màn hình, Smart Sleep sẽ không thể hiển thị cảnh báo bằng thông báo toàn màn hình. Nhấn để thay đổi.</string>
+    <string name="add_label">Thêm nhãn</string>
+    <string name="label">Nhãn</string>
+    <string name="gentle">Tăng dần âm lượng</string>
 </resources>

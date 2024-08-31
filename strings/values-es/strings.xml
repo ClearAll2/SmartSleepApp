@@ -316,4 +316,12 @@
     <string name="images_text">"Archivos de imagen de Pixabay"</string>
     <string name="turn_off_in_app_alarm">"¿Apagar la alarma en la aplicación?"</string>
     <string name="turn_on_in_app_alarm">"¿Activar la alarma en la aplicación?"</string>
+    <string name="add_label">"Agregar etiqueta"</string>
+    <string name="fullintent_permission_request">"Permitir que Smart Sleep use notificaciones de pantalla completa"</string>
+    <string name="fullintent_permission_request_details">"Esto permite que Smart Sleep muestre la alarma con una notificación a pantalla completa."</string>
+    <string name="fullitent_permission_warning">"Sin el permiso de Notificaciones en Pantalla Completa, Smart Sleep no podrá mostrar la alarma con notificación en pantalla completa. Toca para cambiar."</string>
+    <string name="gentle">"Aumentar el volumen gradualmente"</string>
+    <string name="label">"Etiqueta"</string>
+    <string name="permission_request2">"Necesitas permitir el permiso de Notificaciones en pantalla completa"</string>
+
 </resources>

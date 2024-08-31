@@ -153,13 +153,13 @@
     <string name="sleep_sound_noti_text">为你的睡眠播放睡眠声音。</string>
     <string name="refresh">刷新</string>
     <string name="stop">停止</string>
-    <string name="m">一</string>
-    <string name="t">二</string>
-    <string name="w">三</string>
-    <string name="th">四</string>
-    <string name="f">五</string>
-    <string name="st">六</string>
-    <string name="sn">日</string>
+    <string name="m">2</string>
+    <string name="t">3</string>
+    <string name="w">4</string>
+    <string name="th">5</string>
+    <string name="f">6</string>
+    <string name="st">7</string>
+    <string name="sn">S</string>
     <string name="about">关于</string>
     <string name="purchase_error">发生了问题，请稍后再试。</string>
     <string name="nap">午睡</string>
@@ -323,4 +323,11 @@
     <string name="images_text">"来自 Pixabay 的图像文件"</string>
     <string name="turn_off_in_app_alarm">"关闭应用内闹钟？"</string>
     <string name="turn_on_in_app_alarm">"打开应用内闹钟？"</string>
+    <string name="add_label">"添加标签"</string>
+    <string name="fullintent_permission_request">"允许 Smart Sleep 使用全屏通知"</string>
+    <string name="fullintent_permission_request_details">"这让Smart Sleep 全屏通知显示闹钟。"</string>
+    <string name="fullitent_permission_warning">"没有全屏通知权限，Smart Sleep将无法显示全屏通知的闹钟。点击更改。"</string>
+    <string name="gentle">"逐渐增加音量"</string>
+    <string name="label">"标签"</string>
+    <string name="permission_request2">"您需要允许全屏通知权限"</string>
 </resources>

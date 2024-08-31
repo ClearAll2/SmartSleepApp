@@ -316,4 +316,12 @@
     <string name="images_text">"Файлы изображений от Pixabay"</string>
     <string name="turn_off_in_app_alarm">"Выключить будильник в приложении?"</string>
     <string name="turn_on_in_app_alarm">"Включить будильник в приложении?"</string>
+    <string name="add_label">"Добавить метку"</string>
+    <string name="fullintent_permission_request">"Разрешить Smart Sleep использовать полноэкранные уведомления"</string>
+    <string name="fullintent_permission_request_details">"Это позволяет Smart Sleep показывать будильник с полноэкранным уведомлением."</string>
+    <string name="fullitent_permission_warning">"Нет разрешения на полноэкранные уведомления, Smart Sleep не сможет показывать будильник с полноэкранным уведомлением. Нажмите, чтобы изменить."</string>
+    <string name="gentle">"Постепенно увеличивайте громкость"</string>
+    <string name="label">"Метка"</string>
+    <string name="permission_request2">"Вам нужно разрешить уведомления в полноэкранном режиме"</string>
+
 </resources>

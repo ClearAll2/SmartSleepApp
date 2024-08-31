@@ -153,13 +153,13 @@
     <string name="sleep_sound_noti_text">あなたの睡眠のために睡眠音を再生します。</string>
     <string name="refresh">リフレッシュ</string>
     <string name="stop">止める</string>
-    <string name="m">月</string>
-    <string name="t">火</string>
-    <string name="w">水</string>
-    <string name="th">木</string>
-    <string name="f">金</string>
-    <string name="st">土</string>
-    <string name="sn">太</string>
+    <string name="m">2</string>
+    <string name="t">3</string>
+    <string name="w">4</string>
+    <string name="th">5</string>
+    <string name="f">6</string>
+    <string name="st">7</string>
+    <string name="sn">S</string>
     <string name="about">について</string>
     <string name="purchase_error">問題が発生しました。後でもう一度お試しください。</string>
     <string name="nap">昼寝</string>
@@ -316,4 +316,11 @@
     <string name="images_text">"画像ファイル Pixabay から"</string>
     <string name="turn_off_in_app_alarm">"アプリ内のアラームをオフにしますか？"</string>
     <string name="turn_on_in_app_alarm">"アプリ内アラームをオンにしますか？"</string>
+    <string name="add_label">"ラベルを追加"</string>
+    <string name="fullintent_permission_request">"Smart Sleepがフルスクリーン通知を使用することを許可する"</string>
+    <string name="fullintent_permission_request_details">"Smart Sleepがフルスクリーン通知でアラームを表示できるようになります。"</string>
+    <string name="fullitent_permission_warning">"フルスクリーン通知の権限がないため、Smart Sleepがフルスクリーン通知でアラームを表示できません。タップして変更してください。"</string>
+    <string name="gentle">"音量を徐々に上げる"</string>
+    <string name="label">"ラベル"</string>
+    <string name="permission_request2">"全画面通知の許可を与える必要があります"</string>
 </resources>

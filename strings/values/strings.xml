@@ -315,4 +315,13 @@
     <string name="images_text">Image files from Pixabay</string>
     <string name="turn_off_in_app_alarm">Turn off in-app alarm?</string>
     <string name="turn_on_in_app_alarm">Turn on in-app alarm?</string>
+    <string name="fullintent_permission_request">Allow Smart Sleep to use full-screen notifications</string>
+    <string name="fullintent_permission_request_details">This lets Smart Sleep show alarm with full screen notification.</string>
+    <string name="permission_request2">You need to allow Full-screen Notifications permission</string>
+    <string name="fullitent_permission_warning">No Full-screen Notifications permission, Smart Sleep will not be able to show alarm with full-screen notification. Tap to change.</string>
+    <string name="add_label">Add label</string>
+    <string name="label">Label</string>
+    <string name="gentle">Gradually increase volume</string>
+    <!--<string name="dismiss">Dismiss</string>
+    <string name="snoozed_alarm_2">Snoozed Alarm</string>-->
 </resources>

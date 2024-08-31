@@ -323,4 +323,11 @@ Gérez le stress</string>
     <string name="images_text">"Fichiers d\'image de Pixabay"</string>
     <string name="turn_off_in_app_alarm">"Désactiver l\'alarme intégrée?"</string>
     <string name="turn_on_in_app_alarm">"Activer l\'alarme dans l\'application ?"</string>
+    <string name="add_label">"Ajouter une étiquette"</string>
+    <string name="fullintent_permission_request">"Autoriser Smart Sleep à utiliser les notifications en plein écran"</string>
+    <string name="fullintent_permission_request_details">"Cela permet à Smart Sleep d\'afficher l\'alarme avec une notification en plein écran."</string>
+    <string name="fullitent_permission_warning">"Pas d\'autorisation pour les notifications en plein écran, Smart Sleep ne pourra pas afficher d\'alarme avec notification en plein écran. Appuyez pour changer."</string>
+    <string name="gentle">"Augmenter progressivement le volume"</string>
+    <string name="label">"Étiquette"</string>
+    <string name="permission_request2">"Vous devez autoriser la permission des notifications en plein écran"</string>
 </resources>

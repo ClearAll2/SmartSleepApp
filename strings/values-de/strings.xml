@@ -316,4 +316,12 @@
     <string name="images_text">"Bilddateien von Pixabay"</string>
     <string name="turn_off_in_app_alarm">"In-App-Alarm ausschalten?"</string>
     <string name="turn_on_in_app_alarm">"In-App-Alarm einschalten?"</string>
+    <string name="add_label">"Beschriftung hinzufügen"</string>
+    <string name="fullintent_permission_request">"Erlaube Smart Sleep, Vollbildbenachrichtigungen zu verwenden"</string>
+    <string name="fullintent_permission_request_details">"Dies ermöglicht Smart Sleep, den Alarm mit einer Vollbildbenachrichtigung anzuzeigen."</string>
+    <string name="fullitent_permission_warning">"Keine Berechtigung für Vollbildbenachrichtigungen, Smart Sleep kann den Alarm nicht mit einer Vollbildbenachrichtigung anzeigen. Tippen, um zu ändern."</string>
+    <string name="gentle">"Lautstärke allmählich erhöhen"</string>
+    <string name="label">"Etikett"</string>
+    <string name="permission_request2">"Sie müssen die Berechtigung für Vollbildbenachrichtigungen erlauben"</string>
+
 </resources>
