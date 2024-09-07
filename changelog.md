@@ -1,13 +1,15 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
+
 ## 0.4.2.2 (167)
 - New sleep sound: Bubbles (Plus only).
-- Changed free sleep sounds and premium sounds.
+- Changed list of free sounds and premium sounds.
 - Sleep sound notification now shows sound name and remaining time.
-- Changed stop timer steps (10 min -> 5 min), maximum 120 minutes.
+- Changed stop timer items, maximum 120 minutes.
 - Following notifications are now visible on lock screen publicly: Sleep sound, Nap and Alarm.
 - "Play preview of sleep sound" option is now available for all users.
+- New "+5 minutes" option for stop timer.
 - UI improvements and tweaks.
 
 ## 0.4.2.1 (161)
