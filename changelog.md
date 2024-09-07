@@ -4,7 +4,7 @@ We’re always making changes and improvements to Smart Sleep. To make sure you 
 
 ## 0.4.2.2 (167)
 - New sleep sound: Bubbles (Plus only).
-- Changed list of free sounds and premium sounds.
+- List of free sounds and premium sounds have been changed.
 - Sleep sound notification now shows sound name and remaining time.
 - Changed stop timer items, maximum 120 minutes.
 - Following notifications are now visible on lock screen publicly: Sleep sound, Nap and Alarm.
@@ -169,6 +169,9 @@ We’re always making changes and improvements to Smart Sleep. To make sure you 
 - Add 2 new sleep sounds.
 - Improve user experience.
 - Fixed: "remember last played" setting.
+
+## ?.?.?
+- Sorry, I don't remember :)
 
 © 2024 [LKONLE](mailto:lkonle@proton.me), and published to [Google Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep).
 
