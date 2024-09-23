@@ -323,4 +323,9 @@
     <string name="add_label">Thêm nhãn</string>
     <string name="label">Nhãn</string>
     <string name="gentle">Tăng dần âm lượng</string>
+    <string name="bubbles_sound">Bong bóng</string>
+    <string name="snoozed_alarm_title">Báo thức đã hoãn</string>
+    <string name="clear_cache">Xóa bộ nhớ đệm</string>
+    <string name="alarm_dismissed">Đã loại bỏ báo thức</string>
+    <string name="dismiss">Loại bỏ</string>
 </resources>

@@ -323,5 +323,9 @@
     <string name="gentle">"Aumente o volume gradualmente"</string>
     <string name="label">"Etiqueta"</string>
     <string name="permission_request2">"Você precisa permitir a permissão de Notificações em Tela Cheia"</string>
-
+    <string name="bubbles_sound">Bolhas</string>
+    <string name="alarm_dismissed">"Alarme desligado"</string>
+    <string name="clear_cache">"Limpar cache"</string>
+    <string name="dismiss">"Descartar"</string>
+    <string name="snoozed_alarm_title">"Alarme sonecado"</string>
 </resources>

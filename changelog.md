@@ -2,6 +2,12 @@
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
 
+## 0.4.2.3 (170)
+- Improve alarm: new snoozed notification and ability to dismiss snoozed alarms.
+- New "clear cache" option for in-app browser.
+- Support Android 15.
+- UI improvements and tweaks.
+
 ## 0.4.2.2 (167)
 - New sleep sound: Bubbles (Plus only).
 - List of free sounds and premium sounds have been changed.

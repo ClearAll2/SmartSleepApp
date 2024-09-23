@@ -323,5 +323,9 @@
     <string name="gentle">"Постепенно увеличивайте громкость"</string>
     <string name="label">"Метка"</string>
     <string name="permission_request2">"Вам нужно разрешить уведомления в полноэкранном режиме"</string>
-
+    <string name="bubbles_sound">Пузыри</string>
+    <string name="alarm_dismissed">"Будильник отключен"</string>
+    <string name="clear_cache">"Очистить кэш"</string>
+    <string name="dismiss">"Отклонить"</string>
+    <string name="snoozed_alarm_title">"Отложенный будильник"</string>
 </resources>

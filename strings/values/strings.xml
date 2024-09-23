@@ -322,6 +322,9 @@
     <string name="add_label">Add label</string>
     <string name="label">Label</string>
     <string name="gentle">Gradually increase volume</string>
-    <!--<string name="dismiss">Dismiss</string>
-    <string name="snoozed_alarm_2">Snoozed Alarm</string>-->
+    <string name="bubbles_sound">Bubbles</string>
+    <string name="snoozed_alarm_title">Snoozed Alarm</string>
+    <string name="clear_cache">Clear cache</string>
+    <string name="alarm_dismissed">Alarm dismissed</string>
+    <string name="dismiss">Dismiss</string>
 </resources>

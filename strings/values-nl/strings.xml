@@ -323,4 +323,10 @@
     <string name="gentle">"Het volume geleidelijk verhogen"</string>
     <string name="label">"Label"</string>
     <string name="permission_request2">"Je moet toestemming voor Volledige schermmeldingen toestaan"</string>
+    <string name="bubbles_sound">Bubbels</string>
+    <string name="alarm_dismissed">"Alarm uitgeschakeld"</string>
+    <string name="clear_cache">"Cache wissen"</string>
+    <string name="dismiss">"Sluiten"</string>
+    <string name="snoozed_alarm_title">"Uitgestelde Alarm"</string>
+
 </resources>

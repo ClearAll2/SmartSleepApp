@@ -330,5 +330,10 @@ Gestisci lo stress</string>
     <string name="gentle">"Aumenta gradualmente il volume"</string>
     <string name="label">"Etichetta"</string>
     <string name="permission_request2">"È necessario consentire l\'autorizzazione alle notifiche a schermo intero"</string>
+    <string name="bubbles_sound">Bolle</string>
+    <string name="alarm_dismissed">"Allarme annullato"</string>
+    <string name="clear_cache">"Pulisci cache"</string>
+    <string name="dismiss">"Ignora"</string>
+    <string name="snoozed_alarm_title">"Sveglia posticipata"</string>
 
 </resources>

@@ -323,4 +323,10 @@
     <string name="gentle">"볼륨을 점차적으로 증가시키다"</string>
     <string name="label">"라벨"</string>
     <string name="permission_request2">"전체 화면 알림 권한을 허용해야 합니다"</string>
+    <string name="bubbles_sound">거품</string>
+    <string name="alarm_dismissed">"알람 해제됨"</string>
+    <string name="clear_cache">"캐시 지우기"</string>
+    <string name="dismiss">"해제"</string>
+    <string name="snoozed_alarm_title">"스누즈된 알람"</string>
+
 </resources>

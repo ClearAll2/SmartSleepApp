@@ -330,4 +330,9 @@
     <string name="gentle">"逐渐增加音量"</string>
     <string name="label">"标签"</string>
     <string name="permission_request2">"您需要允许全屏通知权限"</string>
+    <string name="bubbles_sound">氣泡</string>
+    <string name="alarm_dismissed">"闹钟已关闭"</string>
+    <string name="clear_cache">"清除缓存"</string>
+    <string name="dismiss">"关闭"</string>
+    <string name="snoozed_alarm_title">"已延迟的闹钟"</string>
 </resources>

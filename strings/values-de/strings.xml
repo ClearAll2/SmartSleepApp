@@ -323,5 +323,9 @@
     <string name="gentle">"Lautstärke allmählich erhöhen"</string>
     <string name="label">"Etikett"</string>
     <string name="permission_request2">"Sie müssen die Berechtigung für Vollbildbenachrichtigungen erlauben"</string>
-
+    <string name="bubbles_sound">Blasen</string>
+    <string name="alarm_dismissed">"Alarm deaktiviert"</string>
+    <string name="clear_cache">"Cache leeren"</string>
+    <string name="dismiss">"Verwerfen"</string>
+    <string name="snoozed_alarm_title">"Schlummernder Alarm"</string>
 </resources>

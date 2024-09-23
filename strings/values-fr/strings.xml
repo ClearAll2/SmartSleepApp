@@ -330,4 +330,10 @@ Gérez le stress</string>
     <string name="gentle">"Augmenter progressivement le volume"</string>
     <string name="label">"Étiquette"</string>
     <string name="permission_request2">"Vous devez autoriser la permission des notifications en plein écran"</string>
+    <string name="bubbles_sound">Bulles</string>
+    <string name="alarm_dismissed">"Alarme rejetée"</string>
+    <string name="clear_cache">"Vider le cache"</string>
+    <string name="dismiss">"Ignorer"</string>
+    <string name="snoozed_alarm_title">"Alarme répétée"</string>
+
 </resources>

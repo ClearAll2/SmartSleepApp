@@ -323,4 +323,9 @@
     <string name="gentle">"音量を徐々に上げる"</string>
     <string name="label">"ラベル"</string>
     <string name="permission_request2">"全画面通知の許可を与える必要があります"</string>
+    <string name="bubbles_sound">バブル</string>
+    <string name="alarm_dismissed">"アラームが解除されました"</string>
+    <string name="clear_cache">"キャッシュをクリア"</string>
+    <string name="dismiss">"閉じる"</string>
+    <string name="snoozed_alarm_title">"スヌーズされたアラーム"</string>
 </resources>
