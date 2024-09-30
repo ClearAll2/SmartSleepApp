@@ -1,9 +1,12 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
+## 0.4.2.4 (172)
+- Fixed: weird color of status bar in few cases.
+- Performance and UI improvements. 
 
 ## 0.4.2.3 (170)
-- Improve alarm: new snoozed notification and ability to dismiss snoozed alarms.
+- Improve alarm: new snoozed alarm notification and ability to dismiss snoozed alarms.
 - New "clear cache" option for in-app browser.
 - Support Android 15.
 - UI improvements and tweaks.
@@ -12,7 +15,7 @@ We’re always making changes and improvements to Smart Sleep. To make sure you 
 - New sleep sound: Bubbles (Plus only).
 - List of free sounds and premium sounds have been changed.
 - Sleep sound notification now shows sound name and remaining time.
-- Changed stop timer items, maximum 120 minutes.
+- Change stop timer items, maximum 120 minutes.
 - Following notifications are now visible on lock screen publicly: Sleep sound, Nap and Alarm.
 - "Play preview of sleep sound" option is now available for all users.
 - New "+5 minutes" option for stop timer.
