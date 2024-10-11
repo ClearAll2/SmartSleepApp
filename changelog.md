@@ -1,6 +1,10 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
+## 0.4.2.5 (175)
+- Possible fixed: app crash in some rare circumstances due to alarms.
+- UI improvements and tweaks.
+
 ## 0.4.2.4 (172)
 - Fixed: weird color of status bar in few cases.
 - Performance and UI improvements. 
