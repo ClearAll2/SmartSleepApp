@@ -303,7 +303,7 @@
     <string name="save_nav_history">"Сохранить историю навигации"</string>
     <string name="save_nav_history_details">"Используйте кнопку/жест назад, чтобы вернуться к предыдущей вкладке"</string>
     <string name="howling_wind">"Завывающий ветер"</string>
-    <string name="lightning_sound">"Молния"</string>
+    <string name="thunder_sound">Гроза</string>
     <string name="pencil_sound">"Карандаш"</string>
     <string name="crickets_sound">"Сверчки и лягушки"</string>
     <string name="show_tab_name">"Показать имя вкладки"</string>
@@ -328,4 +328,10 @@
     <string name="clear_cache">"Очистить кэш"</string>
     <string name="dismiss">"Отклонить"</string>
     <string name="snoozed_alarm_title">"Отложенный будильник"</string>
+    <string name="save_nav_history_details_2">Если эта опция не включена, при нажатии кнопки «Назад» или свайпе назад вы вернетесь на главный экран или в предыдущее приложение.</string>
+    <string name="use_system_alarm_details_2">Если эта опция включена, для установки будильника будет использоваться системные часы.</string>
+    <string name="language_explain_2">Язык изменится, когда вы вернетесь на главную страницу настроек.</string>
+    <string name="language_explain_3">Загрузка языкового пакета может занять несколько секунд, пожалуйста, будьте терпеливы.</string>
+    <string name="cycle_length_explain">Не все циклы сна имеют одинаковую продолжительность, но в среднем они длятся около 90 минут каждый.</string>
+    <string name="cycle_length_explain_2">Первый цикл сна часто является самым коротким и составляет от 70 до 100 минут, в то время как последующие циклы, как правило, длятся от 90 до 120 минут.</string>
 </resources>

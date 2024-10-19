@@ -303,7 +303,7 @@
     <string name="save_nav_history">"Navigationsverlauf speichern"</string>
     <string name="save_nav_history_details">"Verwenden Sie die Schaltfläche oder Geste „Zurück“, um zum vorherigen Tab zu navigieren"</string>
     <string name="howling_wind">"Heulender Wind"</string>
-    <string name="lightning_sound">"Blitz"</string>
+    <string name="thunder_sound">Donner</string>
     <string name="pencil_sound">"Bleistift"</string>
     <string name="crickets_sound">"Grillen und Frösche"</string>
     <string name="show_tab_name">"Tab-Namen anzeigen"</string>
@@ -328,4 +328,10 @@
     <string name="clear_cache">"Cache leeren"</string>
     <string name="dismiss">"Verwerfen"</string>
     <string name="snoozed_alarm_title">"Schlummernder Alarm"</string>
+    <string name="save_nav_history_details_2">Wenn diese Option nicht aktiviert ist, kehren Sie beim Drücken der Zurück-Taste oder beim Zurückwischen zum Startbildschirm oder zur vorherigen App zurück.</string>
+    <string name="use_system_alarm_details_2">Wenn diese Option aktiviert ist, wird die Systemuhr verwendet, um den Alarm zu stellen.</string>
+    <string name="language_explain_2">Die Sprache wird geändert, wenn Sie zur Hauptseite der Einstellungen zurückkehren.</string>
+    <string name="language_explain_3">Der Download des Sprachpakets kann einige Sekunden dauern, bitte haben Sie Geduld.</string>
+    <string name="cycle_length_explain">Nicht alle Schlafzyklen sind gleich lang, aber im Durchschnitt dauern sie jeweils etwa 90 Minuten.</string>
+    <string name="cycle_length_explain_2">Der erste Schlafzyklus ist oft der kürzeste und dauert zwischen 70 und 100 Minuten, während spätere Zyklen tendenziell zwischen 90 und 120 Minuten liegen.</string>
 </resources>

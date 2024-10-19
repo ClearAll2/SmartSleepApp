@@ -305,7 +305,7 @@
     <string name="pencil_sound">Bút chì</string>
     <string name="crickets_sound">Dế và ếch</string>
     <string name="howling_wind">Gió hú</string>
-    <string name="lightning_sound">Tiếng sét</string>
+    <string name="thunder_sound">Tiếng sấm</string>
     <string name="show_tab_name">Hiện tên thẻ</string>
     <string name="show_tab_name_details">Luôn hiện tên của tất cả các thẻ</string>
     <string name="not_download">Bản cập nhật sẽ không được tải</string>
@@ -328,4 +328,10 @@
     <string name="clear_cache">Xóa bộ nhớ đệm</string>
     <string name="alarm_dismissed">Đã loại bỏ báo thức</string>
     <string name="dismiss">Loại bỏ</string>
+    <string name="save_nav_history_details_2">Nếu tùy chọn này không được bật, khi bạn nhấn nút quay lại hoặc vuốt ngược lại, bạn sẽ quay lại màn hình chính hoặc ứng dụng trước đó.</string>
+    <string name="use_system_alarm_details_2">Nếu tùy chọn này được bật, đồng hồ hệ thống sẽ được sử dụng để đặt báo thức.</string>
+    <string name="language_explain_2">Ngôn ngữ sẽ được thay đổi khi bạn quay lại trang cài đặt chính.</string>
+    <string name="language_explain_3">Quá trình tải xuống gói ngôn ngữ có thể mất vài giây, xin vui lòng kiên nhẫn chờ đợi.</string>
+    <string name="cycle_length_explain">Không phải tất cả các chu kỳ giấc ngủ đều có cùng độ dài, nhưng trung bình chúng kéo dài khoảng 90 phút mỗi chu kỳ.</string>
+    <string name="cycle_length_explain_2">Chu kỳ giấc ngủ đầu tiên thường là ngắn nhất, kéo dài từ 70 đến 100 phút, trong khi các chu kỳ sau thường kéo dài từ 90 đến 120 phút.</string>
 </resources>

@@ -303,7 +303,7 @@
     <string name="save_nav_history">"Salvar histórico de navegação"</string>
     <string name="save_nav_history_details">"Use o botão/gesto de voltar para navegar para a aba anterior"</string>
     <string name="howling_wind">"Vento Uivante"</string>
-    <string name="lightning_sound">"Relâmpago"</string>
+    <string name="thunder_sound">Trovão</string>
     <string name="pencil_sound">"Lápis"</string>
     <string name="crickets_sound">"Grilos e rãs"</string>
     <string name="show_tab_name">"Mostrar nome da aba"</string>
@@ -328,4 +328,10 @@
     <string name="clear_cache">"Limpar cache"</string>
     <string name="dismiss">"Descartar"</string>
     <string name="snoozed_alarm_title">"Alarme sonecado"</string>
+    <string name="save_nav_history_details_2">Se esta opção não estiver habilitada, ao pressionar o botão de voltar ou deslizar para trás, você retornará à tela inicial ou ao aplicativo anterior.</string>
+    <string name="use_system_alarm_details_2">Se esta opção estiver ativada, o relógio do sistema será usado para definir o alarme.</string>
+    <string name="language_explain_2">O idioma será alterado quando você voltar à página principal de configurações.</string>
+    <string name="language_explain_3">O download do pacote de idiomas pode levar alguns segundos, por favor, seja paciente.</string>
+    <string name="cycle_length_explain">Nem todos os ciclos de sono têm a mesma duração, mas, em média, eles duram cerca de 90 minutos cada um.</string>
+    <string name="cycle_length_explain_2">O primeiro ciclo de sono é geralmente o mais curto, variando entre 70 e 100 minutos, enquanto os ciclos posteriores tendem a durar entre 90 e 120 minutos.</string>
 </resources>

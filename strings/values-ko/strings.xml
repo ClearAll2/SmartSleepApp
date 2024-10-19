@@ -303,7 +303,7 @@
     <string name="save_nav_history">"내비게이션 기록 저장"</string>
     <string name="save_nav_history_details">"이전 탭으로 이동하려면 뒤로 가기 버튼/제스처를 사용하세요"</string>
     <string name="howling_wind">"울부짖는 바람"</string>
-    <string name="lightning_sound">"번개"</string>
+    <string name="thunder_sound">천둥</string>
     <string name="pencil_sound">"연필"</string>
     <string name="crickets_sound">"귀뚜라미와 개구리"</string>
     <string name="show_tab_name">"탭 이름 보기"</string>
@@ -328,5 +328,11 @@
     <string name="clear_cache">"캐시 지우기"</string>
     <string name="dismiss">"해제"</string>
     <string name="snoozed_alarm_title">"스누즈된 알람"</string>
+    <string name="save_nav_history_details_2">이 옵션이 활성화되지 않은 경우, 뒤로가기 버튼을 누르거나 뒤로 스와이프하면 홈 화면 또는 이전 앱으로 돌아갑니다.</string>
+    <string name="use_system_alarm_details_2">이 옵션이 활성화되면 시스템 시계가 알람 설정에 사용됩니다.</string>
+    <string name="language_explain_2"> 메인 설정 페이지로 돌아가면 언어가 변경됩니다.</string>
+    <string name="language_explain_3">언어 팩을 다운로드하는 데 몇 초가 걸릴 수 있으므로 잠시만 기다려 주세요.</string>
+    <string name="cycle_length_explain">모든 수면 주기가 동일한 길이는 아니지만, 평균적으로 각각 약 90분 지속됩니다.</string>
+    <string name="cycle_length_explain_2">첫 번째 수면 주기는 종종 가장 짧으며 70분에서 100분 사이이고, 이후 주기는 대개 90분에서 120분 사이입니다.</string>
 
 </resources>

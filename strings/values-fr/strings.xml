@@ -310,7 +310,7 @@ Gérez le stress</string>
     <string name="save_nav_history">"Enregistrer l\'historique de navigation"</string>
     <string name="save_nav_history_details">"Utilisez le bouton de retour/départ pour naviguer vers l\'onglet précédent"</string>
     <string name="howling_wind">"Vent hurlant"</string>
-    <string name="lightning_sound">"Éclair"</string>
+    <string name="thunder_sound">Tonnerre</string>
     <string name="pencil_sound">"Crayon"</string>
     <string name="crickets_sound">"Grillons et grenouilles"</string>
     <string name="show_tab_name">"Afficher le nom de l\'onglet"</string>
@@ -335,5 +335,11 @@ Gérez le stress</string>
     <string name="clear_cache">"Vider le cache"</string>
     <string name="dismiss">"Ignorer"</string>
     <string name="snoozed_alarm_title">"Alarme répétée"</string>
+    <string name="save_nav_history_details_2">Si cette option n\'est pas activée, en appuyant sur le bouton retour ou en glissant vers l\'arrière, vous retournerez à l\'écran d\'accueil ou à l\'application précédente.</string>
+    <string name="use_system_alarm_details_2">Si cette option est activée, l\'horloge système sera utilisée pour régler l\'alarme.</string>
+    <string name="language_explain_2">La langue sera modifiée lorsque vous reviendrez à la page principale des paramètres.</string>
+    <string name="language_explain_3">Le téléchargement du pack de langue peut prendre quelques secondes, veuillez patienter.</string>
+    <string name="cycle_length_explain">Tous les cycles de sommeil n\'ont pas la même durée, mais en moyenne, ils durent environ 90 minutes chacun.</string>
+    <string name="cycle_length_explain_2">Le premier cycle de sommeil est souvent le plus court, variant entre 70 et 100 minutes, tandis que les cycles suivants tendent à se situer entre 90 et 120 minutes.</string>
 
 </resources>

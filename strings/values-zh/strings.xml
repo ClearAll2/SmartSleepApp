@@ -310,7 +310,7 @@
     <string name="save_nav_history">"保存导航历史"</string>
     <string name="save_nav_history_details">"使用返回按钮/手势导航到上一个标签页"</string>
     <string name="howling_wind">"呼啸的风"</string>
-    <string name="lightning_sound">"闪电"</string>
+    <string name="thunder_sound">雷</string>
     <string name="pencil_sound">"铅笔"</string>
     <string name="crickets_sound">"蟋蟀和青蛙"</string>
     <string name="show_tab_name">"显示标签名称"</string>
@@ -335,4 +335,10 @@
     <string name="clear_cache">"清除缓存"</string>
     <string name="dismiss">"关闭"</string>
     <string name="snoozed_alarm_title">"已延迟的闹钟"</string>
+    <string name="save_nav_history_details_2">如果未启用此选项，当您按下返回按钮或向后滑动时，会返回到主屏幕或之前的应用程序。</string>
+    <string name="use_system_alarm_details_2">如果启用此选项，系统时钟将用于设置闹钟。</string>
+    <string name="language_explain_2">返回主设置页面时语言将会更改。</string>
+    <string name="language_explain_3">下载语言包可能需要几秒钟，请耐心等待。</string>
+    <string name="cycle_length_explain">并非所有睡眠周期的长度都相同，但平均每个周期大约持续90分钟。</string>
+    <string name="cycle_length_explain_2">第一个睡眠周期通常是最短的，通常在70到100分钟之间，而后来的周期往往在90到120分钟之间。</string>
 </resources>

@@ -304,7 +304,7 @@
     <string name="pencil_sound">Pencil</string>
     <string name="crickets_sound">Crickets and frogs</string>
     <string name="howling_wind">Howling Wind</string>
-    <string name="lightning_sound">Lightning</string>
+    <string name="thunder_sound">Thunder</string>
     <string name="show_tab_name">Show tab name</string>
     <string name="show_tab_name_details">Always show all tab names</string>
     <string name="not_download">Update will not be downloaded</string>
@@ -327,4 +327,10 @@
     <string name="clear_cache">Clear cache</string>
     <string name="alarm_dismissed">Alarm dismissed</string>
     <string name="dismiss">Dismiss</string>
+    <string name="save_nav_history_details_2">If this option is disabled, pressing the back button or swiping back will take you to the home screen or the previous app.</string>
+    <string name="use_system_alarm_details_2">"If this option is enabled, the system clock will be used to set the alarm."</string>
+    <string name="language_explain_2">The language will change when you return to the main settings page.</string>
+    <string name="language_explain_3">It may take a few seconds to download the language pack, so please be patient.</string>
+    <string name="cycle_length_explain">Not all sleep cycles are the same length, but on average they last about 90 minutes each.</string>
+    <string name="cycle_length_explain_2">The first sleep cycle is often the shortest, ranging from 70 to 100 minutes, while later cycles tend to fall between 90 and 120 minutes.</string>
 </resources>

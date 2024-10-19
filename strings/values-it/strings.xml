@@ -310,7 +310,7 @@ Gestisci lo stress</string>
     <string name="save_nav_history">"Salva cronologia di navigazione"</string>
     <string name="save_nav_history_details">"Usa il pulsante/gesto indietro per navigare alla scheda precedente"</string>
     <string name="howling_wind">"Vento ululante"</string>
-    <string name="lightning_sound">"Fulmine"</string>
+    <string name="thunder_sound">Tuono</string>
     <string name="pencil_sound">"Matita"</string>
     <string name="crickets_sound">"Grilli e rane"</string>
     <string name="show_tab_name">"Mostra il nome della scheda"</string>
@@ -335,5 +335,11 @@ Gestisci lo stress</string>
     <string name="clear_cache">"Pulisci cache"</string>
     <string name="dismiss">"Ignora"</string>
     <string name="snoozed_alarm_title">"Sveglia posticipata"</string>
+    <string name="save_nav_history_details_2">Se questa opzione non è abilitata, premendo il pulsante indietro o scorrendo indietro tornerai alla schermata principale o all\'app precedente.</string>
+    <string name="use_system_alarm_details_2">Se questa opzione è abilitata, verrà utilizzato l\'orologio di sistema per impostare l\'allarme.</string>
+    <string name="language_explain_2">La lingua cambierà quando torni alla pagina delle impostazioni principali.</string>
+    <string name="language_explain_3">Il download del pacchetto di lingua potrebbe richiedere alcuni secondi, quindi per favore sii paziente.</string>
+    <string name="cycle_length_explain">Non tutti i cicli del sonno hanno la stessa durata, ma in media durano circa 90 minuti ciascuno.</string>
+    <string name="cycle_length_explain_2">Il primo ciclo di sonno è spesso il più corto, variando tra i 70 e i 100 minuti, mentre i cicli successivi tendono a durare tra i 90 e i 120 minuti.</string>
 
 </resources>

@@ -303,7 +303,7 @@
     <string name="save_nav_history">"Navigatiegeschiedenis opslaan"</string>
     <string name="save_nav_history_details">"Gebruik de terugknop/gebaren om naar het vorige tabblad te navigeren"</string>
     <string name="howling_wind">"Huilende Wind"</string>
-    <string name="lightning_sound">"Bliksem"</string>
+    <string name="thunder_sound">Donder</string>
     <string name="pencil_sound">"Potlood"</string>
     <string name="crickets_sound">"Krekels en kikkers"</string>
     <string name="show_tab_name">"Tabbladnaam tonen"</string>
@@ -328,5 +328,11 @@
     <string name="clear_cache">"Cache wissen"</string>
     <string name="dismiss">"Sluiten"</string>
     <string name="snoozed_alarm_title">"Uitgestelde Alarm"</string>
+    <string name="save_nav_history_details_2">Als deze optie niet is ingeschakeld, gaat u bij het indrukken van de terugknop of het terugvegen terug naar het startscherm of de vorige app.</string>
+    <string name="use_system_alarm_details_2">Als deze optie is ingeschakeld, wordt de systeemtijd gebruikt om het alarm in te stellen.</string>
+    <string name="language_explain_2">De taal wordt gewijzigd wanneer u terugkeert naar de hoofdinstellingenpagina.</string>
+    <string name="language_explain_3">Het kan enkele seconden duren om het taalpakket te downloaden, wees alstublieft geduldig.</string>
+    <string name="cycle_length_explain">Niet alle slaapcycli zijn even lang, maar gemiddeld duren ze elk ongeveer 90 minuten.</string>
+    <string name="cycle_length_explain_2">De eerste slaapcyclus is vaak de kortste, variërend van 70 tot 100 minuten, terwijl latere cycli meestal tussen de 90 en 120 minuten duren.</string>
 
 </resources>

@@ -303,7 +303,7 @@
     <string name="save_nav_history">"ナビゲーション履歴を保存"</string>
     <string name="save_nav_history_details">"戻るボタン/ジェスチャーを使用して前のタブに移動します"</string>
     <string name="howling_wind">"風のうなり"</string>
-    <string name="lightning_sound">"雷"</string>
+    <string name="thunder_sound">"雷"</string>
     <string name="pencil_sound">"鉛筆"</string>
     <string name="crickets_sound">"コオロギとカエル"</string>
     <string name="show_tab_name">"タブ名を表示"</string>
@@ -328,4 +328,10 @@
     <string name="clear_cache">"キャッシュをクリア"</string>
     <string name="dismiss">"閉じる"</string>
     <string name="snoozed_alarm_title">"スヌーズされたアラーム"</string>
+    <string name="save_nav_history_details_2">このオプションが無効になっている場合、戻るボタンを押すか、スワイプバックすると、ホーム画面または前のアプリに戻ります。</string>
+    <string name="use_system_alarm_details_2">このオプションが有効になっている場合、システム時計を使用してアラームを設定します。</string>
+    <string name="language_explain_2">言語はメイン設定ページに戻ると変更されます。</string>
+    <string name="language_explain_3">言語パックのダウンロードには数秒かかる場合がありますので、しばらくお待ちください。</string>
+    <string name="cycle_length_explain">すべての睡眠サイクルが同じ長さではありませんが、平均して約90分続きます。</string>
+    <string name="cycle_length_explain_2">最初の睡眠サイクルは最も短く、70分から100分の間であることが多いですが、その後のサイクルは90分から120分の間になる傾向があります。</string>
 </resources>
