@@ -1,6 +1,12 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
+## 0.4.2.6 (181)
+- New language picker UI.
+- Officially support Android 15.
+- UI improvements and tweaks.
+- Improve user experience.
+
 ## 0.4.2.5 (175)
 - Fixed: app crashes occurring in rare situations due to alarms.
 - UI improvements and tweaks.
@@ -12,7 +18,6 @@ We’re always making changes and improvements to Smart Sleep. To make sure you 
 ## 0.4.2.3 (170)
 - Improve alarm: new snoozed alarm notification and ability to dismiss snoozed alarms.
 - New "clear cache" option for in-app browser.
-- Support Android 15.
 - UI improvements and tweaks.
 
 ## 0.4.2.2 (167)
