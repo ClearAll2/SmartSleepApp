@@ -27,14 +27,14 @@
     <string name="wake_up_time">Ora di risveglio</string>
     <string name="the_average_human_time_to_sleep">Ti servono %s minuti per addormentarti. Abbiamo incluso quel tempo nel calcolare il tuo risultato.</string>
     <string name="the_average_human_time_to_sleep_without_15">Ti servono %s minuti per addormentarti. Non abbiamo incluso questo tempo nel calcolo del tuo risultato.</string>
-    <string name="to_wake_up">Per svegliarti riposato alle %1$s:%2$s, devi dormire in uno di questi orari:</string>
+    <string name="to_wake_up">Per svegliarti riposato alle %s, devi dormire in uno di questi orari:</string>
     <string name="wake_in_90_min_cycle">Se ti svegli in uno di questi momenti, ti alzerai tra i cicli di sonno di %s minuti.</string>
     <string name="sleep_in_90_min_cycle">Se dormi a uno di questi orari, ti sveglierai tra i cicli di sonno di %s minuti.</string>
-    <string name="to_sleep_now">Se dormi alle %1$s:%2$s, devi svegliarti ad uno degli orari seguenti:</string>
+    <string name="to_sleep_now">Se dormi alle %s, devi svegliarti ad uno degli orari seguenti:</string>
     <string name="a_good_sleep">Un buon sonno dovrebbe consistere in 5–6 cicli completi di sonno.</string>
     <string name="suggested">Suggerito</string>
-    <string name="if_you_sleep_action">Se dormi alle %1$s:%2$s, otterrai:</string>
-    <string name="if_you_wakeup_action">Se ti svegli alle %1$s:%2$s, otterrai:</string>
+    <string name="if_you_sleep_action">Se dormi alle %s, otterrai:</string>
+    <string name="if_you_wakeup_action">Se ti svegli alle %s, otterrai:</string>
     <string name="sleep_time_details">%s cicli di sonno</string>
     <string name="one_cycle_sleep_time_details">1 ciclo del sonno</string>
     <string name="sleep_time_recommend_details">Gli adulti sani hanno bisogno di almeno sette ore di sonno per notte. I neonati, i bambini piccoli e gli adolescenti hanno bisogno ancora di più sonno per consentire la loro crescita e sviluppo.</string>
@@ -341,5 +341,10 @@ Gestisci lo stress</string>
     <string name="language_explain_3">Il download del pacchetto di lingua potrebbe richiedere alcuni secondi, quindi per favore sii paziente.</string>
     <string name="cycle_length_explain">Non tutti i cicli del sonno hanno la stessa durata, ma in media durano circa 90 minuti ciascuno.</string>
     <string name="cycle_length_explain_2">Il primo ciclo di sonno è spesso il più corto, variando tra i 70 e i 100 minuti, mentre i cicli successivi tendono a durare tra i 90 e i 120 minuti.</string>
+    <string name="swipe_to_delete_alarm">Scorri per eliminare</string>
+    <string name="swipe_to_delete_alarm_details">Scorri a sinistra/destra sulla sveglia per eliminare</string>
+    <string name="pm">PM</string>
+    <string name="am">AM</string>
+    <string name="use_24h_format">Formato 24 ore</string>
 
 </resources>

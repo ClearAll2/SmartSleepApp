@@ -27,14 +27,14 @@
     <string name="wake_up_time">Heure de réveil</string>
     <string name="the_average_human_time_to_sleep">Vous avez besoin de %s minutes pour vous endormir. Nous avons inclus ce temps lors du calcul de votre résultat.</string>
     <string name="the_average_human_time_to_sleep_without_15">Vous avez besoin de %s minutes pour vous endormir. Nous n\'avons pas inclus ce temps dans le calcul de votre résultat.</string>
-    <string name="to_wake_up">Pour vous réveiller reposé à %1$s:%2$s, vous devez dormir à l\'un des moments suivants :</string>
+    <string name="to_wake_up">Pour vous réveiller reposé à %s, vous devez dormir à l\'un des moments suivants :</string>
     <string name="wake_in_90_min_cycle">Si vous vous réveillez à l\'une de ces heures, vous vous lèverez entre les cycles de sommeil de %s minutes.</string>
     <string name="sleep_in_90_min_cycle">Si vous dormez à l\'une de ces heures, vous vous réveillerez entre des cycles de sommeil de %s minutes.</string>
-    <string name="to_sleep_now">Si vous vous couchez à %1$s:%2$s, vous devez vous réveiller à l\'un des moments suivants :</string>
+    <string name="to_sleep_now">Si vous vous couchez à %s, vous devez vous réveiller à l\'un des moments suivants :</string>
     <string name="a_good_sleep">Un bon sommeil devrait comprendre 5 à 6 cycles de sommeil complets.</string>
     <string name="suggested">Suggéré</string>
-    <string name="if_you_sleep_action">Si vous dormez à %1$s:%2$s, vous obtiendrez :</string>
-    <string name="if_you_wakeup_action">Si vous vous réveillez à %1$s:%2$s, vous obtiendrez:</string>
+    <string name="if_you_sleep_action">Si vous dormez à %s, vous obtiendrez :</string>
+    <string name="if_you_wakeup_action">Si vous vous réveillez à %s, vous obtiendrez:</string>
     <string name="sleep_time_details">%s cycles de sommeil</string>
     <string name="one_cycle_sleep_time_details">1 cycle de sommeil</string>
     <string name="sleep_time_recommend_details">Les adultes en santé ont besoin d\'au moins sept heures de sommeil par nuit. Les bébés, les jeunes enfants et les adolescents ont besoin de encore plus de sommeil pour favoriser leur croissance et leur développement.</string>
@@ -341,5 +341,10 @@ Gérez le stress</string>
     <string name="language_explain_3">Le téléchargement du pack de langue peut prendre quelques secondes, veuillez patienter.</string>
     <string name="cycle_length_explain">Tous les cycles de sommeil n\'ont pas la même durée, mais en moyenne, ils durent environ 90 minutes chacun.</string>
     <string name="cycle_length_explain_2">Le premier cycle de sommeil est souvent le plus court, variant entre 70 et 100 minutes, tandis que les cycles suivants tendent à se situer entre 90 et 120 minutes.</string>
+    <string name="swipe_to_delete_alarm">Glisser pour supprimer</string>
+    <string name="swipe_to_delete_alarm_details">Faites glisser l\'alarme vers la gauche/droite pour supprimer</string>
+    <string name="pm">PM</string>
+    <string name="am">AM</string>
+    <string name="use_24h_format">Format 24 heures</string>
 
 </resources>

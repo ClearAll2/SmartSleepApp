@@ -1,6 +1,11 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
+## 0.4.2.7 (184)
+- Add a new setting option for alarm: Swipe to delete.
+- Add a long-awaited setting option: 24-Hour format.
+- Minor UI improvements.
+
 ## 0.4.2.6 (181)
 - New language picker UI.
 - Officially support Android 15.

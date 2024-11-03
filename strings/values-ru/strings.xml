@@ -27,14 +27,14 @@
     <string name="wake_up_time">Время пробуждения</string>
     <string name="the_average_human_time_to_sleep">Вам нужно %s минут, чтобы заснуть. Мы включили это время при подсчете вашего результата.</string>
     <string name="the_average_human_time_to_sleep_without_15">Вам понадобится %s минут, чтобы заснуть. Мы не учитывали это время при расчете вашего результата.</string>
-    <string name="to_wake_up">Чтобы проснуться отдохнувшим в %1$s:%2$s, вам необходимо лечь спать в одно из следующих времен:</string>
+    <string name="to_wake_up">Чтобы проснуться отдохнувшим в %s, вам необходимо лечь спать в одно из следующих времен:</string>
     <string name="wake_in_90_min_cycle">Если вы проснетесь в одно из этих времен, вы подниметесь между циклами сна продолжительностью %s минут.</string>
     <string name="sleep_in_90_min_cycle">Если вы ляжете спать в одно из этих времен, то проснетесь между %s-минутными циклами сна.</string>
-    <string name="to_sleep_now">Если вы спите в %1$s:%2$s, вам нужно проснуться в одно из следующих времен:</string>
+    <string name="to_sleep_now">Если вы спите в %s, вам нужно проснуться в одно из следующих времен:</string>
     <string name="a_good_sleep">Хороший сон должен состоять из 5–6 полных циклов сна.</string>
     <string name="suggested">Предложенный</string>
-    <string name="if_you_sleep_action">Если вы заснете в %1$s:%2$s, вы получите:</string>
-    <string name="if_you_wakeup_action">Если вы проснетесь в %1$s:%2$s, вы получите:</string>
+    <string name="if_you_sleep_action">Если вы заснете в %s, вы получите:</string>
+    <string name="if_you_wakeup_action">Если вы проснетесь в %s, вы получите:</string>
     <string name="sleep_time_details">Циклы сна %s</string>
     <string name="one_cycle_sleep_time_details">1 цикл сна</string>
     <string name="sleep_time_recommend_details">Здоровым взрослым необходимо спать как минимум семь часов в ночь. Младенцам, маленьким детям и подросткам нужно спать еще больше, чтобы обеспечить их рост и развитие.</string>
@@ -334,4 +334,9 @@
     <string name="language_explain_3">Загрузка языкового пакета может занять несколько секунд, пожалуйста, будьте терпеливы.</string>
     <string name="cycle_length_explain">Не все циклы сна имеют одинаковую продолжительность, но в среднем они длятся около 90 минут каждый.</string>
     <string name="cycle_length_explain_2">Первый цикл сна часто является самым коротким и составляет от 70 до 100 минут, в то время как последующие циклы, как правило, длятся от 90 до 120 минут.</string>
+    <string name="swipe_to_delete_alarm">смахнуть для удаления</string>
+    <string name="swipe_to_delete_alarm_details">Смахните влево/вправо, чтобы удалить будильник</string>
+    <string name="pm">ПП</string>
+    <string name="am">ДП</string>
+    <string name="use_24h_format">24-часовой формат</string>
 </resources>

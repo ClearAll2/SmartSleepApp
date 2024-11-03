@@ -26,14 +26,14 @@
     <string name="wake_up_time">Wake-up time</string>
     <string name="the_average_human_time_to_sleep">You need %s minutes to fall asleep. We included that time when calculating your result.</string>
     <string name="the_average_human_time_to_sleep_without_15">You need %s minutes to fall asleep. We didn\'t include that time when calculating your result.</string>
-    <string name="to_wake_up">To wake up refreshed at %1$s:%2$s, you need to sleep at one of the following times:</string>
+    <string name="to_wake_up">To wake up refreshed at %s, you need to sleep at one of the following times:</string>
     <string name="wake_in_90_min_cycle">If you wake up at one of these times, you’ll rise in between %s-minute sleep cycles.</string>
     <string name="sleep_in_90_min_cycle">If you sleep at one of these times, you’ll rise in between %s-minute sleep cycles.</string>
-    <string name="to_sleep_now">If you sleep at %1$s:%2$s, you need to wake up at one of the following times:</string>
+    <string name="to_sleep_now">If you sleep at %s, you need to wake up at one of the following times:</string>
     <string name="a_good_sleep">A good sleep should consist of 5–6 complete sleep cycles.</string>
     <string name="suggested">Suggested</string>
-    <string name="if_you_sleep_action">If you sleep at %1$s:%2$s, you\'ll get:</string>
-    <string name="if_you_wakeup_action">If you wakeup at %1$s:%2$s, you\'ll get:</string>
+    <string name="if_you_sleep_action">If you sleep at %s, you\'ll get:</string>
+    <string name="if_you_wakeup_action">If you wakeup at %s, you\'ll get:</string>
     <string name="sleep_time_details">%s sleep cycles</string>
     <string name="one_cycle_sleep_time_details">1 sleep cycle</string>
     <string name="sleep_time_recommend_details">Healthy adults need at least seven hours of sleep per night. Babies, young children, and teens need even more sleep to enable their growth and development.</string>
@@ -333,4 +333,9 @@
     <string name="language_explain_3">It may take a few seconds to download the language pack, so please be patient.</string>
     <string name="cycle_length_explain">Not all sleep cycles are the same length, but on average they last about 90 minutes each.</string>
     <string name="cycle_length_explain_2">The first sleep cycle is often the shortest, ranging from 70 to 100 minutes, while later cycles tend to fall between 90 and 120 minutes.</string>
+    <string name="swipe_to_delete_alarm">Swipe to delete</string>
+    <string name="swipe_to_delete_alarm_details">Swipe left/right on alarm to delete</string>
+    <string name="pm">PM</string>
+    <string name="am">AM</string>
+    <string name="use_24h_format">24-Hour format</string>
 </resources>

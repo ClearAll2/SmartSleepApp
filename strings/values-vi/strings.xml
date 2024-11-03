@@ -27,14 +27,14 @@
     <string name="wake_up_time">Giờ thức dậy</string>
     <string name="the_average_human_time_to_sleep">Bạn cần %s phút để chìm vào giấc ngủ. Chúng tôi đã thêm thời gian đó khi tính toán.</string>
     <string name="the_average_human_time_to_sleep_without_15">Bạn cần %s phút để chìm vào giấc ngủ. Chúng tôi đã không thêm thời gian đó khi tính toán.</string>
-    <string name="to_wake_up">Để thức dậy tỉnh táo vào lúc %1$s:%2$s, bạn cần đi ngủ vào một trong những giờ sau:</string>
+    <string name="to_wake_up">Để thức dậy tỉnh táo vào lúc %s, bạn cần đi ngủ vào một trong những giờ sau:</string>
     <string name="wake_in_90_min_cycle">Nếu bạn thức dậy vào một trong những khoảng thời gian này, bạn sẽ thức vào giữa chu kì ngủ %s phút.</string>
     <string name="sleep_in_90_min_cycle">Nếu bạn ngủ vào một trong những khoảng thời gian này, bạn sẽ thức vào giữa chu kì ngủ %s phút.</string>
-    <string name="to_sleep_now">Nếu bạn ngủ lúc %1$s:%2$s, bạn sẽ cần thức dậy vào một trong những giờ sau:</string>
+    <string name="to_sleep_now">Nếu bạn ngủ lúc %s, bạn sẽ cần thức dậy vào một trong những giờ sau:</string>
     <string name="a_good_sleep">Một giấc ngủ tốt nên có 5–6 chu kỳ ngủ hoàn chỉnh.</string>
     <string name="suggested">Khuyến khích</string>
-    <string name="if_you_sleep_action">Nếu bạn ngủ lúc %1$s:%2$s, bạn sẽ có:</string>
-    <string name="if_you_wakeup_action">Nếu bạn thức dậy lúc %1$s:%2$s, bạn sẽ có:</string>
+    <string name="if_you_sleep_action">Nếu bạn ngủ lúc %s, bạn sẽ có:</string>
+    <string name="if_you_wakeup_action">Nếu bạn thức dậy lúc %s, bạn sẽ có:</string>
     <string name="sleep_time_details">%s chu kỳ giấc ngủ</string>
     <string name="one_cycle_sleep_time_details">1 chu kỳ giấc ngủ</string>
     <string name="sleep_time_recommend_details">Người trưởng thành khỏe mạnh cần ngủ ít nhất bảy tiếng mỗi đêm. Trẻ sơ sinh, trẻ nhỏ và thanh thiếu niên thậm chí cần ngủ nhiều hơn để có thể tăng trưởng và phát triển.</string>
@@ -334,4 +334,9 @@
     <string name="language_explain_3">Quá trình tải xuống gói ngôn ngữ có thể mất vài giây, xin vui lòng kiên nhẫn chờ đợi.</string>
     <string name="cycle_length_explain">Không phải tất cả các chu kỳ giấc ngủ đều có cùng độ dài, nhưng trung bình chúng kéo dài khoảng 90 phút mỗi chu kỳ.</string>
     <string name="cycle_length_explain_2">Chu kỳ giấc ngủ đầu tiên thường là ngắn nhất, kéo dài từ 70 đến 100 phút, trong khi các chu kỳ sau thường kéo dài từ 90 đến 120 phút.</string>
+    <string name="swipe_to_delete_alarm">Vuốt để xóa</string>
+    <string name="swipe_to_delete_alarm_details">Vuốt sang trái/phải trên báo thức để xóa</string>
+    <string name="pm">CH</string>
+    <string name="am">SA</string>
+    <string name="use_24h_format">Định dạng 24 giờ</string>
 </resources>

@@ -26,15 +26,15 @@
     <string name="bed_time">就寝时间</string>
     <string name="wake_up_time">起床时间</string>
     <string name="the_average_human_time_to_sleep">您需要%s分钟入睡。在计算您的结果时，我们已经包含了这段时间。</string>
-    <string name="the_average_human_time_to_sleep_without_15">您需要%s分钟才能入睡。在计算您的结果时，我们没有包括这段时间。</string>
-    <string name="to_wake_up">要在%1$s:%2$s醒来感到清新，您需要在以下时间之一入睡:</string>
+    <string name="the_average_human_time_to_sleep_without_15">您需要 %s 分钟才能入睡。在计算您的结果时，我们没有包括这段时间。</string>
+    <string name="to_wake_up">要在 %s 醒来感到清新，您需要在以下时间之一入睡:</string>
     <string name="wake_in_90_min_cycle">如果您在其中一个时间醒来，您会在%s分钟的睡眠周期之间起床。</string>
     <string name="sleep_in_90_min_cycle">如果你在这些时间之一入睡，你将在%s分钟的睡眠周期之间醒来。</string>
-    <string name="to_sleep_now">如果您在%1$s：%2$s 睡觉，您需要在以下时间之一醒来：</string>
+    <string name="to_sleep_now">如果您在 %s 睡觉，您需要在以下时间之一醒来：</string>
     <string name="a_good_sleep">一个良好的睡眠应包含5–6个完整的睡眠周期。</string>
     <string name="suggested">建议</string>
-    <string name="if_you_sleep_action">如果你在%1$s：%2$s 睡觉，你将得到：</string>
-    <string name="if_you_wakeup_action">如果你在%1$s:%2$s醒来，你会得到：</string>
+    <string name="if_you_sleep_action">如果你在 %s 睡觉，你将得到：</string>
+    <string name="if_you_wakeup_action">如果你在 %s 醒来，你会得到：</string>
     <string name="sleep_time_details">%s个睡眠周期</string>
     <string name="one_cycle_sleep_time_details">1个睡眠周期</string>
     <string name="sleep_time_recommend_details">健康的成年人每晚至少需要七个小时的睡眠。婴儿、幼儿和青少年需要更多的睡眠来促进他们的成长和发育。</string>
@@ -341,4 +341,9 @@
     <string name="language_explain_3">下载语言包可能需要几秒钟，请耐心等待。</string>
     <string name="cycle_length_explain">并非所有睡眠周期的长度都相同，但平均每个周期大约持续90分钟。</string>
     <string name="cycle_length_explain_2">第一个睡眠周期通常是最短的，通常在70到100分钟之间，而后来的周期往往在90到120分钟之间。</string>
+    <string name="swipe_to_delete_alarm">滑动删除</string>
+    <string name="swipe_to_delete_alarm_details">左右滑动删除闹钟</string>
+    <string name="pm">下午</string>
+    <string name="am">上午</string>
+    <string name="use_24h_format">24小时制</string>
 </resources>

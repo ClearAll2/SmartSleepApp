@@ -27,14 +27,14 @@
     <string name="wake_up_time">起床時間</string>
     <string name="the_average_human_time_to_sleep">結果を計算する際に、入眠するために%s分が必要です。その時間は計算に含まれています。</string>
     <string name="the_average_human_time_to_sleep_without_15">あなたが眠りにつくまでに%s分かかります。結果を計算する際にその時間は含めていません。</string>
-    <string name="to_wake_up">リフレッシュされて目覚めるためには、%1$s:%2$sに眠る必要があります。次のいずれかの時間に眠る必要があります。</string>
+    <string name="to_wake_up">リフレッシュされて目覚めるためには、%sに眠る必要があります。次のいずれかの時間に眠る必要があります。</string>
     <string name="wake_in_90_min_cycle">これらの時間のいずれかで起きると、%s分の睡眠周期の間に起きるでしょう。</string>
     <string name="sleep_in_90_min_cycle">これらの時間のいずれかで寝ると、%s分の睡眠サイクルの間に起床します。</string>
     <string name="to_sleep_now">もし%1$s時%2$s分に寝た場合、以下のいずれかの時間に起きる必要があります:</string>
     <string name="a_good_sleep">良い睡眠は5〜6つの完全な睡眠周期で構成される必要があります。</string>
     <string name="suggested">提案された</string>
-    <string name="if_you_sleep_action">もし %1$s:%2$s に寝ると、次のような結果が得られます:</string>
-    <string name="if_you_wakeup_action">もし%1$s:%2$sに起きると、以下の結果が得られます:</string>
+    <string name="if_you_sleep_action">もし %s に寝ると、次のような結果が得られます:</string>
+    <string name="if_you_wakeup_action">もし%sに起きると、以下の結果が得られます:</string>
     <string name="sleep_time_details">%s 睡眠サイクル</string>
     <string name="one_cycle_sleep_time_details">1サイクルの睡眠</string>
     <string name="sleep_time_recommend_details">健康な成人は、毎晩少なくとも7時間の睡眠が必要です。赤ちゃん、幼児、および10代の若者は、成長と発達を促進するためにさらに多くの睡眠が必要です。</string>
@@ -334,4 +334,9 @@
     <string name="language_explain_3">言語パックのダウンロードには数秒かかる場合がありますので、しばらくお待ちください。</string>
     <string name="cycle_length_explain">すべての睡眠サイクルが同じ長さではありませんが、平均して約90分続きます。</string>
     <string name="cycle_length_explain_2">最初の睡眠サイクルは最も短く、70分から100分の間であることが多いですが、その後のサイクルは90分から120分の間になる傾向があります。</string>
+    <string name="swipe_to_delete_alarm">スワイプして削除</string>
+    <string name="swipe_to_delete_alarm_details">アラームを左右にスワイプして削除</string>
+    <string name="pm">午後</string>
+    <string name="am">午前</string>
+    <string name="use_24h_format">24時間制</string>
 </resources>

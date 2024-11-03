@@ -27,14 +27,14 @@
     <string name="wake_up_time">Weckzeit</string>
     <string name="the_average_human_time_to_sleep">Sie brauchen %s Minuten, um einzuschlafen. Wir haben diese Zeit bei der Berechnung Ihres Ergebnisses berücksichtigt.</string>
     <string name="the_average_human_time_to_sleep_without_15">Du benötigst %s Minuten, um einzuschlafen. Wir haben diese Zeit bei der Berechnung deines Ergebnisses nicht berücksichtigt.</string>
-    <string name="to_wake_up">Um erfrischt um %1$s:%2$s aufzuwachen, müssen Sie zu einer der folgenden Zeiten schlafen:</string>
+    <string name="to_wake_up">Um erfrischt um %s aufzuwachen, müssen Sie zu einer der folgenden Zeiten schlafen:</string>
     <string name="wake_in_90_min_cycle">Wenn Sie zu einer dieser Zeiten aufwachen, werden Sie zwischen %s-Minuten-Schlafzyklen aufstehen.</string>
     <string name="sleep_in_90_min_cycle">Wenn Sie zu einer dieser Zeiten schlafen, werden Sie zwischen %s-minütigen Schlafzyklen aufwachen.</string>
-    <string name="to_sleep_now">Wenn du um %1$s:%2$s schläfst, musst du zu einer der folgenden Zeiten aufwachen:</string>
+    <string name="to_sleep_now">Wenn du um %s schläfst, musst du zu einer der folgenden Zeiten aufwachen:</string>
     <string name="a_good_sleep">Ein guter Schlaf sollte aus 5–6 vollständigen Schlafzyklen bestehen.</string>
     <string name="suggested">Vorgeschlagen</string>
-    <string name="if_you_sleep_action">Wenn du um %1$s:%2$s schläfst, wirst du bekommen:</string>
-    <string name="if_you_wakeup_action">Wenn du um %1$s:%2$s aufwachst, bekommst du:</string>
+    <string name="if_you_sleep_action">Wenn du um %s schläfst, wirst du bekommen:</string>
+    <string name="if_you_wakeup_action">Wenn du um %s aufwachst, bekommst du:</string>
     <string name="sleep_time_details">%s Schlafzyklen</string>
     <string name="one_cycle_sleep_time_details">1 Schlafzyklus</string>
     <string name="sleep_time_recommend_details">Gesunde Erwachsene benötigen mindestens sieben Stunden Schlaf pro Nacht. Babys, Kleinkinder und Jugendliche benötigen sogar noch mehr Schlaf, um ihr Wachstum und ihre Entwicklung zu ermöglichen.</string>
@@ -334,4 +334,9 @@
     <string name="language_explain_3">Der Download des Sprachpakets kann einige Sekunden dauern, bitte haben Sie Geduld.</string>
     <string name="cycle_length_explain">Nicht alle Schlafzyklen sind gleich lang, aber im Durchschnitt dauern sie jeweils etwa 90 Minuten.</string>
     <string name="cycle_length_explain_2">Der erste Schlafzyklus ist oft der kürzeste und dauert zwischen 70 und 100 Minuten, während spätere Zyklen tendenziell zwischen 90 und 120 Minuten liegen.</string>
+    <string name="swipe_to_delete_alarm">Wischen zum Löschen</string>
+    <string name="swipe_to_delete_alarm_details">Wischen Sie nach links/rechts auf dem Wecker, um zu löschen</string>
+    <string name="pm">Nachm</string>
+    <string name="am">Vorm</string>
+    <string name="use_24h_format">24-Stunden-Format</string>
 </resources>

@@ -27,14 +27,14 @@
     <string name="wake_up_time">Ontwaaktijd</string>
     <string name="the_average_human_time_to_sleep">Je hebt %s minuten nodig om in slaap te vallen. We hebben die tijd meegenomen bij het berekenen van je resultaat.</string>
     <string name="the_average_human_time_to_sleep_without_15">Je hebt %s minuten nodig om in slaap te vallen. We hebben die tijd niet meegerekend bij het berekenen van je resultaat.</string>
-    <string name="to_wake_up">Om fris wakker te worden om %1$s:%2$s, moet je op een van de volgende tijden gaan slapen:</string>
+    <string name="to_wake_up">Om fris wakker te worden om %s, moet je op een van de volgende tijden gaan slapen:</string>
     <string name="wake_in_90_min_cycle">Als je op een van deze tijden wakker wordt, sta je op tussen de %s-minuten slaapcycli.</string>
     <string name="sleep_in_90_min_cycle">Als je op een van deze tijden slaapt, sta je op tussen de %s-minuten slaapcycli.</string>
-    <string name="to_sleep_now">Als je slaapt om %1$s:%2$s, moet je wakker worden op een van de volgende tijden:</string>
+    <string name="to_sleep_now">Als je slaapt om %s, moet je wakker worden op een van de volgende tijden:</string>
     <string name="a_good_sleep">Een goede nachtrust moet bestaan uit 5–6 volledige slaapcycli.</string>
     <string name="suggested">Voorgesteld</string>
-    <string name="if_you_sleep_action">Als je slaapt om %1$s:%2$s, krijg je:</string>
-    <string name="if_you_wakeup_action">Als je wakker wordt om %1$s:%2$s, krijg je:</string>
+    <string name="if_you_sleep_action">Als je slaapt om %s, krijg je:</string>
+    <string name="if_you_wakeup_action">Als je wakker wordt om %s, krijg je:</string>
     <string name="sleep_time_details">%s slaapcycli</string>
     <string name="one_cycle_sleep_time_details">1 slaapcyclus</string>
     <string name="sleep_time_recommend_details">Gezonde volwassenen hebben minstens zeven uur slaap per nacht nodig. Baby\'s, jonge kinderen en tieners hebben zelfs meer slaap nodig om hun groei en ontwikkeling te bevorderen.</string>
@@ -334,5 +334,10 @@
     <string name="language_explain_3">Het kan enkele seconden duren om het taalpakket te downloaden, wees alstublieft geduldig.</string>
     <string name="cycle_length_explain">Niet alle slaapcycli zijn even lang, maar gemiddeld duren ze elk ongeveer 90 minuten.</string>
     <string name="cycle_length_explain_2">De eerste slaapcyclus is vaak de kortste, variërend van 70 tot 100 minuten, terwijl latere cycli meestal tussen de 90 en 120 minuten duren.</string>
+    <string name="swipe_to_delete_alarm">Vegen om te verwijderen</string>
+    <string name="swipe_to_delete_alarm_details">Veeg naar links/rechts op het alarm om te verwijderen</string>
+    <string name="pm">nm</string>
+    <string name="am">vm</string>
+    <string name="use_24h_format">24-uurs formaat</string>
 
 </resources>
