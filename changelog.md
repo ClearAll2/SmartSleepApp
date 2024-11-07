@@ -1,6 +1,10 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
+## 0.4.2.7 (185 - Hotfix)
+- Fixed: "Swipe to delete" option has not been working properly.
+- "24-Hour format" option now works with Alarm notification screen.
+
 ## 0.4.2.7 (184)
 - Add a new setting option for alarm: Swipe to delete.
 - Add a long-awaited setting option: 24-Hour format.
