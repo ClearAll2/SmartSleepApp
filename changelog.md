@@ -1,7 +1,7 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
-## 0.4.3.0 (192)
+## 0.4.3.0 (194)
 - Overhaul the Sound screen UI.
 - Introduce 2 new theme colors (Plus only): Hope & Dream.
 - Add a new feature (Beta access available first for Plus users.): Now you can add sound files directly from your phone's storage.
