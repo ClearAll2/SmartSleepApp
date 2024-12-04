@@ -1,9 +1,14 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
+## 0.4.3.0 (192)
+- Overhaul the Sound screen UI.
+- Introduce 2 new theme colors (Plus only): Hope & Dream.
+- Add a new feature (Beta access available first for Plus users.): Now you can add sound files directly from your phone's storage.
+
 ## 0.4.2.8 (187)
-- Add a new option: now you can switch view in Sounds Selection screen.
-- UI improvements and tweaks.
+- Introduce a new option: Now you can switch views in the Sounds Selection screen.
+- Implement various UI improvements and tweaks.
 
 ## 0.4.2.7 (185 - Hotfix)
 - Fixed: "Swipe to delete" option has not been working properly.
