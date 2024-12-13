@@ -1,6 +1,12 @@
 # Changelog
 We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
 
+## 0.4.3.1 (195)
+- Fixed: wrong app version format.
+- Fixed: play sound button size on big display/font scale.
+- Fixed: app crashes occurring in rare situations due to alarms (yet another issue ☹️).
+
+
 ## 0.4.3.0 (194)
 - Overhaul the Sound screen UI.
 - Introduce 2 new theme colors (Plus only): Hope & Dream.
