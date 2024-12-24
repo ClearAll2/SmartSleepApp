@@ -1,16 +1,18 @@
 # Changelog
-We’re always making changes and improvements to Smart Sleep. To make sure you don’t miss a thing, just keep your updates turned on.
+Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
+
+## 0.4.3.2 (196 - Final update of 2024)
+- Fixed (beta access available first for Plus users): "null" title of custom sound files.
 
 ## 0.4.3.1 (195)
 - Fixed: wrong app version format.
 - Fixed: play sound button size on big display/font scale.
 - Fixed: app crashes occurring in rare situations due to alarms (yet another issue ☹️).
 
-
 ## 0.4.3.0 (194)
 - Overhaul the Sound screen UI.
 - Introduce 2 new theme colors (Plus only): Hope & Dream.
-- Add a new feature (Beta access available first for Plus users.): Now you can add sound files directly from your phone's storage.
+- Add a new feature (beta access available first for Plus users): Now you can add sound files directly from your phone's storage.
 
 ## 0.4.2.8 (187)
 - Introduce a new option: Now you can switch views in the Sounds Selection screen.
