@@ -2,7 +2,8 @@
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
 
 ## 0.4.3.2 (196 - Final update of 2024)
-- Fixed (beta access available first for Plus users): "null" title of custom sound files.
+- Fixed: "null" title of custom sound files (new feature, beta access available first for Plus users).
+- Minor UI tweaks.
 
 ## 0.4.3.1 (195)
 - Fixed: wrong app version format.
