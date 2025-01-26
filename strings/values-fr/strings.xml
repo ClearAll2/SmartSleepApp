@@ -53,7 +53,7 @@
     <string name="sleep_sounds_details">Les sons de relaxation, les sons de la nature peuvent vous aider à vous endormir plus rapidement.</string>
     <string name="stop_timer">Arrêter le minuteur</string>
     <string name="one_hour">1 heure</string>
-    <string name="select_sleep_sound">Sélectionnez le son pour dormir</string>
+    <string name="select_sleep_sound">Ajouter</string>
     <string name="sound">Sons</string>
     <string name="app_info">Info sur l\'application</string>
     <string name="play_preview">Jouer un aperçu des sons de sommeil</string>
@@ -319,7 +319,7 @@ Gérez le stress</string>
     <string name="downloading_update">"Téléchargement de la mise à jour…"</string>
     <string name="not_download">"La mise à jour ne sera pas téléchargée"</string>
     <string name="plus_sound">"Sons incroyables"</string>
-    <string name="plus_sound_details">"Débloquez plus de sons de sommeil"</string>
+    <string name="plus_sound_details">Déverrouillez plus de sons pour le sommeil et l\'option de jouer vos sons personnalisés</string>
     <string name="images_text">"Fichiers d\'image de Pixabay"</string>
     <string name="turn_off_in_app_alarm">"Désactiver l\'alarme intégrée?"</string>
     <string name="turn_on_in_app_alarm">"Activer l\'alarme dans l\'application ?"</string>
@@ -346,5 +346,11 @@ Gérez le stress</string>
     <string name="pm">PM</string>
     <string name="am">AM</string>
     <string name="use_24h_format">Format 24 heures</string>
+    <string name="sleep_sounds_details_2">Si l\'option d\'aperçu du son est activée, appuyez sur le son pour le lire, puis appuyez à nouveau pour l\'arrêter.</string>
+    <string name="plus_promotion">Déverrouillez Smart Sleep+ pour plus.</string>
+    <string name="app_sounds">Sons de l\'application</string>
+    <string name="your_sounds">Vos sons</string>
+    <string name="hope">Espoir</string>
+    <string name="dream">Rêve</string>
 
 </resources>

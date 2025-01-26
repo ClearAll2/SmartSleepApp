@@ -52,7 +52,7 @@
     <string name="sleep_sounds_details">Relaxation sounds, nature sounds can help you fall asleep faster.</string>
     <string name="stop_timer">Stop timer</string>
     <string name="one_hour">1 hour</string>
-    <string name="select_sleep_sound">Select sleep sound</string>
+    <string name="select_sleep_sound">Add</string>
     <string name="sound">Sounds</string>
     <string name="app_info">App Info</string>
     <string name="play_preview">Play preview of sleep sounds</string>
@@ -311,7 +311,7 @@
     <string name="downloading_update">Downloading update…</string>
     <string name="download_complete">Downloaded successfully. Restarting app in 3 seconds.</string>
     <string name="plus_sound">Amazing sounds</string>
-    <string name="plus_sound_details">Unlock more sleep sounds</string>
+    <string name="plus_sound_details">Unlock more sleep sounds and the option to play your personalized sounds</string>
     <string name="images_text">Image files from Pixabay</string>
     <string name="turn_off_in_app_alarm">Turn off in-app alarm?</string>
     <string name="turn_on_in_app_alarm">Turn on in-app alarm?</string>
@@ -338,4 +338,10 @@
     <string name="pm">PM</string>
     <string name="am">AM</string>
     <string name="use_24h_format">24-Hour format</string>
+    <string name="sleep_sounds_details_2">If sound preview option is enabled, tap the sound to play it, and tap again to stop.</string>
+    <string name="plus_promotion">Unlock Smart Sleep+ for more.</string>
+    <string name="app_sounds">App sounds</string>
+    <string name="your_sounds">Your sounds</string>
+    <string name="hope">Hope</string>
+    <string name="dream">Dream</string>
 </resources>

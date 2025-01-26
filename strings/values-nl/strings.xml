@@ -53,7 +53,7 @@
     <string name="sleep_sounds_details">Ontspanningsgeluiden, natuurgeluiden kunnen je helpen sneller in slaap te vallen.</string>
     <string name="stop_timer">Stop timer</string>
     <string name="one_hour">1 uur</string>
-    <string name="select_sleep_sound">Selecteer slaapgeluid</string>
+    <string name="select_sleep_sound">Toevoegen</string>
     <string name="sound">Klanken</string>
     <string name="app_info">App Informatie</string>
     <string name="play_preview">Speel voorbeeld van slaapgeluiden</string>
@@ -312,7 +312,7 @@
     <string name="downloading_update">"Update downloaden…"</string>
     <string name="not_download">"Update zal niet worden gedownload"</string>
     <string name="plus_sound">"Geweldige geluiden"</string>
-    <string name="plus_sound_details">"Ontgrendel meer slaapgeluiden"</string>
+    <string name="plus_sound_details">Ontgrendel meer slaapgeluiden en de optie om je eigen geluiden af te spelen</string>
     <string name="images_text">"Afbeeldingsbestanden van Pixabay"</string>
     <string name="turn_off_in_app_alarm">"In-app alarm uitschakelen?"</string>
     <string name="turn_on_in_app_alarm">"In-app alarm inschakelen?"</string>
@@ -339,5 +339,11 @@
     <string name="pm">nm</string>
     <string name="am">vm</string>
     <string name="use_24h_format">24-uurs formaat</string>
+    <string name="sleep_sounds_details_2">Als de optie geluidsvoorbeeld is ingeschakeld, tik op het geluid om het af te spelen en tik nogmaals om het te stoppen.</string>
+    <string name="plus_promotion">Ontgrendel Smart Sleep+ voor meer.</string>
+    <string name="app_sounds">App-geluiden</string>
+    <string name="your_sounds">Jouw geluiden</string>
+    <string name="hope">Hoop</string>
+    <string name="dream">Droom</string>
 
 </resources>

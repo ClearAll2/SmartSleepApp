@@ -53,7 +53,7 @@
     <string name="sleep_sounds_details">I suoni di relax e i suoni della natura possono aiutarti ad addormentarti più velocemente.</string>
     <string name="stop_timer">Stop timer</string>
     <string name="one_hour">1 ora</string>
-    <string name="select_sleep_sound">Seleziona il suono del sonno</string>
+    <string name="select_sleep_sound">Aggiungere</string>
     <string name="sound">Suoni</string>
     <string name="app_info">Informazioni sull\'app</string>
     <string name="play_preview">Riproduci anteprima dei suoni del sonno</string>
@@ -319,7 +319,7 @@ Gestisci lo stress</string>
     <string name="downloading_update">"Scaricamento aggiornamento…"</string>
     <string name="not_download">"L'aggiornamento non verrà scaricato"</string>
     <string name="plus_sound">"Suoni incredibili"</string>
-    <string name="plus_sound_details">"Sblocca più suoni per dormire"</string>
+    <string name="plus_sound_details">Sblocca più suoni per dormire e l\'opzione di riprodurre i tuoi suoni personalizzati</string>
     <string name="images_text">"File immagine da Pixabay"</string>
     <string name="turn_off_in_app_alarm">"Spegnere l\'allarme dell\'app?"</string>
     <string name="turn_on_in_app_alarm">"Attivare la sveglia nell\'app?"</string>
@@ -346,5 +346,11 @@ Gestisci lo stress</string>
     <string name="pm">PM</string>
     <string name="am">AM</string>
     <string name="use_24h_format">Formato 24 ore</string>
+    <string name="sleep_sounds_details_2">Se l\'opzione di anteprima del suono è abilitata, tocca il suono per riprodurlo e tocca di nuovo per fermarlo.</string>
+    <string name="plus_promotion">Sblocca Smart Sleep+ per altro.</string>
+    <string name="app_sounds">Suoni dell\'app</string>
+    <string name="your_sounds">I tuoi suoni</string>
+    <string name="hope">Speranza</string>
+    <string name="dream">Sogno</string>
 
 </resources>

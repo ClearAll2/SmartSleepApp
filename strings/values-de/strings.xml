@@ -53,7 +53,7 @@
     <string name="sleep_sounds_details">Entspannungsklänge, Naturklänge können Ihnen helfen, schneller einzuschlafen.</string>
     <string name="stop_timer">Timer stoppen</string>
     <string name="one_hour">1 Stunde</string>
-    <string name="select_sleep_sound">Wählen Sie den Schlafgeräusch</string>
+    <string name="select_sleep_sound">Hinzufügen</string>
     <string name="sound">Klänge</string>
     <string name="app_info">App-Informationen</string>
     <string name="play_preview">Vorschau von Schlafgeräuschen abspielen</string>
@@ -312,7 +312,7 @@
     <string name="downloading_update">"Update wird heruntergeladen…"</string>
     <string name="not_download">"Update wird nicht heruntergeladen"</string>
     <string name="plus_sound">"Erstaunliche Klänge"</string>
-    <string name="plus_sound_details">"Schalten Sie mehr Schlafgeräusche frei"</string>
+    <string name="plus_sound_details">Schalte mehr Schlafgeräusche frei und die Option, deine eigenen Geräusche abzuspielen</string>
     <string name="images_text">"Bilddateien von Pixabay"</string>
     <string name="turn_off_in_app_alarm">"In-App-Alarm ausschalten?"</string>
     <string name="turn_on_in_app_alarm">"In-App-Alarm einschalten?"</string>
@@ -339,4 +339,10 @@
     <string name="pm">Nachm</string>
     <string name="am">Vorm</string>
     <string name="use_24h_format">24-Stunden-Format</string>
+    <string name="sleep_sounds_details_2">"Wenn die Soundvorschau aktiviert ist, tippen Sie auf den Sound, um ihn abzuspielen, und tippen Sie erneut, um ihn zu stoppen.</string>
+    <string name="plus_promotion">Schalte Smart Sleep+ frei für mehr.</string>
+    <string name="app_sounds">App-Klänge</string>
+    <string name="your_sounds">Deine Klänge</string>
+    <string name="hope">Hoffnung</string>
+    <string name="dream">Traum</string>
 </resources>

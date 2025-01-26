@@ -53,7 +53,7 @@
     <string name="sleep_sounds_details">放松的声音，自然的声音可以帮助您更快入睡。</string>
     <string name="stop_timer">停止定时器</string>
     <string name="one_hour">1小时</string>
-    <string name="select_sleep_sound">选择睡眠音乐</string>
+    <string name="select_sleep_sound">添加</string>
     <string name="sound">声音</string>
     <string name="app_info">应用信息</string>
     <string name="play_preview">播放睡眠音效预览</string>
@@ -319,7 +319,7 @@
     <string name="downloading_update">"正在下载更新…"</string>
     <string name="not_download">"更新将不会被下载"</string>
     <string name="plus_sound">"惊人的声音"</string>
-    <string name="plus_sound_details">"解锁更多睡眠声音"</string>
+    <string name="plus_sound_details">解锁更多睡眠声音并播放自定义声音的选项</string>
     <string name="images_text">"来自 Pixabay 的图像文件"</string>
     <string name="turn_off_in_app_alarm">"关闭应用内闹钟？"</string>
     <string name="turn_on_in_app_alarm">"打开应用内闹钟？"</string>
@@ -346,4 +346,10 @@
     <string name="pm">下午</string>
     <string name="am">上午</string>
     <string name="use_24h_format">24小时制</string>
+    <string name="sleep_sounds_details_2">如果启用了声音预览选项，点击声音播放，再次点击停止。</string>
+    <string name="plus_promotion">解锁 Smart Sleep+ 以获取更多。</string>
+    <string name="app_sounds">应用声音</string>
+    <string name="your_sounds">你的声音</string>
+    <string name="hope">希望</string>
+    <string name="dream">梦</string>
 </resources>

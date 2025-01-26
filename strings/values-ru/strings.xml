@@ -53,7 +53,7 @@
     <string name="sleep_sounds_details">Звуки релаксации, звуки природы могут помочь вам заснуть быстрее.</string>
     <string name="stop_timer">Остановить таймер</string>
     <string name="one_hour">1 час</string>
-    <string name="select_sleep_sound">Выберите звук сна</string>
+    <string name="select_sleep_sound">Добавить</string>
     <string name="sound">Звуки</string>
     <string name="app_info">Информация о приложении</string>
     <string name="play_preview">Воспроизвести предварительный просмотр звуков для сна</string>
@@ -312,7 +312,7 @@
     <string name="downloading_update">"Загрузка обновления…"</string>
     <string name="not_download">"Обновление не будет загружено"</string>
     <string name="plus_sound">"Потрясающие звуки"</string>
-    <string name="plus_sound_details">"Откройте больше звуков для сна"</string>
+    <string name="plus_sound_details">Разблокируйте больше звуков для сна и возможность воспроизводить свои собственные звуки</string>
     <string name="images_text">"Файлы изображений от Pixabay"</string>
     <string name="turn_off_in_app_alarm">"Выключить будильник в приложении?"</string>
     <string name="turn_on_in_app_alarm">"Включить будильник в приложении?"</string>
@@ -339,4 +339,10 @@
     <string name="pm">ПП</string>
     <string name="am">ДП</string>
     <string name="use_24h_format">24-часовой формат</string>
+    <string name="sleep_sounds_details_2">Если включена опция предварительного просмотра звука, коснитесь звука, чтобы воспроизвести его, и коснитесь снова, чтобы остановить.</string>
+    <string name="plus_promotion">Разблокируйте Smart Sleep+ для большего.</string>
+    <string name="app_sounds">Звуки приложения</string>
+    <string name="your_sounds">Ваши звуки</string>
+    <string name="hope">Надежда</string>
+    <string name="dream">Мечта</string>
 </resources>

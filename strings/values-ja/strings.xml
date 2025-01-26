@@ -53,7 +53,7 @@
     <string name="sleep_sounds_details">リラクゼーション音、自然音はあなたがより早く眠りに落ちるのを助けることができます。</string>
     <string name="stop_timer">タイマーを停止</string>
     <string name="one_hour">1時間</string>
-    <string name="select_sleep_sound">睡眠音を選択してください</string>
+    <string name="select_sleep_sound">追加する (ついかする)</string>
     <string name="sound">サウンド</string>
     <string name="app_info">アプリ情報</string>
     <string name="play_preview">睡眠音のプレビューを再生する</string>
@@ -312,7 +312,7 @@
     <string name="downloading_update">"アップデートをダウンロード中…"</string>
     <string name="not_download">"更新がダウンロードされません"</string>
     <string name="plus_sound">"素晴らしい音"</string>
-    <string name="plus_sound_details">"さらに多くの睡眠音をアンロックする"</string>
+    <string name="plus_sound_details">より多くの睡眠サウンドとカスタムサウンドを再生するオプションをアンロック</string>
     <string name="images_text">"画像ファイル Pixabay から"</string>
     <string name="turn_off_in_app_alarm">"アプリ内のアラームをオフにしますか？"</string>
     <string name="turn_on_in_app_alarm">"アプリ内アラームをオンにしますか？"</string>
@@ -339,4 +339,10 @@
     <string name="pm">午後</string>
     <string name="am">午前</string>
     <string name="use_24h_format">24時間制</string>
+    <string name="sleep_sounds_details_2">サウンドプレビューが有効になっている場合、サウンドをタップして再生し、再度タップして停止します。</string>
+    <string name="plus_promotion">もっと利用するには、Smart Sleep+を解除してください。</string>
+    <string name="app_sounds">アプリの音</string>
+    <string name="your_sounds">あなたの音</string>
+    <string name="hope">希望 (きぼう)</string>
+    <string name="dream">夢 (ゆめ)</string>
 </resources>

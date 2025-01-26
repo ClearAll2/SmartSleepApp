@@ -53,7 +53,7 @@
     <string name="sleep_sounds_details">Âm thanh thư giãn, âm thanh tự nhiên có thể giúp bạn chìm vào giấc ngủ nhanh hơn.</string>
     <string name="stop_timer">Hẹn giờ dừng</string>
     <string name="one_hour">1 giờ</string>
-    <string name="select_sleep_sound">Chọn âm thanh ru ngủ</string>
+    <string name="select_sleep_sound">Thêm</string>
     <string name="sound">Âm thanh</string>
     <string name="app_info">Thông tin ứng dụng</string>
     <string name="play_preview">Nghe thử âm thanh ru ngủ</string>
@@ -312,7 +312,7 @@
     <string name="downloading_update">Đang tải bản cập nhật…</string>
     <string name="download_complete">Đã tải xong bản cập nhật thành công. Khởi động lại ứng dung trong 3 giây.</string>
     <string name="plus_sound">Nhiều âm thanh tuyệt vời</string>
-    <string name="plus_sound_details">Mở khóa nhiều âm thanh giấc ngủ hơn</string>
+    <string name="plus_sound_details">Mở khóa nhiều âm thanh ru ngủ hơn và tùy chọn phát các âm thanh tùy chỉnh của bạn</string>
     <string name="images_text">Các tệp hình ảnh lấy từ Pixabay</string>
     <string name="turn_off_in_app_alarm">Tắt báo thức của ứng dụng</string>
     <string name="turn_on_in_app_alarm">Bật báo thức của ứng dụng</string>
@@ -339,4 +339,10 @@
     <string name="pm">CH</string>
     <string name="am">SA</string>
     <string name="use_24h_format">Định dạng 24 giờ</string>
+    <string name="sleep_sounds_details_2">Nếu tùy chọn xem trước âm thanh được bật, hãy chạm vào âm thanh để phát, và chạm lại để dừng.</string>
+    <string name="plus_promotion">Mở khóa Smart Sleep+ để có thêm.</string>
+    <string name="app_sounds">Âm thanh ứng dụng</string>
+    <string name="your_sounds">Âm thanh của bạn</string>
+    <string name="hope">Hy vọng</string>
+    <string name="dream">Giấc mơ</string>
 </resources>
