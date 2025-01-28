@@ -3,9 +3,9 @@ Thank you for choosing Smart Sleep! We're constantly making changes and improvem
 
 
 ## 0.4.3.3 (198)
-- Improve cycle length option's items.
-- Improve language option's display.
-- Maximum/minimum amount of sleep cycle to display options are now available for all users.
+- Enhance the selection of cycle length options.
+- Refine the display of language choices.
+- The maximum and minimum sleep cycle display options are now accessible to all users.
 
 ## 0.4.3.2 (196 - Final update of 2024)
 - Fixed: "null" title of custom sound files (new feature, beta access available first for Plus users).
