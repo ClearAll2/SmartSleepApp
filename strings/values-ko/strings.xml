@@ -345,5 +345,9 @@
     <string name="your_sounds">당신의 소리</string>
     <string name="hope">희망 (희망)</string>
     <string name="dream">꿈 (꿈)</string>
+    <string name="undo">실행 취소</string>
+    <string name="alarm_restored">알람 복원됨</string>
+    <string name="require_long_press">길게 누르기 필요</string>
+    <string name="require_long_press_details">알람 중지 및 스누즈를 위해 길게 누르기</string>
 
 </resources>

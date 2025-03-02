@@ -345,5 +345,9 @@
     <string name="your_sounds">Jouw geluiden</string>
     <string name="hope">Hoop</string>
     <string name="dream">Droom</string>
+    <string name="undo">Ongedaan maken</string>
+    <string name="alarm_restored">Alarm hersteld</string>
+    <string name="require_long_press">Lang indrukken vereist</string>
+    <string name="require_long_press_details">Houd ingedrukt om het alarm te stoppen en te snoozen</string>
 
 </resources>

@@ -344,4 +344,8 @@
     <string name="your_sounds">Your sounds</string>
     <string name="hope">Hope</string>
     <string name="dream">Dream</string>
+    <string name="undo">Undo</string>
+    <string name="alarm_restored">Alarm restored</string>
+    <string name="require_long_press">Require long press</string>
+    <string name="require_long_press_details"><![CDATA[Press and hold to stop & snooze the alarm]]></string>
 </resources>

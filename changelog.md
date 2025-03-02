@@ -1,6 +1,9 @@
 # Changelog
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
 
+## 0.4.4 (200)
+- Introduce a new feature for Alarm: Require long press.
+- Enhance user experience: You can now undo alarm deletions.
 
 ## 0.4.3.3 (198)
 - Enhance the selection of cycle length options.

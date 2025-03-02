@@ -345,4 +345,8 @@
     <string name="your_sounds">あなたの音</string>
     <string name="hope">希望 (きぼう)</string>
     <string name="dream">夢 (ゆめ)</string>
+    <string name="undo">元に戻す</string>
+    <string name="alarm_restored">アラームが復元されました</string>
+    <string name="require_long_press">長押しが必要です</string>
+    <string name="require_long_press_details">アラームを停止してスヌーズするには押し続けてください</string>
 </resources>

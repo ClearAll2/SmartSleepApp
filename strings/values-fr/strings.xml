@@ -352,5 +352,9 @@ Gérez le stress</string>
     <string name="your_sounds">Vos sons</string>
     <string name="hope">Espoir</string>
     <string name="dream">Rêve</string>
+    <string name="undo">Annuler</string>
+    <string name="alarm_restored">Alarme restaurée</string>
+    <string name="require_long_press">Nécessite une pression longue</string>
+    <string name="require_long_press_details">Appuyez et maintenez pour arrêter et répéter l\'alarme</string>
 
 </resources>

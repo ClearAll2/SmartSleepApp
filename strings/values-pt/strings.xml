@@ -345,4 +345,8 @@
     <string name="your_sounds">Seus sons</string>
     <string name="hope">Esperança</string>
     <string name="dream">Sonho</string>
+    <string name="undo">Desfazer</string>
+    <string name="alarm_restored">Alarme restaurado</string>
+    <string name="require_long_press">Exige pressão longa</string>
+    <string name="require_long_press_details">Pressione e segure para parar e adiar o alarme</string>
 </resources>

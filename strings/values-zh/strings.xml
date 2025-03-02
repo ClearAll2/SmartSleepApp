@@ -352,4 +352,8 @@
     <string name="your_sounds">你的声音</string>
     <string name="hope">希望</string>
     <string name="dream">梦</string>
+    <string name="undo">撤销</string>
+    <string name="alarm_restored">闹钟已恢复</string>
+    <string name="require_long_press">需要长按</string>
+    <string name="require_long_press_details">长按以停止和打盹闹钟</string>
 </resources>

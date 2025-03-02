@@ -345,4 +345,8 @@
     <string name="your_sounds">Deine Klänge</string>
     <string name="hope">Hoffnung</string>
     <string name="dream">Traum</string>
+    <string name="undo">Rückgängig machen</string>
+    <string name="alarm_restored">Alarm wiederhergestellt</string>
+    <string name="require_long_press">Erfordert langes Drücken</string>
+    <string name="require_long_press_details">Zum Stoppen und Schlummern des Alarms gedrückt halten</string>
 </resources>

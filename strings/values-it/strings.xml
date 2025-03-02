@@ -352,5 +352,9 @@ Gestisci lo stress</string>
     <string name="your_sounds">I tuoi suoni</string>
     <string name="hope">Speranza</string>
     <string name="dream">Sogno</string>
+    <string name="undo">Annulla</string>
+    <string name="alarm_restored">Allarme ripristinato</string>
+    <string name="require_long_press">Richiede pressione prolungata</string>
+    <string name="require_long_press_details">Premi e tieni premuto per fermare e posticipare l\'allarme</string>
 
 </resources>

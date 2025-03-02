@@ -345,4 +345,8 @@
     <string name="your_sounds">Âm thanh của bạn</string>
     <string name="hope">Hy vọng</string>
     <string name="dream">Giấc mơ</string>
+    <string name="undo">Hoàn tác</string>
+    <string name="alarm_restored">Báo thức đã được khôi phục</string>
+    <string name="require_long_press">Yêu cầu nhấn giữ lâu</string>
+    <string name="require_long_press_details">Nhấn và giữ để dừng và báo lại báo thức</string>
 </resources>
