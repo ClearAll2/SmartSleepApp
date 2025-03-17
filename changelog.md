@@ -1,6 +1,11 @@
 # Changelog
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
 
+## 0.4.5 (203)
+- A new button for quick bedtime/wake-up time calculations in sleep results (Plus only).
+- Enhance sound preview and playback performance.
+- Implement various UI improvements and tweaks.
+
 ## 0.4.4 (200)
 - Introduce a new feature for Alarm: Require long press.
 - Enhance user experience: You can now undo alarm deletions.
