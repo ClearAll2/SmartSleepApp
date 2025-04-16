@@ -349,4 +349,6 @@
     <string name="alarm_restored">Alarm wiederhergestellt</string>
     <string name="require_long_press">Erfordert langes Drücken</string>
     <string name="require_long_press_details">Zum Stoppen und Schlummern des Alarms gedrückt halten</string>
+    <string name="sleep">Schlafen</string>
+    <string name="notification_permission_request_details">Ermöglicht Smart Sleep, Benachrichtigungen zu Updates, Tonsteuerungen und Weckern zu senden</string>
 </resources>

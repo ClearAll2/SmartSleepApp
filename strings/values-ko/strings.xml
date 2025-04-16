@@ -349,5 +349,7 @@
     <string name="alarm_restored">알람 복원됨</string>
     <string name="require_long_press">길게 누르기 필요</string>
     <string name="require_long_press_details">알람 중지 및 스누즈를 위해 길게 누르기</string>
+    <string name="sleep">잠자다</string>
+    <string name="notification_permission_request_details">Smart Sleep이 업데이트, 사운드 제어 및 알람에 대한 알림을 보낼 수 있도록 허용합니다.</string>
 
 </resources>

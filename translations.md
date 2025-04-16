@@ -42,8 +42,8 @@ If a directory exists for your target language, edit the _strings.xml_ file insi
 
 You are also welcome to correct existing translations. To do so, find the appropriate `string` tag in the localized _strings.xml_ file and edit its content. 
 
-To submit a contribution for review, create a pull request. 
+To submit a contribution for review, please send me an email. 
 
 Thanks for your help!
 
-© 2024 [LKONLE](mailto:lkonle@proton.me), and published to [Google Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep).
+© 2025 [LKONLE](mailto:lkonle@proton.me), and published to [Google Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep).

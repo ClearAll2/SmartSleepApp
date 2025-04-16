@@ -356,5 +356,7 @@ Gérez le stress</string>
     <string name="alarm_restored">Alarme restaurée</string>
     <string name="require_long_press">Nécessite une pression longue</string>
     <string name="require_long_press_details">Appuyez et maintenez pour arrêter et répéter l\'alarme</string>
+    <string name="sleep">Dormir</string>
+    <string name="notification_permission_request_details">Permet à Smart Sleep d\'envoyer des notifications concernant les mises à jour, les contrôles sonores et les alarmes</string>
 
 </resources>

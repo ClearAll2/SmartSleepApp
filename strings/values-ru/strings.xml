@@ -349,4 +349,6 @@
     <string name="alarm_restored">Будильник восстановлен</string>
     <string name="require_long_press">Требуется долгое нажатие</string>
     <string name="require_long_press_details">Нажмите и удерживайте, чтобы остановить и отложить будильник</string>
+    <string name="sleep">Спать</string>
+    <string name="notification_permission_request_details">Позволяет Smart Sleep отправлять уведомления об обновлениях, управлении звуком и будильниках</string>
 </resources>

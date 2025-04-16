@@ -356,4 +356,6 @@
     <string name="alarm_restored">闹钟已恢复</string>
     <string name="require_long_press">需要长按</string>
     <string name="require_long_press_details">长按以停止和打盹闹钟</string>
+    <string name="sleep">睡觉</string>
+    <string name="notification_permission_request_details">允许 Smart Sleep 发送关于更新、声音控制和闹钟的通知。</string>
 </resources>

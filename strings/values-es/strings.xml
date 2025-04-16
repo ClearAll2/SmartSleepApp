@@ -349,4 +349,6 @@
     <string name="alarm_restored">Alarma restaurada</string>
     <string name="require_long_press">Requiere presión prolongada</string>
     <string name="require_long_press_details">Presione y mantenga presionado para detener y posponer la alarma</string>
+    <string name="sleep">Dormir</string>
+    <string name="notification_permission_request_details">Permite que Smart Sleep envíe notificaciones sobre actualizaciones, controles de sonido y alarmas</string>
 </resources>

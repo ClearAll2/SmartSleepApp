@@ -1,6 +1,10 @@
 # Changelog
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
 
+## 0.4.5.1 (204)
+- Fixed: a crash caused by the "Gradually increase volume" alarm option (yet another issue of alarm 🥲).
+- Implement various UI improvements and tweaks.
+
 ## 0.4.5 (203)
 - Calculator tab is now Sleep tab.
 - A new button for quick bedtime/wake-up time calculations in sleep results (Plus only).
@@ -231,7 +235,7 @@ Thank you for choosing Smart Sleep! We're constantly making changes and improvem
 - Fixed: "remember last played" setting.
 
 ## ?.?.?
-- Sorry, I don't remember :)
+- ?
 
-© 2024 [LKONLE](mailto:lkonle@proton.me), and published to [Google Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep).
+© 2025 [LKONLE](mailto:lkonle@proton.me), and published to [Google Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep).
 

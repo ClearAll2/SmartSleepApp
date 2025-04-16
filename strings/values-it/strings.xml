@@ -356,5 +356,7 @@ Gestisci lo stress</string>
     <string name="alarm_restored">Allarme ripristinato</string>
     <string name="require_long_press">Richiede pressione prolungata</string>
     <string name="require_long_press_details">Premi e tieni premuto per fermare e posticipare l\'allarme</string>
+    <string name="sleep">Dormire</string>
+    <string name="notification_permission_request_details">Consente a Smart Sleep di inviare notifiche su aggiornamenti, controlli audio e sveglie</string>
 
 </resources>

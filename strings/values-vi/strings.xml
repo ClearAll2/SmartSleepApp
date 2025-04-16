@@ -349,4 +349,6 @@
     <string name="alarm_restored">Báo thức đã được khôi phục</string>
     <string name="require_long_press">Yêu cầu nhấn giữ lâu</string>
     <string name="require_long_press_details">Nhấn và giữ để dừng và báo lại báo thức</string>
+    <string name="sleep">Ngủ</string>
+    <string name="notification_permission_request_details">Cho phép Smart Sleep gửi thông báo về cập nhật, điều khiển âm thanh và báo thức</string>
 </resources>

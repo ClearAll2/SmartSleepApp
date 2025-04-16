@@ -31,4 +31,4 @@ We reserve the right to update this privacy policy at any time without notice.
 ## Contact
 If you have any questions or concerns about privacy policy, please contact us at [lkonle@proton.me](mailto:lkonle@proton.me).
 
-© 2024 [LKONLE](mailto:lkonle@proton.me), and published to [Google Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep).
+© 2025 [LKONLE](mailto:lkonle@proton.me), and published to [Google Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep).

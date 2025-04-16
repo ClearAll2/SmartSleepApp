@@ -349,4 +349,6 @@
     <string name="alarm_restored">Alarme restaurado</string>
     <string name="require_long_press">Exige pressão longa</string>
     <string name="require_long_press_details">Pressione e segure para parar e adiar o alarme</string>
+    <string name="sleep">Dormir</string>
+    <string name="notification_permission_request_details">Permite que o Smart Sleep envie notificações sobre atualizações, controles de som e alarmes</string>
 </resources>

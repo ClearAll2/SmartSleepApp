@@ -348,4 +348,6 @@
     <string name="alarm_restored">Alarm restored</string>
     <string name="require_long_press">Require long press</string>
     <string name="require_long_press_details"><![CDATA[Press and hold to stop & snooze the alarm]]></string>
+    <string name="sleep">Sleep</string>
+    <string name="notification_permission_request_details">Allows Smart Sleep to send notifications regarding updates, sound controls, and alarms.</string>
 </resources>

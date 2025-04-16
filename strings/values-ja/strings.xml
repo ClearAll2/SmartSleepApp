@@ -349,4 +349,6 @@
     <string name="alarm_restored">アラームが復元されました</string>
     <string name="require_long_press">長押しが必要です</string>
     <string name="require_long_press_details">アラームを停止してスヌーズするには押し続けてください</string>
+    <string name="sleep">眠る</string>
+    <string name="notification_permission_request_details">Smart Sleep がアップデート、サウンドコントロール、アラームに関する通知を送信できるようにします。</string>
 </resources>

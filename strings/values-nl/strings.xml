@@ -349,5 +349,7 @@
     <string name="alarm_restored">Alarm hersteld</string>
     <string name="require_long_press">Lang indrukken vereist</string>
     <string name="require_long_press_details">Houd ingedrukt om het alarm te stoppen en te snoozen</string>
+    <string name="sleep">Slapen</string>
+    <string name="notification_permission_request_details">Stelt Smart Sleep in staat om meldingen te verzenden over updates, geluidsbediening en wekkers.</string>
 
 </resources>

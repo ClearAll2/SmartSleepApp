@@ -34,6 +34,8 @@ Watch [demo](https://youtu.be/s382DU-VxZ0)
 - Material You (Android 12+)
 - Themed icon (Android 13+)
 - Support large screen devices
+- Supports multiple languages
+- Effortless and intuitive to use
 - No need internet connection
 
 For more features, you can upgrade to Smart Sleep+.
@@ -76,4 +78,4 @@ If you like my work and want to help, buy me a coffee at [PayPal](https://paypal
 - [Flaticon](https://www.flaticon.com/)
 - [Pixabay](https://pixabay.com/)
 
-© 2024 [LKONLE](mailto:lkonle@proton.me), and published to [Google Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep).
+© 2025 [LKONLE](mailto:lkonle@proton.me), and published to [Google Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep).
