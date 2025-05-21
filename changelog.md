@@ -1,6 +1,13 @@
 # Changelog
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
 
+## 0.4.5.2 (206)
+- Fixed: A crash caused by an invalid alarm sound. "A Chirping Bird" is now the default alarm sound if none available.
+- Fixed: In-app browser infinite height issue.
+- Implemented a new notification that reminds you to unlock the phone after a reboot for alarm's functionality.
+- Implemented a new alarm notification when an alarm fails to trigger.
+- Implemented various UI improvements and tweaks for large screen devices.
+
 ## 0.4.5.1 (204)
 - Fixed: a crash caused by the "Gradually increase volume" alarm option (yet another issue of alarm 🥲).
 - Implement various UI improvements and tweaks.
