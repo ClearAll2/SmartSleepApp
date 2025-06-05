@@ -358,5 +358,32 @@ Gestisci lo stress</string>
     <string name="require_long_press_details">Premi e tieni premuto per fermare e posticipare l\'allarme</string>
     <string name="sleep">Dormire</string>
     <string name="notification_permission_request_details">Consente a Smart Sleep di inviare notifiche su aggiornamenti, controlli audio e sveglie</string>
-
+    <string name="locked_boot_alarm_advice_title">Azione necessaria: Sblocca il telefono</string>
+    <string name="locked_boot_alarm_advice_description">Smart Sleep non può accedere ai tuoi allarmi finché non sblocchi il telefono. Per favore, sblocca ora.</string>
+    <string name="alarm_failed_to_start_title">Guasto dell\'allarme</string>
+    <string name="alarm_failed_to_start_description">Si è verificato un errore sconosciuto e l\'allarme alle %s non si è attivato.</string>
+    <string name="recorded_sounds">Suoni registrati</string>
+    <string name="record">Registra nuovo</string>
+    <string name="save_file_name">Salva nome file</string>
+    <string name="save_recording">Salva registrazione</string>
+    <string name="saved_record">Registrazione salvata con successo</string>
+    <string name="recording_cancel">Registrazione annullata</string>
+    <string name="channels">Canali</string>
+    <string name="mono">Mono</string>
+    <string name="stereo">Stereo</string>
+    <string name="audio_low_q">Bassa (128 kbps)</string>
+    <string name="audio_medium_q">Media (192 kbps)</string>
+    <string name="audio_high_q">Alta (256 kbps)</string>
+    <string name="quality">Qualità</string>
+    <string name="audio_channel_advice">Mono risparmia spazio, Stereo migliora l’audio spaziale. Una qualità più alta aumenta la dimensione del file.</string>
+    <string name="recording_settings">Impostazioni di registrazione</string>
+    <string name="recording_cancel_confirm">Annullare la registrazione ora?</string>
+    <string name="audio_best_q">Migliore (320 kbps)</string>
+    <string name="device_mic">Microfono del dispositivo</string>
+    <string name="external_mic">Microfono esterno</string>
+    <string name="microphone">Microfono</string>
+    <string name="no_external_mic">Nessun microfono esterno rilevato, passato al microfono del dispositivo</string>
+    <string name="rename">Rinomina</string>
+    <string name="rename_recording">Rinomina registrazione</string>
+    <string name="invalid_name">Nome file non valido</string>
 </resources>

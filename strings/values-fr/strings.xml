@@ -358,5 +358,32 @@ Gérez le stress</string>
     <string name="require_long_press_details">Appuyez et maintenez pour arrêter et répéter l\'alarme</string>
     <string name="sleep">Dormir</string>
     <string name="notification_permission_request_details">Permet à Smart Sleep d\'envoyer des notifications concernant les mises à jour, les contrôles sonores et les alarmes</string>
-
+    <string name="locked_boot_alarm_advice_title">Action requise : Déverrouillez le téléphone</string>
+    <string name="locked_boot_alarm_advice_description">Smart Sleep ne peut pas accéder à vos alarmes tant que vous n\'avez pas déverrouillé votre téléphone. Veuillez déverrouiller maintenant.</string>
+    <string name="alarm_failed_to_start_title">Défaillance de l\'alarme</string>
+    <string name="alarm_failed_to_start_description">Une erreur inconnue s\'est produite et l\'alarme à %s n\'a pas réussi à se déclencher.</string>
+    <string name="recorded_sounds">Sons enregistrés</string>
+    <string name="record">Enregistrer nouveau</string>
+    <string name="save_file_name">Enregistrer le nom du fichier</string>
+    <string name="save_recording">Enregistrer l’enregistrement</string>
+    <string name="saved_record">Enregistrement sauvegardé avec succès</string>
+    <string name="recording_cancel">Enregistrement annulé</string>
+    <string name="channels">Canaux</string>
+    <string name="mono">Mono</string>
+    <string name="stereo">Stéréo</string>
+    <string name="audio_low_q">Basse (128 kbps)</string>
+    <string name="audio_medium_q">Moyenne (192 kbps)</string>
+    <string name="audio_high_q">Élevée (256 kbps)</string>
+    <string name="quality">Qualité</string>
+    <string name="audio_channel_advice">Mono économise de l\'espace, Stéréo améliore l\'audio spatial. Une qualité plus élevée augmente la taille du fichier.</string>
+    <string name="recording_settings">Paramètres d\'enregistrement</string>
+    <string name="recording_cancel_confirm">Annuler l\'enregistrement maintenant ?</string>
+    <string name="audio_best_q">Meilleur (320 kbps)</string>
+    <string name="device_mic">Micro de l\'appareil</string>
+    <string name="external_mic">Micro externe</string>
+    <string name="microphone">Microphone</string>
+    <string name="no_external_mic">Aucun micro externe détecté, passage au micro de l\'appareil</string>
+    <string name="rename">Renommer</string>
+    <string name="rename_recording">Renommer l\'enregistrement</string>
+    <string name="invalid_name">Nom de fichier invalide</string>
 </resources>

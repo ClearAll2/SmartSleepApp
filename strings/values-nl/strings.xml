@@ -351,5 +351,32 @@
     <string name="require_long_press_details">Houd ingedrukt om het alarm te stoppen en te snoozen</string>
     <string name="sleep">Slapen</string>
     <string name="notification_permission_request_details">Stelt Smart Sleep in staat om meldingen te verzenden over updates, geluidsbediening en wekkers.</string>
-
+    <string name="locked_boot_alarm_advice_title">Actie vereist: Ontgrendel de telefoon</string>
+    <string name="locked_boot_alarm_advice_description">Smart Sleep kan uw alarmen niet openen totdat u uw telefoon ontgrendelt. Ontgrendel nu alstublieft.</string>
+    <string name="alarm_failed_to_start_title">Alarmfout</string>
+    <string name="alarm_failed_to_start_description">Er is een onbekende fout opgetreden en het alarm om %s kon niet worden geactiveerd.</string>
+    <string name="recorded_sounds">Opgenomen geluiden</string>
+    <string name="record">Nieuw opnemen</string>
+    <string name="save_file_name">Bestandsnaam opslaan</string>
+    <string name="save_recording">Opname opslaan</string>
+    <string name="saved_record">Opname succesvol opgeslagen</string>
+    <string name="recording_cancel">Opname geannuleerd</string>
+    <string name="channels">Kanalen</string>
+    <string name="mono">Mono</string>
+    <string name="stereo">Stereo</string>
+    <string name="audio_low_q">Laag (128 kbps)</string>
+    <string name="audio_medium_q">Gemiddeld (192 kbps)</string>
+    <string name="audio_high_q">Hoog (256 kbps)</string>
+    <string name="quality">Kwaliteit</string>
+    <string name="audio_channel_advice">Mono bespaart opslagruimte, Stereo verbetert ruimtelijk geluid. Hogere kwaliteit vergroot de bestandsgrootte.</string>
+    <string name="recording_settings">Opname-instellingen</string>
+    <string name="recording_cancel_confirm">Opname nu annuleren?</string>
+    <string name="audio_best_q">Beste (320 kbps)</string>
+    <string name="device_mic">Apparaatmicrofoon</string>
+    <string name="external_mic">Externe microfoon</string>
+    <string name="microphone">Microfoon</string>
+    <string name="no_external_mic">Geen externe microfoon gedetecteerd, gewijzigd naar apparaatmicrofoon</string>
+    <string name="rename">Hernoemen</string>
+    <string name="rename_recording">Opname hernoemen</string>
+    <string name="invalid_name">Ongeldige bestandsnaam</string>
 </resources>
