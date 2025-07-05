@@ -1,6 +1,13 @@
 # Changelog
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
 
+## 0.4.7 (20250705.214.m3e)
+- Fixed: App crashes when performing certain actions on older Android versions (Oreo, Pie).
+- Fixed (beta, not stable): Audio recording failing to resume after a pause.
+- Added: A new button to quickly calculate bedtime or wake-up time in result screen.
+- Improved: Various UI elements and animations to align with the new Material 3 Expressive style.
+- Improved: Haptic feedback for various actions, with support for older Android versions.
+
 ## 0.4.6 (20250531.210.rec_haiten)
 - New (Beta): Record custom audio for sleep sounds! Available to all users, more settings for Plus users.
 - Implemented various UI improvements and tweaks.
