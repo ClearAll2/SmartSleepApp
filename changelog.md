@@ -4,6 +4,7 @@ Thank you for choosing Smart Sleep! We're constantly making changes and improvem
 ## 0.4.7 (20250706.215.m3e)
 - Fixed: App crashes when performing certain actions on older Android versions (Oreo, Pie).
 - Fixed: Audio recording failing to resume after a pause (beta, not stable).
+- Updated: All users can now adjust recording quality (low and medium).
 - Added: A new button to quickly calculate bedtime or wake-up time in result screen.
 - Improved: Various UI elements and animations to align with the new Material 3 Expressive style.
 - Improved: Haptic feedback for various actions, with support for older Android versions (Oreo, Pie).
