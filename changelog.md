@@ -2,6 +2,20 @@
 
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
 
+
+
+## 0.4.8 (250901.223.bgw)
+
+* Fixed: Language switching not working on older Android versions (Android 12 and below).
+* Fixed: App crashing when updated from very old versions.
+* Fixed: App crashing when opening set/edit alarm sheet due to invalid default alarm sound.
+* Fixed: Sleep Sound and Nap running indefinitely due to countdown failure.
+* Fixed: Sleep Sound and Nap notifications persisting after completion.
+* To enhance performance, Sleep Sound and Nap Timer now display only general time remaining.
+* Optimized performance and stability.
+* Improved UI and color schemes for various components.
+* Added "Gentle Wake" feature, a soothing and gradual alarm experience (Beta). 
+
 ## 0.4.7.5 (250723.216.m3e)
 
 * Fixed: Inaccurate day translation for Chinese, Japanese, and Korean.
