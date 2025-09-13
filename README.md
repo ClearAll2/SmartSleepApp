@@ -29,6 +29,7 @@ Watch [demo](https://youtu.be/s382DU-VxZ0)
 - Play relaxation and nature sounds
 - Nap timer (Smart Sleep+)
 - In-app alarm with full customization
+- Gentle Wake (beta)
 - Multiple themes and colors (more themes with Smart Sleep+)
 - Material You (Android 12+)
 - Themed icon (Android 13+)
@@ -39,12 +40,15 @@ Watch [demo](https://youtu.be/s382DU-VxZ0)
 
 For more features, you can upgrade to Smart Sleep+.
 
-## Smart Sleep+
+## Smart Sleep+ (We are offering 80 free promo code at [#A80](a80.md) until 30/09/2025)
+
 Why should you get Smart Sleep+ (one-time payment):
-- Nap timer
-- Amazing sounds
+- Pay once and keep forever
+- Nap Timer: Take a nap without disturbance
+- Amazing sounds and the option to play your personalized sounds
+- Amazing Gentle Wake sounds for the best wake-up experience
 - Amazing themes
-- More setting options
+- More setting options for the best experience
 - Support future development
 - Be the first one to get latest features
 
