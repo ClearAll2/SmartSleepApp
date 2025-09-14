@@ -4,6 +4,12 @@ Thank you for choosing Smart Sleep! We're constantly making changes and improvem
 
 
 
+## 0.4.8.1 (250912.225.bgw)
+
+* Improved visibility of Play/Start buttons and alarm day selection.
+* Improved Gentle Wake stability.
+* Improved performance and stability.
+
 ## 0.4.8 (250901.223.bgw)
 
 * Fixed: Language switching not working on older Android versions (Android 12 and below).
@@ -14,7 +20,7 @@ Thank you for choosing Smart Sleep! We're constantly making changes and improvem
 * To enhance performance, Sleep Sound and Nap Timer now display only general time remaining.
 * Optimized performance and stability.
 * Improved UI and color schemes for various components.
-* Added "Gentle Wake" feature, a soothing and gradual alarm experience (Beta). 
+* Added "Gentle Wake" feature, a soothing and gradual alarm experience (Beta).
 
 ## 0.4.7.5 (250723.216.m3e)
 
