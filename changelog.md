@@ -4,6 +4,14 @@ Thank you for choosing Smart Sleep! We're constantly making changes and improvem
 
 
 
+## 0.4.8.2 (251004.227.bgw)
+
+* New design for the audio recorder.
+* Improved sound picker experience: it now scrolls to the selected sound properly.
+* Improved time picker experience, with a new option to select time by typing.
+
+
+
 ## 0.4.8.1 (250912.225.bgw)
 
 * Improved visibility of Play/Start buttons and alarm day selection.

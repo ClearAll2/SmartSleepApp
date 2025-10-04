@@ -40,7 +40,7 @@ Watch [demo](https://youtu.be/s382DU-VxZ0)
 
 For more features, you can upgrade to Smart Sleep+.
 
-## Smart Sleep+ (We are offering 80 free promo code at [#A80](a80.md) until 30/09/2025)
+## Smart Sleep+
 
 Why should you get Smart Sleep+ (one-time payment):
 - Pay once and keep forever
