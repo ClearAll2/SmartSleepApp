@@ -379,4 +379,21 @@
     <string name="rename">Hernoemen</string>
     <string name="rename_recording">Opname hernoemen</string>
     <string name="invalid_name">Ongeldige bestandsnaam</string>
+    <string name="tap_to_add_stoptime">Tik op de timer om meer tijd toe te voegen</string>
+    <string name="default_value_for_new_alarms">Standaardwaarde voor nieuwe alarmen</string>
+    <string name="tropical_paradise">Tropisch Paradijs</string>
+    <string name="gentle_wake">Zacht ontwaken</string>
+    <string name="gentle_wake_details">Wanneer geactiveerd, gaat de wekker 30 minuten eerder af dan de ingestelde tijd, beginnend met een zacht vogelgekwetter dat geleidelijk in volume toeneemt. Deze zachte overgang helpt je natuurlijk en kalm wakker te worden. Op de ingestelde alarmtijd klinkt het standaard alarmsignaal zoals gewoonlijk om te zorgen dat je volledig wakker bent.</string>
+    <string name="gentle_wake_details_2">Voor Zacht ontwaken moet de wekker minstens 30 minuten na de huidige tijd worden ingesteld. Zo niet, dan wordt deze automatisch gepland voor de volgende dag.</string>
+    <string name="gentle_wake_details_3">Ideaal voor lange slaapperiodes om een verfrist en ontspannen ontwaken te bevorderen.</string>
+    <string name="use_gentle_wake">Gebruik Zacht ontwaken</string>
+    <string name="gentle_wake_subtext">Ontwaken met een kalmerende en geleidelijke alarmervaring</string>
+    <string name="gentle_wake_details_4">Alterar esta configuração desativará todos os alarmes com esta função ativada.</string>
+    <string name="download_extra_files">Extra bestanden downloaden</string>
+    <string name="gentle_wake_extra_files_ready">Extra bestanden zijn klaar. Download ze gerust opnieuw als je problemen ondervindt.</string>
+    <string name="OK">OK</string>
+    <string name="true_theme_preview">Live voorbeeld inschakelen</string>
+    <string name="true_theme_preview_details">Geselecteerde thema\'s automatisch in real-time toepassen</string>
+    <string name="reminder_notification">Herinneringsmelding</string>
+    <string name="reminder_notification_details">Herinnert je eraan om de telefoon te ontgrendelen na een herstart voor de wekfunctie</string>
 </resources>

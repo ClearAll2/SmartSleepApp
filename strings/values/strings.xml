@@ -378,4 +378,21 @@
     <string name="rename">Rename</string>
     <string name="rename_recording">Rename recording</string>
     <string name="invalid_name">Invalid file name</string>
+    <string name="tap_to_add_stoptime">Tap timer to add more time</string>
+    <string name="default_value_for_new_alarms">Default value for new alarms</string>
+    <string name="tropical_paradise">Tropical Paradise</string>
+    <string name="gentle_wake">Gentle wake</string>
+    <string name="gentle_wake_details">When activated, the alarm triggers 30 minutes earlier than your set time, starting with a low-volume bird chirping sound that slowly increases in volume. This gentle progression helps you wake up naturally and calmly. At the set alarm time, the standard alarm sound plays as usual to ensure you’re fully awake.</string>
+    <string name="gentle_wake_details_2">For Gentle Wake to work, the alarm must be set at least 30 minutes from the current time. If not, it will automatically schedule for the next day.</string>
+    <string name="gentle_wake_details_3">Ideal for long sleep sessions to promote a refreshed and relaxed wake-up experience.</string>
+    <string name="use_gentle_wake">Use Gentle Wake</string>
+    <string name="gentle_wake_subtext">Waking up with a soothing and gradual alarm experience</string>
+    <string name="gentle_wake_details_4">Changing this setting will disable all alarms with this feature enabled.</string>
+    <string name="download_extra_files">Download additional files</string>
+    <string name="gentle_wake_extra_files_ready">Additional files are ready. Feel free to download them again if you encounter any issues.</string>
+    <string name="OK">OK</string>
+    <string name="true_theme_preview">Enable live preview</string>
+    <string name="true_theme_preview_details">Automatically apply selected themes in real-time</string>
+    <string name="reminder_notification">Reminder notification</string>
+    <string name="reminder_notification_details">Reminds you to unlock the phone after a reboot for alarm\'s functionality</string>
 </resources>

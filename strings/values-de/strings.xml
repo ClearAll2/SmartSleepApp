@@ -379,4 +379,21 @@
     <string name="rename">Umbenennen</string>
     <string name="rename_recording">Aufnahme umbenennen</string>
     <string name="invalid_name">Ungültiger Dateiname</string>
+    <string name="tap_to_add_stoptime">Tippen Sie auf den Timer, um mehr Zeit hinzuzufügen</string>
+    <string name="default_value_for_new_alarms">Standardwert für neue Alarme</string>
+    <string name="tropical_paradise">Tropisches Paradies</string>
+    <string name="gentle_wake">Sanftes Aufwachen</string>
+    <string name="gentle_wake_details">Wenn aktiviert, löst der Wecker 30 Minuten früher als die eingestellte Zeit aus, beginnend mit einem leisen Vogelzwitschern, das sich langsam steigert. Dieser sanfte Übergang hilft Ihnen, natürlich und ruhig aufzuwachen. Zur eingestellten Weckzeit ertönt der normale Weckton wie gewohnt, um sicherzustellen, dass Sie vollständig wach sind.</string>
+    <string name="gentle_wake_details_2">Damit Sanftes Aufwachen funktioniert, muss der Wecker mindestens 30 Minuten nach der aktuellen Zeit gestellt werden. Andernfalls wird er automatisch für den nächsten Tag geplant.</string>
+    <string name="gentle_wake_details_3">Ideal für lange Schlafphasen, um ein erfrischtes und entspanntes Aufwachen zu fördern.</string>
+    <string name="use_gentle_wake">Sanftes Aufwachen verwenden</string>
+    <string name="gentle_wake_subtext">Aufwachen mit einer beruhigenden und allmählichen Weckererfahrung</string>
+    <string name="gentle_wake_details_4">Das Ändern dieser Einstellung wird alle Alarme mit dieser Funktion deaktivieren.</string>
+    <string name="download_extra_files">Zusätzliche Dateien herunterladen</string>
+    <string name="gentle_wake_extra_files_ready">Zusätzliche Dateien sind bereit. Sie können sie bei Problemen erneut herunterladen.</string>
+    <string name="OK">OK</string>
+    <string name="true_theme_preview">Live-Vorschau aktivieren</string>
+    <string name="true_theme_preview_details">Ausgewählte Themen in Echtzeit automatisch anwenden</string>
+    <string name="reminder_notification">Erinnerungsbenachrichtigung</string>
+    <string name="reminder_notification_details">Erinnert Sie daran, das Telefon nach einem Neustart zu entsperren, um die Alarmfunktion zu gewährleisten</string>
 </resources>

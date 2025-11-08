@@ -379,4 +379,21 @@
     <string name="rename">Đổi tên</string>
     <string name="rename_recording">Đổi tên bản ghi</string>
     <string name="invalid_name">Tên tệp không hợp lệ</string>
+    <string name="tap_to_add_stoptime">Chạm vào bộ đếm thời gian để thêm thời gian</string>
+    <string name="default_value_for_new_alarms">Giá trị mặc định cho báo thức mới</string>
+    <string name="tropical_paradise">Thiên đường nhiệt đới</string>
+    <string name="gentle_wake">Thức dậy nhẹ nhàng</string>
+    <string name="gentle_wake_details">Khi được kích hoạt, báo thức sẽ vang lên 30 phút trước giờ đã đặt, bắt đầu bằng âm thanh chim hót ở âm lượng thấp và tăng dần. Sự tiến triển nhẹ nhàng này giúp bạn thức dậy một cách tự nhiên và bình tĩnh. Vào giờ báo thức đã đặt, âm thanh báo thức tiêu chuẩn sẽ vang lên như thường lệ để đảm bảo bạn hoàn toàn tỉnh táo.</string>
+    <string name="gentle_wake_details_2">Để Thức dậy nhẹ nhàng hoạt động, báo thức phải được đặt ít nhất 30 phút sau thời gian hiện tại. Nếu không, nó sẽ tự động lên lịch cho ngày hôm sau.</string>
+    <string name="gentle_wake_details_3">Phù hợp với các phiên ngủ dài để thúc đẩy trải nghiệm thức dậy sảng khoái và thư giãn.</string>
+    <string name="use_gentle_wake">Sử dụng Thức dậy nhẹ nhàng</string>
+    <string name="gentle_wake_subtext">Thức dậy với trải nghiệm báo thức nhẹ nhàng và dần dần</string>
+    <string name="gentle_wake_details_4">Thay đổi cài đặt này sẽ vô hiệu hóa tất cả các báo thức có tính năng này được bật.</string>
+    <string name="download_extra_files">Tải xuống các tệp bổ sung</string>
+    <string name="gentle_wake_extra_files_ready">Các tệp bổ sung đã sẵn sàng. Hãy thoải mái tải lại nếu bạn gặp bất kỳ vấn đề nào.</string>
+    <string name="OK">OK</string>
+    <string name="true_theme_preview">Bật xem trước trực tiếp</string>
+    <string name="true_theme_preview_details">Tự động áp dụng các chủ đề đã chọn theo thời gian thực</string>
+    <string name="reminder_notification">Thông báo nhắc nhở</string>
+    <string name="reminder_notification_details">Nhắc bạn mở khóa điện thoại sau khi khởi động lại để chức năng báo thức hoạt động</string>
 </resources>

@@ -379,4 +379,21 @@
     <string name="rename">Renomear</string>
     <string name="rename_recording">Renomear gravação</string>
     <string name="invalid_name">Nome de arquivo inválido</string>
+    <string name="tap_to_add_stoptime">Toque no temporizador para adicionar mais tempo</string>
+    <string name="default_value_for_new_alarms">Valor padrão para novos alarmes</string>
+    <string name="tropical_paradise">Paraíso Tropical</string>
+    <string name="gentle_wake">Acordar suave</string>
+    <string name="gentle_wake_details">Ao ser ativado, o alarme dispara 30 minutos antes do horário definido, começando com um som de canto de pássaros em volume baixo que aumenta gradualmente. Esta progressão suave ajuda a acordar de forma natural e calma. No horário de alarme definido, o som padrão do alarme toca como de costume para garantir que você esteja totalmente acordado.</string>
+    <string name="gentle_wake_details_2">Para que o Acordar suave funcione, o alarme deve ser configurado com pelo menos 30 minutos a partir do horário atual. Caso contrário, será automaticamente agendado para o dia seguinte.</string>
+    <string name="gentle_wake_details_3">Ideal para sessões de sono longas, promovendo uma experiência de acordar revigorada e relaxada.</string>
+    <string name="use_gentle_wake">Usar Acordar suave</string>
+    <string name="gentle_wake_subtext">Acordar com uma experiência de alarme suave e gradual</string>
+    <string name="gentle_wake_details_4">Alterar esta configuração desativará todos os alarmes com esta função ativada.</string>
+    <string name="download_extra_files">Baixar arquivos adicionais</string>
+    <string name="gentle_wake_extra_files_ready">Os arquivos adicionais estão prontos. Sinta-se à vontade para baixá-los novamente se encontrar algum problema.</string>
+    <string name="OK">OK</string>
+    <string name="true_theme_preview">Ativar visualização em tempo real</string>
+    <string name="true_theme_preview_details">Aplicar temas selecionados automaticamente em tempo real</string>
+    <string name="reminder_notification">Notificação de lembrete</string>
+    <string name="reminder_notification_details">Lembra-o de desbloquear o telefone após reiniciar para a funcionalidade do alarme</string>
 </resources>

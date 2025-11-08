@@ -386,4 +386,21 @@ Gérez le stress</string>
     <string name="rename">Renommer</string>
     <string name="rename_recording">Renommer l\'enregistrement</string>
     <string name="invalid_name">Nom de fichier invalide</string>
+    <string name="tap_to_add_stoptime">Appuyez sur le minuteur pour ajouter plus de temps</string>
+    <string name="default_value_for_new_alarms">Valeur par défaut pour les nouvelles alarmes</string>
+    <string name="tropical_paradise">Paradis Tropical</string>
+    <string name="gentle_wake">Réveil doux</string>
+    <string name="gentle_wake_details">Lorsqu\'il est activé, l\'alarme se déclenche 30 minutes avant l\'heure définie, commençant par un gazouillis d\'oiseau à faible volume qui augmente progressivement. Cette progression douce aide à se réveiller naturellement et calmement. À l\'heure de l\'alarme définie, le son d\'alarme standard se déclenche comme d\'habitude pour s\'assurer que vous êtes complètement réveillé.</string>
+    <string name="gentle_wake_details_2">Pour que Réveil doux fonctionne, l\'alarme doit être programmée au moins 30 minutes après l\'heure actuelle. Sinon, elle sera automatiquement planifiée pour le lendemain.</string>
+    <string name="gentle_wake_details_3">Idéal pour les longues sessions de sommeil afin de favoriser une expérience de réveil reposante et détendue.</string>
+    <string name="use_gentle_wake">Utiliser Réveil doux</string>
+    <string name="gentle_wake_subtext">Se réveiller avec une expérience d\'alarme apaisante et progressive</string>
+    <string name="gentle_wake_details_4">Modifier ce paramètre désactivera toutes les alarmes avec cette fonction activée.</string>
+    <string name="download_extra_files">Download extra files</string>
+    <string name="gentle_wake_extra_files_ready">Additional files are prepared. Feel free to download them again if you encounter any issues.</string>
+    <string name="OK">OK</string>
+    <string name="true_theme_preview">Activer l\'aperçu en direct</string>
+    <string name="true_theme_preview_details">Appliquer automatiquement les thèmes sélectionnés en temps réel</string>
+    <string name="reminder_notification">Notification de rappel</string>
+    <string name="reminder_notification_details">Vous rappelle de déverrouiller le téléphone après un redémarrage pour la fonctionnalité de l\'alarme</string>
 </resources>

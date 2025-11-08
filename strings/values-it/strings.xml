@@ -386,4 +386,21 @@ Gestisci lo stress</string>
     <string name="rename">Rinomina</string>
     <string name="rename_recording">Rinomina registrazione</string>
     <string name="invalid_name">Nome file non valido</string>
+    <string name="tap_to_add_stoptime">Tocca il timer per aggiungere più tempo</string>
+    <string name="default_value_for_new_alarms">Valore predefinito per nuove allarmi</string>
+    <string name="tropical_paradise">Paradiso Tropicale</string>
+    <string name="gentle_wake">Risveglio delicato</string>
+    <string name="gentle_wake_details">Quando attivato, l\'allarme si attiva 30 minuti prima dell\'orario impostato, iniziando con un suono di cinguettio di uccelli a basso volume che aumenta gradualmente. Questa progressione delicata aiuta a svegliarsi in modo naturale e tranquillo. All\'orario dell\'allarme impostato, il suono standard dell\'allarme suona come al solito per assicurarsi che tu sia completamente sveglio.</string>
+    <string name="gentle_wake_details_2">Affinché Risveglio delicato funzioni, l\'allarme deve essere impostato almeno 30 minuti dopo l\'orario attuale. In caso contrario, verrà automaticamente programmato per il giorno successivo.</string>
+    <string name="gentle_wake_details_3">Ideale per lunghe sessioni di sonno per promuovere un\'esperienza di risveglio rinvigorita e rilassata.</string>
+    <string name="use_gentle_wake">Usa Risveglio delicato</string>
+    <string name="gentle_wake_subtext">Risveglio con un\'esperienza di allarme rassicurante e graduale</string>
+    <string name="gentle_wake_details_4">Modificare questa impostazione disattiverà tutte le sveglie con questa funzione abilitata.</string>
+    <string name="download_extra_files">Scarica file aggiuntivi</string>
+    <string name="gentle_wake_extra_files_ready">I file aggiuntivi sono pronti. Sentiti libero di scaricarli di nuovo se riscontri problemi.</string>
+    <string name="OK">OK</string>
+    <string name="true_theme_preview">Abilita anteprima live</string>
+    <string name="true_theme_preview_details">Applica automaticamente i temi selezionati in tempo reale</string>
+    <string name="reminder_notification">Notifica di promemoria</string>
+    <string name="reminder_notification_details">Ti ricorda di sbloccare il telefono dopo un riavvio per la funzionalità della sveglia</string>
 </resources>

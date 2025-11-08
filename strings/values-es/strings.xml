@@ -379,4 +379,21 @@
     <string name="rename">Renombrar</string>
     <string name="rename_recording">Renombrar grabación</string>
     <string name="invalid_name">Nombre de archivo no válido</string>
+    <string name="tap_to_add_stoptime">Toca el temporizador para añadir más tiempo</string>
+    <string name="default_value_for_new_alarms">Valor predeterminado para nuevas alarmas</string>
+    <string name="tropical_paradise">Paraíso Tropical</string>
+    <string name="gentle_wake">Despertar suave</string>
+    <string name="gentle_wake_details">Al activarse, la alarma se dispara 30 minutos antes de la hora establecida, comenzando con un sonido de trino de pájaros a bajo volumen que aumenta gradualmente. Esta progresión suave ayuda a despertarse de forma natural y tranquila. A la hora de alarma establecida, suena el tono de alarma estándar como de costumbre para asegurar que estés completamente despierto.</string>
+    <string name="gentle_wake_details_2">Para que Despertar suave funcione, la alarma debe establecerse al menos 30 minutos a partir de la hora actual. Si no, se programará automáticamente para el día siguiente.</string>
+    <string name="gentle_wake_details_3">Ideal para sesiones de sueño largas para promover una experiencia de despertar renovada y relajada.</string>
+    <string name="use_gentle_wake">Usar Despertar suave</string>
+    <string name="gentle_wake_subtext">Despertar con una experiencia de alarma suave y gradual</string>
+    <string name="gentle_wake_details_4">Cambiar esta configuración desactivará todas las alarmas con esta función habilitada.</string>
+    <string name="download_extra_files">Télécharger des fichiers supplémentaires</string>
+    <string name="gentle_wake_extra_files_ready">Les fichiers supplémentaires sont prêts. N\'hésitez pas à les télécharger à nouveau en cas de problème.</string>
+    <string name="OK">Aceptar</string>
+    <string name="true_theme_preview">Habilitar vista previa en vivo</string>
+    <string name="true_theme_preview_details">Aplicar temas seleccionados automáticamente en tiempo real</string>
+    <string name="reminder_notification">Notificación de recordatorio</string>
+    <string name="reminder_notification_details">Le recuerda desbloquear el teléfono después de reiniciar para la funcionalidad de la alarma</string>
 </resources>
