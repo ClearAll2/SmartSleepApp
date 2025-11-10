@@ -2,6 +2,13 @@
 
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
 
+## 0.4.9 (251108.229.jasu)
+
+* Fixed keyboard focus for the "Rename" option.
+* Added the "Reminder notification" option, available to all users.
+* Added the "Enable live preview" option, exclusive to Plus users.
+* Improved the alarm: now you can tap the alarm time directly.
+
 
 
 ## 0.4.8.2 (251004.227.bgw)
