@@ -396,4 +396,12 @@
     <string name="true_theme_preview_details">Geselecteerde thema\'s automatisch in real-time toepassen</string>
     <string name="reminder_notification">Herinneringsmelding</string>
     <string name="reminder_notification_details">Herinnert je eraan om de telefoon te ontgrendelen na een herstart voor de wekfunctie</string>
+    <string name="white_noise">Witte ruis</string>
+    <string name="sleep_music">Ontspannende muziek om te slapen</string>
+    <string name="stress_music">Ontspannende muziek tegen stress</string>
+    <string name="lullaby">Ontspannende slaapliedjes</string>
+    <string name="download_over_data_warning">Het downloaden van bestanden via een mobiel netwerk of roaming kan extra kosten met zich meebrengen.</string>
+    <string name="meditation_music">Meditatiemuziek</string>
+    <string name="loudness_enhance">Geluidsversterker</string>
+    <string name="all">Alle</string>
 </resources>

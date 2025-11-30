@@ -396,4 +396,12 @@
     <string name="true_theme_preview_details">Tự động áp dụng các chủ đề đã chọn theo thời gian thực</string>
     <string name="reminder_notification">Thông báo nhắc nhở</string>
     <string name="reminder_notification_details">Nhắc bạn mở khóa điện thoại sau khi khởi động lại để chức năng báo thức hoạt động</string>
+    <string name="white_noise">Tiếng ồn trắng</string>
+    <string name="sleep_music">Nhạc thư giãn để ngủ</string>
+    <string name="stress_music">Nhạc thư giãn giảm stress</string>
+    <string name="lullaby">Nhạc ru ngủ thư giãn</string>
+    <string name="download_over_data_warning">Tải tệp qua mạng di động hoặc chuyển vùng có thể phát sinh phí bổ sung.</string>
+    <string name="meditation_music">Nhạc thiền</string>
+    <string name="loudness_enhance">Tăng âm lượng</string>
+    <string name="all">Tất cả</string>
 </resources>

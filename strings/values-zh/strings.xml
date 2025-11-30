@@ -403,4 +403,12 @@
     <string name="true_theme_preview_details">实时自动应用选定的主题</string>
     <string name="reminder_notification">提醒通知</string>
     <string name="reminder_notification_details">在重启后提醒您解锁手机，以启用闹钟功能</string>
+    <string name="white_noise">白噪音</string>
+    <string name="sleep_music">助眠放松音乐</string>
+    <string name="stress_music">减压放松音乐</string>
+    <string name="lullaby">放松催眠曲</string>
+    <string name="download_over_data_warning">通过移动网络或漫游下载文件可能会产生额外费用。</string>
+    <string name="meditation_music">冥想音乐</string>
+    <string name="loudness_enhance">音量增强</string>
+    <string name="all">全部</string>
 </resources>

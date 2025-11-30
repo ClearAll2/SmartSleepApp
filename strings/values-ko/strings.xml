@@ -396,4 +396,12 @@
     <string name="true_theme_preview_details">실시간으로 선택한 테마를 자동 적용</string>
     <string name="reminder_notification">리마인더 알림</string>
     <string name="reminder_notification_details">재부팅 후 알람 기능 사용을 위해 휴대폰을 잠금 해제하도록 상기시킵니다</string>
+    <string name="white_noise">백색 소음</string>
+    <string name="sleep_music">수면을 위한 릴랙싱 음악</string>
+    <string name="stress_music">스트레스 해소를 위한 릴랙싱 음악</string>
+    <string name="lullaby">릴랙싱 자장가</string>
+    <string name="download_over_data_warning">모바일 네트워크나 로밍 시 파일 다운로드는 추가 요금이 발생할 수 있습니다.</string>
+    <string name="meditation_music">명상 음악</string>
+    <string name="loudness_enhance">볼륨 부스터</string>
+    <string name="all">모두</string>
 </resources>

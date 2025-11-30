@@ -396,4 +396,12 @@
     <string name="true_theme_preview_details">Ausgewählte Themen in Echtzeit automatisch anwenden</string>
     <string name="reminder_notification">Erinnerungsbenachrichtigung</string>
     <string name="reminder_notification_details">Erinnert Sie daran, das Telefon nach einem Neustart zu entsperren, um die Alarmfunktion zu gewährleisten</string>
+    <string name="white_noise">Weißes Rauschen</string>
+    <string name="sleep_music">Entspannende Musik zum Einschlafen</string>
+    <string name="stress_music">Entspannende Musik gegen Stress</string>
+    <string name="lullaby">Entspannende Wiegenlieder</string>
+    <string name="download_over_data_warning">Das Herunterladen von Dateien über ein Mobilfunknetz oder im Roaming kann zusätzliche Kosten verursachen.</string>
+    <string name="meditation_music">Meditationsmusik</string>
+    <string name="loudness_enhance">Lautstärke-Booster</string>
+    <string name="all">Alle</string>
 </resources>

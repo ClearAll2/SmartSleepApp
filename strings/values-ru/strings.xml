@@ -396,4 +396,12 @@
     <string name="true_theme_preview_details">Автоматически применять выбранные темы в реальном времени</string>
     <string name="reminder_notification">Напоминание в уведомлении</string>
     <string name="reminder_notification_details">Напоминает разблокировать телефон после перезагрузки для работы функции будильника</string>
+    <string name="white_noise">Белый шум</string>
+    <string name="sleep_music">Расслабляющая музыка для сна</string>
+    <string name="stress_music">Расслабляющая музыка от стресса</string>
+    <string name="lullaby">Расслабляющие колыбельные</string>
+    <string name="download_over_data_warning">Загрузка файлов через мобильную сеть или в роуминге может повлечь дополнительные расходы.</string>
+    <string name="meditation_music">Музыка для медитации</string>
+    <string name="loudness_enhance">Усилитель громкости</string>
+    <string name="all">Все</string>
 </resources>

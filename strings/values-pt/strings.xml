@@ -396,4 +396,12 @@
     <string name="true_theme_preview_details">Aplicar temas selecionados automaticamente em tempo real</string>
     <string name="reminder_notification">Notificação de lembrete</string>
     <string name="reminder_notification_details">Lembra-o de desbloquear o telefone após reiniciar para a funcionalidade do alarme</string>
+    <string name="white_noise">Ruído branco</string>
+    <string name="sleep_music">Música relaxante para dormir</string>
+    <string name="stress_music">Música relaxante para estresse</string>
+    <string name="lullaby">Canções de ninar relaxantes</string>
+    <string name="download_over_data_warning">Baixar arquivos por rede móvel ou em roaming pode gerar custos adicionais.</string>
+    <string name="meditation_music">Música para meditação</string>
+    <string name="loudness_enhance">Amplificador de volume</string>
+    <string name="all">Tudo</string>
 </resources>

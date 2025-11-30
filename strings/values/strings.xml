@@ -395,4 +395,12 @@
     <string name="true_theme_preview_details">Automatically apply selected themes in real-time</string>
     <string name="reminder_notification">Reminder notification</string>
     <string name="reminder_notification_details">Reminds you to unlock the phone after a reboot for alarm\'s functionality</string>
+    <string name="white_noise">White noise</string>
+    <string name="sleep_music">Relaxing music for sleep</string>
+    <string name="stress_music">Relaxing music for stress</string>
+    <string name="lullaby">Relaxing lullabies</string>
+    <string name="download_over_data_warning">Downloading files over a mobile network or roaming may cause additional charges.</string>
+    <string name="meditation_music">Meditation music</string>
+    <string name="loudness_enhance">Volume booster</string>
+    <string name="all">All</string>
 </resources>

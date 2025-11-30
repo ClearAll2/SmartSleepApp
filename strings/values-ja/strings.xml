@@ -396,4 +396,12 @@
     <string name="true_theme_preview_details">選択したテーマをリアルタイムで自動的に適用</string>
     <string name="reminder_notification">リマインダー通知</string>
     <string name="reminder_notification_details">再起動後に電話をアンロックするよう思い出させ、アラームの機能を使用できるようにします</string>
+    <string name="white_noise">ホワイトノイズ</string>
+    <string name="sleep_music">睡眠用のリラックス音楽</string>
+    <string name="stress_music">ストレス解消のリラックス音楽</string>
+    <string name="lullaby">リラックス子守唄</string>
+    <string name="download_over_data_warning">モバイルネットワークやローミングでのファイルダウンロードは追加料金が発生する場合があります。</string>
+    <string name="meditation_music">瞑想音楽</string>
+    <string name="loudness_enhance">音量ブースター</string>
+    <string name="all">すべて</string>
 </resources>

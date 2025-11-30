@@ -403,4 +403,12 @@ Gérez le stress</string>
     <string name="true_theme_preview_details">Appliquer automatiquement les thèmes sélectionnés en temps réel</string>
     <string name="reminder_notification">Notification de rappel</string>
     <string name="reminder_notification_details">Vous rappelle de déverrouiller le téléphone après un redémarrage pour la fonctionnalité de l\'alarme</string>
+    <string name="white_noise">Bruit blanc</string>
+    <string name="sleep_music">Musique relaxante pour dormir</string>
+    <string name="stress_music">Musique relaxante contre le stress</string>
+    <string name="lullaby">Berceuses relaxantes</string>
+    <string name="download_over_data_warning">Le téléchargement de fichiers via un réseau mobile ou en itinérance peut entraîner des frais supplémentaires.</string>
+    <string name="meditation_music">Musique de méditation</string>
+    <string name="loudness_enhance">Amplificateur de volume</string>
+    <string name="all">Tout</string>
 </resources>

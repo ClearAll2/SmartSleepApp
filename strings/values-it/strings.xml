@@ -403,4 +403,12 @@ Gestisci lo stress</string>
     <string name="true_theme_preview_details">Applica automaticamente i temi selezionati in tempo reale</string>
     <string name="reminder_notification">Notifica di promemoria</string>
     <string name="reminder_notification_details">Ti ricorda di sbloccare il telefono dopo un riavvio per la funzionalità della sveglia</string>
+    <string name="white_noise">Rumore bianco</string>
+    <string name="sleep_music">Musica rilassante per dormire</string>
+    <string name="stress_music">Musica rilassante per lo stress</string>
+    <string name="lullaby">Ninne nanne rilassanti</string>
+    <string name="download_over_data_warning">Il download di file tramite rete mobile o in roaming può comportare costi aggiuntivi.</string>
+    <string name="meditation_music">Musica per meditazione</string>
+    <string name="loudness_enhance">Potenziatore volume</string>
+    <string name="all">Tutti</string>
 </resources>
