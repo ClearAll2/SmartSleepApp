@@ -2,7 +2,7 @@
 
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
 
-## 0.5.0 (251129.233.nsc)
+## 0.5.0 (251130.234.nsc)
 
 * Added 4 new sleep music collections (more to be added soon).
 * All "white noise" sounds are now available to all users.
