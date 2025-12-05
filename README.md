@@ -76,9 +76,10 @@ If you like my work and want to help, buy me a coffee at [PayPal](https://paypal
 ## This project is made possible by
 - [Jetpack Compose Tutorial](https://www.jetpackcompose.net/)
 - [Circular SeekBar](https://github.com/ningyuv/CircularSeekBar?ref=androidexample365.com)
-- [M3 DateTime Pickers](https://github.com/marosseleng/compose-material3-datetime-pickers)
 - [Don't kill my app](https://dontkillmyapp.com/)
 - [Flaticon](https://www.flaticon.com/)
 - [Pixabay](https://pixabay.com/)
+- [Music by Piotr Witowski from Pixabay](https://pixabay.com/users/17430502/)
+- [Music by Alex Wit from Pixabay](https://pixabay.com/users/light_music-40074088/)
 
 © 2025 [LKONLE](mailto:lkonle@proton.me), and published to [Google Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep).
