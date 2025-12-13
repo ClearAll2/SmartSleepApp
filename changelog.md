@@ -2,6 +2,14 @@
 
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
 
+## 0.5.1 (20251213.236.nsc)
+
+* Fixed issue where Sleep Sounds service sometimes ran longer than intended.
+* All 4 new collections are now available to all users, exclude extra songs.
+* Channels and "High" Quality options for audio recording are now available to all users.
+* Improved stability of Alarm and Nap services.
+* Minor UI improvements.
+
 ## 0.5.0 (251130.234.nsc)
 
 * Added 4 new sleep music collections (more to be added soon).
@@ -10,8 +18,6 @@ Thank you for choosing Smart Sleep! We're constantly making changes and improvem
 * Added new filter chips for settings; you can now find options faster.
 * Improved playback performance and the user interface.
 
-
-
 ## 0.4.9 (251108.229.jasu)
 
 * Fixed keyboard focus for the "Rename" option.
@@ -19,15 +25,11 @@ Thank you for choosing Smart Sleep! We're constantly making changes and improvem
 * Added the "Enable live preview" option, exclusive to Plus users.
 * Improved the alarm: now you can tap the alarm time directly.
 
-
-
 ## 0.4.8.2 (251004.227.bgw)
 
 * New design for the audio recorder.
 * Improved sound picker experience: it now scrolls to the selected sound properly.
 * Improved time picker experience, with a new option to select time by typing.
-
-
 
 ## 0.4.8.1 (250912.225.bgw)
 
