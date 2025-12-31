@@ -82,4 +82,4 @@ If you like my work and want to help, buy me a coffee at [PayPal](https://paypal
 - [Music by Piotr Witowski from Pixabay](https://pixabay.com/users/17430502/)
 - [Music by Alex Wit from Pixabay](https://pixabay.com/users/light_music-40074088/)
 
-© 2025 [LKONLE](mailto:lkonle@proton.me), and published to [Google Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep).
+© 2026 [LKONLE](mailto:lkonle@proton.me), and published to [Google Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep).

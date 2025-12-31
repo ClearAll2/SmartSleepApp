@@ -3,9 +3,10 @@
 This document details how you may use this website and our applications. Please read it carefully before using our website or applications, along with the [Privacy Policy](privacy.md). If you do not fully understand and agree to both this document (“Terms of Service”) and the Privacy Policy, you may not use any of our applications. We may also refer to this document as the End-User License Agreement.
 
 The terms in this document apply to the following properties:
-- This website
-- Smart Sleep app on Play Store
-- System Info app on Play Store
+
+* This website
+* Smart Sleep app on Play Store
+* System Info app on Play Store
 
 All content on this website and related properties is provided on an as-is basis without warranty of any kind. By using our application, you agree that we are not liable for any potential harm, damages, or other negative effects resulting from your use of applications. Use our applications at your own risk.
 
@@ -26,9 +27,12 @@ Please note that you are responsible for any and all actions occurring under you
 The software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. in no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
 
 ## Updates
+
 We reserve the right to update these terms at any time with or without notice.
 
 ## Contact
+
 If you have any questions or concerns about terms, please contact us at [lkonle@proton.me](mailto:lkonle@proton.me).
 
-© 2025 [LKONLE](mailto:lkonle@proton.me), and published to [Google Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep).
+© 2026 [LKONLE](mailto:lkonle@proton.me), and published to [Google Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep).
+

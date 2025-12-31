@@ -2,7 +2,13 @@
 
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
 
-## 0.5.1 (20251213.236.nsc)
+## 0.5.2 (251231.239.nsc - Last update of 2025)
+
+* Fixed: App crashing when updating from older versions.
+* Fixed: Alarms not working after an automatic update via the Play Store.
+* Implement various UI improvements and tweaks.
+
+## 0.5.1 (251213.236.nsc)
 
 * Fixed issue where Sleep Sounds service sometimes ran longer than intended.
 * All 4 new collections are now available to all users, exclude extra songs.
@@ -104,7 +110,7 @@ Thank you for choosing Smart Sleep! We're constantly making changes and improvem
 * Refine the display of language choices.
 * The maximum and minimum sleep cycle display options are now accessible to all users.
 
-## 0.4.3.2 (196 - Final update of 2024)
+## 0.4.3.2 (196 - Last update of 2024)
 
 * Fixed: "null" title of custom sound files (Plus users only).
 * Minor UI tweaks.
@@ -367,5 +373,5 @@ Thank you for choosing Smart Sleep! We're constantly making changes and improvem
 
 * ?
 
-© 2025 [LKONLE](mailto:lkonle@proton.me), and published to [Google Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep).
+© 2026 [LKONLE](mailto:lkonle@proton.me), and published to [Google Play Store](https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep).
 
