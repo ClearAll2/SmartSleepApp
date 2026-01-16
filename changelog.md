@@ -2,6 +2,15 @@
 
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
 
+## 0.5.3 (260104.240.nsc)
+
+* Settings improvement: Added a new floating button to scroll to top
+* Sound screen improvement: New background color + added author credit text
+* Time picker improvement: Now remembers your last chosen input mode
+* Minor UI improvements.
+
+
+
 ## 0.5.2 (251231.239.nsc - Last update of 2025)
 
 * Fixed: App crashing when updating from older versions.
