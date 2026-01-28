@@ -2,14 +2,19 @@
 
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
 
+## 0.5.4 (260127.245.nsc)
+
+* Introduced Dream Screen — our new exclusive feature for Plus users!
+* "Keep screen on while playing" has been integrated into Dream Screen and now only works when Dream Screen is active.
+* Fixed the bug where the "Gradually increase volume" alarm option was always enabled.
+* Various UI enhancements, refinements, and small tweaks throughout the app.
+
 ## 0.5.3 (260104.240.nsc)
 
 * Settings improvement: Added a new floating button to scroll to top
 * Sound screen improvement: New background color + added author credit text
 * Time picker improvement: Now remembers your last chosen input mode
 * Minor UI improvements.
-
-
 
 ## 0.5.2 (251231.239.nsc - Last update of 2025)
 
@@ -373,6 +378,14 @@ Thank you for choosing Smart Sleep! We're constantly making changes and improvem
 ## 0.2.8
 
 * New "Set Alarm" button.
+* New changelog section.
+* Add 2 new sleep sounds.
+* Improve user experience.
+* Fixed: "remember last played" setting.
+
+## 0.2.7
+
+* New "Set alarm" button.
 * New changelog section.
 * Add 2 new sleep sounds.
 * Improve user experience.

@@ -404,4 +404,15 @@
     <string name="meditation_music">Nhạc thiền</string>
     <string name="loudness_enhance">Tăng âm lượng</string>
     <string name="all">Tất cả</string>
+    <string name="battery_saver_warn">Chế độ tiết kiệm pin có thể làm giảm hiệu suất báo thức</string>
+    <string name="fullscreen_notification">Thông báo toàn màn hình</string>
+    <string name="alarm_and_reminder_permission"><![CDATA[Quyền báo thức & nhắc nhở]]></string>
+    <string name="dream_screen">Màn hình Giấc mơ</string>
+    <string name="show_on_lockscreen">Hiển thị trên màn hình khóa</string>
+    <string name="show_on_lockscreen_details">Có thể không hoạt động trên mọi thiết bị</string>
+    <string name="dream_screen_details">Chế độ xem trình phát trong bóng tối sâu</string>
+    <string name="dream_screen_long_details">Màn hình Giấc mơ nhẹ nhàng làm tối toàn bộ màn hình tạo không gian yên bình hoàn toàn đen, chỉ hiển thị nhẹ nhàng tên bài hát hiện tại và thời gian còn lại của bộ đếm ngủ. Hoàn hảo để nghe trước khi ngủ, vẫn hiển thị và tương tác đầy đủ ngay cả khi điện thoại bị khóa.</string>
+    <string name="dream_screen_instruction">Để kích hoạt Màn hình Giấc mơ, chỉ cần chạm vào màn hình Âm thanh trong khi đang phát nhạc.</string>
+    <string name="background">Nền</string>
+    <string name="dream_screen_instruction_2">Để hiển thị trên màn hình khóa, hãy kích hoạt Màn hình Giấc mơ rồi khóa thiết bị của bạn.</string>
 </resources>

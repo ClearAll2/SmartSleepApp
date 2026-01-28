@@ -404,4 +404,15 @@
     <string name="meditation_music">Музыка для медитации</string>
     <string name="loudness_enhance">Усилитель громкости</string>
     <string name="all">Все</string>
+    <string name="battery_saver_warn">Режим энергосбережения может ухудшить работу будильников</string>
+    <string name="fullscreen_notification">Уведомления на весь экран</string>
+    <string name="alarm_and_reminder_permission"><![CDATA[Разрешение на будильники и напоминания]]></string>
+    <string name="dream_screen">Экран снов</string>
+    <string name="show_on_lockscreen">Показывать на экране блокировки</string>
+    <string name="show_on_lockscreen_details">Может не работать на всех устройствах</string>
+    <string name="dream_screen_details">Вид плеера в глубокой темноте</string>
+    <string name="dream_screen_long_details">Экран снов мягко затемняет весь экран, создавая спокойную атмосферу полной черноты, и нежно отображает только название текущего трека и оставшееся время таймера сна. Идеально для прослушивания перед сном — остается видимым и полностью интерактивным даже при заблокированном телефоне.</string>
+    <string name="dream_screen_instruction">Чтобы активировать Экран снов, просто коснитесь экрана Звука во время активного воспроизведения.</string>
+    <string name="background">Фон</string>
+    <string name="dream_screen_instruction_2">Чтобы отображалось на экране блокировки, активируйте Экран снов, а затем заблокируйте устройство.</string>
 </resources>

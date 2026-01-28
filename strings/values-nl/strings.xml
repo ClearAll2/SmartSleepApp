@@ -404,4 +404,15 @@
     <string name="meditation_music">Meditatiemuziek</string>
     <string name="loudness_enhance">Geluidsversterker</string>
     <string name="all">Alle</string>
+    <string name="battery_saver_warn">Batterijbesparing kan de prestaties van alarmen verminderen</string>
+    <string name="fullscreen_notification">Volledig scherm meldingen</string>
+    <string name="alarm_and_reminder_permission"><![CDATA[Toestemming voor alarmen en herinneringen]]></string>
+    <string name="dream_screen">Droomscherm</string>
+    <string name="show_on_lockscreen">Weergeven op vergrendelscherm</string>
+    <string name="show_on_lockscreen_details">Werkt mogelijk niet op alle apparaten</string>
+    <string name="dream_screen_details">Diepe duisternis spelerweergave</string>
+    <string name="dream_screen_long_details">Het Droomscherm verduistert het hele scherm zachtjes tot een rustige, pikzwarte sfeer en toont alleen de huidige tracknaam en resterende slaaptimer. Perfect voor luisteren voor het slapengaan, blijft zichtbaar en volledig interactief zelfs als je telefoon vergrendeld is.</string>
+    <string name="dream_screen_instruction">Om het Droomscherm te activeren, tik je gewoon op het Geluidsscherm terwijl de afspeling actief is.</string>
+    <string name="background">Achtergrond</string>
+    <string name="dream_screen_instruction_2">Om op het vergrendelscherm te tonen, activeer het Droomscherm en vergrendel vervolgens je apparaat.</string>
 </resources>

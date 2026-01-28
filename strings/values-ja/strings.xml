@@ -404,4 +404,15 @@
     <string name="meditation_music">瞑想音楽</string>
     <string name="loudness_enhance">音量ブースター</string>
     <string name="all">すべて</string>
+    <string name="battery_saver_warn">バッテリーセーバーはアラームのパフォーマンスを低下させる可能性があります</string>
+    <string name="fullscreen_notification">フルスクリーンの通知</string>
+    <string name="alarm_and_reminder_permission"><![CDATA[アラームとリマインダーの権限]]></string>
+    <string name="dream_screen">ドリームスクリーン</string>
+    <string name="show_on_lockscreen">ロック画面に表示</string>
+    <string name="show_on_lockscreen_details">すべてのデバイスで動作するとは限りません</string>
+    <string name="dream_screen_details">深い闇のプレイヤービュー</string>
+    <string name="dream_screen_long_details">ドリームスクリーンは画面全体を優しく暗くして穏やかで真っ暗な雰囲気を作り出し、現在再生中の曲名と残りのスリープタイマーのみ柔らかく表示します。就寝前のリスニングに最適で、電話がロックされていても表示が続き、完全に操作可能です。</string>
+    <string name="dream_screen_instruction">ドリームスクリーンを有効にするには、再生中にサウンド画面をタップするだけです。</string>
+    <string name="background">背景</string>
+    <string name="dream_screen_instruction_2">ロック画面に表示するには、ドリームスクリーンを有効にしてからデバイスをロックしてください。</string>
 </resources>

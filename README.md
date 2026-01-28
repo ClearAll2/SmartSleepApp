@@ -23,20 +23,19 @@ Smart Sleep can calculate sleep cycle so you can estimate the time you need to g
 Watch [demo](https://youtu.be/s382DU-VxZ0)
 
 ## Features
-- Calculate sleep cycle and sleep time
-- Calculate time to wake up and time to sleep
-- Adjust sleep cycle length and time to fall asleep
-- Play relaxation and nature sounds
-- Nap timer (Smart Sleep+)
-- In-app alarm with full customization
+- Calculate sleep cycles and optimal sleep times
+- Determine ideal wake-up and bedtimes
+- Customize sleep cycle length and fall asleep duration
+- Play soothing relaxation and nature sounds (4 new collections)
+- Fully customizable in-app alarm
 - Gentle Wake (beta)
 - Multiple themes and colors (more themes with Smart Sleep+)
 - Material You (Android 12+)
 - Themed icon (Android 13+)
-- Support large screen devices
-- Supports multiple languages
+- Large screen device compatibility
+- Support multiple languages
 - Effortless and intuitive to use
-- No need internet connection
+- No internet connection required
 
 For more features, you can upgrade to Smart Sleep+.
 
@@ -45,10 +44,23 @@ For more features, you can upgrade to Smart Sleep+.
 Why should you get Smart Sleep+ (one-time payment):
 - Pay once and keep forever
 - Nap Timer: Take a nap without disturbance
-- Amazing sounds and the option to play your personalized sounds
-- Amazing Gentle Wake sounds for the best wake-up experience
-- Amazing themes
-- More setting options for the best experience
+- Dream Screen: Deep darkness player view
+- Option to calculate bedtime/wake-up time directly from calculation result
+- Option to show quick actions on top of calculation result
+- Extra sleep and relaxation songs 
+- Best sound quality (320 kbps) for recorder
+- Option to play your own sounds
+- Option to remember last played music and stop timer
+- Option to extend stop timer
+- Option to keep playing screen on
+- Volume booster option
+- 3 extra Gentle Wake sounds
+- Option to set default value for new alarms (vibrate & gradually increase volume)
+- Option to hide alarm tab
+- Alarm volume slider directly in setting
+- Option to show live preview of theme
+- 5 extra app themes
+- Option to hide tabs' name
 - Support future development
 - Be the first one to get latest features
 

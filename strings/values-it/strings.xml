@@ -411,4 +411,15 @@ Gestisci lo stress</string>
     <string name="meditation_music">Musica per meditazione</string>
     <string name="loudness_enhance">Potenziatore volume</string>
     <string name="all">Tutti</string>
+    <string name="battery_saver_warn">Il risparmio batteria potrebbe ridurre le prestazioni delle sveglie</string>
+    <string name="fullscreen_notification">Notifiche a schermo intero</string>
+    <string name="alarm_and_reminder_permission"><![CDATA[Permesso per sveglie e promemoria]]></string>
+    <string name="dream_screen">Schermo dei Sogni</string>
+    <string name="show_on_lockscreen">Mostra su schermo di blocco</string>
+    <string name="show_on_lockscreen_details">Potrebbe non funzionare su tutti i dispositivi</string>
+    <string name="dream_screen_details">Vista player in oscurità profonda</string>
+    <string name="dream_screen_long_details">Lo Schermo dei Sogni scurisce delicatamente tutto lo schermo creando un\'atmosfera pacifica e completamente nera, mostrando solo il nome della traccia corrente e il tempo rimanente del timer di sonno. Perfetto per ascoltare prima di dormire, rimane visibile e completamente interattivo anche con il telefono bloccato.</string>
+    <string name="dream_screen_instruction">Per attivare lo Schermo dei Sogni, tocca semplicemente la schermata Suono mentre la riproduzione è attiva.</string>
+    <string name="background">Sfondo</string>
+    <string name="dream_screen_instruction_2">Per mostrare sullo schermo di blocco, attiva lo Schermo dei Sogni e poi blocca il dispositivo.</string>
 </resources>

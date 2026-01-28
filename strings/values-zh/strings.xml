@@ -411,4 +411,15 @@
     <string name="meditation_music">冥想音乐</string>
     <string name="loudness_enhance">音量增强</string>
     <string name="all">全部</string>
+    <string name="battery_saver_warn">省电模式可能会降低闹钟性能</string>
+    <string name="fullscreen_notification">全屏通知</string>
+    <string name="alarm_and_reminder_permission"><![CDATA[闹钟与提醒权限]]></string>
+    <string name="dream_screen">梦境屏幕</string>
+    <string name="show_on_lockscreen">在锁屏上显示</string>
+    <string name="show_on_lockscreen_details">可能并非所有设备都支持</string>
+    <string name="dream_screen_details">深邃黑暗播放器视图</string>
+    <string name="dream_screen_long_details">梦境屏幕会温柔地将整个屏幕变暗，营造出宁静的纯黑氛围，仅柔和显示当前曲目名称和剩余睡眠计时器时间。非常适合睡前聆听，即使手机处于锁屏状态，屏幕依然可见并保持完全可交互。</string>
+    <string name="dream_screen_instruction">要激活梦境屏幕，只需在播放过程中轻点声音屏幕即可。</string>
+    <string name="background">背景</string>
+    <string name="dream_screen_instruction_2">要在锁屏上显示，请先激活梦境屏幕，然后锁定您的设备。</string>
 </resources>

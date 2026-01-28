@@ -404,4 +404,15 @@
     <string name="meditation_music">Meditationsmusik</string>
     <string name="loudness_enhance">Lautstärke-Booster</string>
     <string name="all">Alle</string>
+    <string name="battery_saver_warn">Der Energiesparmodus kann die Alarmleistung beeinträchtigen</string>
+    <string name="fullscreen_notification">Vollbild-Benachrichtigungen</string>
+    <string name="alarm_and_reminder_permission"><![CDATA[Alarm- & Erinnerungs-Berechtigung]]></string>
+    <string name="dream_screen">Traumbildschirm</string>
+    <string name="show_on_lockscreen">Auf Sperrbildschirm anzeigen</string>
+    <string name="show_on_lockscreen_details">Funktioniert möglicherweise nicht auf allen Geräten</string>
+    <string name="dream_screen_details">Tiefdunkle Player-Ansicht</string>
+    <string name="dream_screen_long_details">Der Traumbildschirm verdunkelt sanft den gesamten Bildschirm zu einer friedlichen, pechschwarzen Atmosphäre und zeigt nur den aktuellen Titelnamen und die verbleibende Schlaftimer-Zeit sanft an. Perfekt zum Einschlafen mit Musik – bleibt sichtbar und vollständig interaktiv, auch wenn das Handy gesperrt ist.</string>
+    <string name="dream_screen_instruction">Um den Traumbildschirm zu aktivieren, tippe einfach auf den Sound-Bildschirm, während die Wiedergabe läuft.</string>
+    <string name="background">Hintergrund</string>
+    <string name="dream_screen_instruction_2">Um auf dem Sperrbildschirm angezeigt zu werden, aktiviere den Traumbildschirm und sperre dann dein Gerät.</string>
 </resources>

@@ -404,4 +404,15 @@
     <string name="meditation_music">Música para meditar</string>
     <string name="loudness_enhance">Potenciador de volumen</string>
     <string name="all">Todo</string>
+    <string name="battery_saver_warn">El modo de ahorro de batería puede afectar el rendimiento de las alarmas</string>
+    <string name="fullscreen_notification">Notificaciones a pantalla completa</string>
+    <string name="alarm_and_reminder_permission"><![CDATA[Permiso de alarmas y recordatorios]]></string>
+    <string name="dream_screen">Pantalla de Sueño</string>
+    <string name="show_on_lockscreen">Mostrar en pantalla de bloqueo</string>
+    <string name="show_on_lockscreen_details">Puede no funcionar en todos los dispositivos</string>
+    <string name="dream_screen_details">Vista de reproductor en oscuridad profunda</string>
+    <string name="dream_screen_long_details">La Pantalla de Sueño oscurece suavemente toda la pantalla creando un ambiente pacífico y completamente negro, mostrando solo el nombre de la pista actual y el tiempo restante del temporizador de sueño. Perfecto para escuchar antes de dormir, permanece visible e interactivo incluso con el teléfono bloqueado.</string>
+    <string name="dream_screen_instruction">Para activar la Pantalla de Sueño, simplemente toca la pantalla de Sonido mientras la reproducción está activa.</string>
+    <string name="background">Fondo</string>
+    <string name="dream_screen_instruction_2">Para mostrar en la pantalla de bloqueo, activa la Pantalla de Sueño y luego bloquea tu dispositivo.</string>
 </resources>

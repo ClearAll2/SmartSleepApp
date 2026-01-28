@@ -411,4 +411,15 @@ Gérez le stress</string>
     <string name="meditation_music">Musique de méditation</string>
     <string name="loudness_enhance">Amplificateur de volume</string>
     <string name="all">Tout</string>
+    <string name="battery_saver_warn">L\'économiseur de batterie peut réduire les performances des alarmes</string>
+    <string name="fullscreen_notification">Notifications en plein écran</string>
+    <string name="alarm_and_reminder_permission"><![CDATA[Permission d\'alarmes et de rappels]]></string>
+    <string name="dream_screen">Écran de Rêve</string>
+    <string name="show_on_lockscreen">Afficher sur l\'écran de verrouillage</string>
+    <string name="show_on_lockscreen_details">Peut ne pas fonctionner sur tous les appareils</string>
+    <string name="dream_screen_details">Vue lecteur en obscurité profonde</string>
+    <string name="dream_screen_long_details">L\'Écran de Rêve assombrit doucement tout l\'écran pour créer une ambiance paisible et totalement noire, n\'affichant que le nom de la piste en cours et le temps restant du minuteur de sommeil. Idéal pour écouter au coucher, il reste visible et entièrement interactif même lorsque le téléphone est verrouillé.</string>
+    <string name="dream_screen_instruction">Pour activer l\'Écran de Rêve, touchez simplement l\'écran Son pendant que la lecture est active.</string>
+    <string name="background">Arrière-plan</string>
+    <string name="dream_screen_instruction_2">Pour afficher sur l\'écran de verrouillage, activez l\'Écran de Rêve puis verrouillez votre appareil.</string>
 </resources>

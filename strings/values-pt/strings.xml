@@ -404,4 +404,15 @@
     <string name="meditation_music">Música para meditação</string>
     <string name="loudness_enhance">Amplificador de volume</string>
     <string name="all">Tudo</string>
+    <string name="battery_saver_warn">O economizador de bateria pode afetar o desempenho dos alarmes</string>
+    <string name="fullscreen_notification">Notificações em tela cheia</string>
+    <string name="alarm_and_reminder_permission"><![CDATA[Permissão para alarmes e lembretes]]></string>
+    <string name="dream_screen">Tela dos Sonhos</string>
+    <string name="show_on_lockscreen">Mostrar na tela de bloqueio</string>
+    <string name="show_on_lockscreen_details">Pode não funcionar em todos os dispositivos</string>
+    <string name="dream_screen_details">Visualização do player em escuridão profunda</string>
+    <string name="dream_screen_long_details">A Tela dos Sonhos escurece suavemente toda a tela criando uma atmosfera pacífica e completamente preta, exibindo apenas o nome da faixa atual e o tempo restante do temporizador de sono. Perfeito para ouvir antes de dormir, permanece visível e totalmente interativo mesmo com o telefone bloqueado.</string>
+    <string name="dream_screen_instruction">Para ativar a Tela dos Sonhos, basta tocar na tela de Som enquanto a reprodução estiver ativa.</string>
+    <string name="background">Plano de fundo</string>
+    <string name="dream_screen_instruction_2">Para mostrar na tela de bloqueio, ative a Tela dos Sonhos e depois bloqueie seu dispositivo.</string>
 </resources>

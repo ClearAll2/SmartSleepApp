@@ -403,4 +403,15 @@
     <string name="meditation_music">Meditation music</string>
     <string name="loudness_enhance">Volume booster</string>
     <string name="all">All</string>
+    <string name="battery_saver_warn">Battery Saver may degrade alarm performance</string>
+    <string name="fullscreen_notification">Full-screen notifications</string>
+    <string name="alarm_and_reminder_permission"><![CDATA[Alarm & reminders permission]]></string>
+    <string name="dream_screen">Dream Screen</string>
+    <string name="show_on_lockscreen">Show on lockscreen</string>
+    <string name="show_on_lockscreen_details">Might not work on all devices</string>
+    <string name="dream_screen_details">Deep darkness player view</string>
+    <string name="dream_screen_long_details">Dream Screen gently darkens your entire screen into a peaceful, pitch-black ambiance while softly displaying only the current track name and remaining sleep timer. Perfect for bedtime listening, it stays visible and fully interactive even when your phone is locked.</string>
+    <string name="dream_screen_instruction">To activate Dream Screen, simply tap on the Sound screen while playback is active.</string>
+    <string name="background">Background</string>
+    <string name="dream_screen_instruction_2">To show on lockscreen, activate Dream Screen then lock your device.</string>
 </resources>
