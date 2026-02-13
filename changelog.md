@@ -2,6 +2,12 @@
 
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
 
+## 0.5.5 (260207.247.nsc)
+
+* Improvement: Now you can swipe between sleep music tabs!
+* Improvement: Audio recording sheet/dialog now respects back gesture/button.
+* Implemented various UI improvements and tweaks.
+
 ## 0.5.4 (260127.245.nsc)
 
 * Introduced Dream Screen — our new exclusive feature for Plus users!
@@ -378,14 +384,6 @@ Thank you for choosing Smart Sleep! We're constantly making changes and improvem
 ## 0.2.8
 
 * New "Set Alarm" button.
-* New changelog section.
-* Add 2 new sleep sounds.
-* Improve user experience.
-* Fixed: "remember last played" setting.
-
-## 0.2.7
-
-* New "Set alarm" button.
 * New changelog section.
 * Add 2 new sleep sounds.
 * Improve user experience.
