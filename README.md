@@ -10,13 +10,14 @@ Smart Sleep can calculate sleep cycle so you can estimate the time you need to g
  <a href='https://play.google.com/store/apps/details?id=com.lkonlesoft.smartsleep&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="80px"/></a>
 </p>
 <p>
-  <img src="screenshots/1.png" alt="sp1"  height="350px"/>
-  <img src="screenshots/2.png" alt="sp2"  height="350px"/>
-  <img src="screenshots/3.png" alt="sp3"  height="350px"/>
+  <img src="screenshots/261.png" alt="sp1"  height="350px"/>
+  <img src="screenshots/262.png" alt="sp2"  height="350px"/>
+  <img src="screenshots/263.png" alt="sp3"  height="350px"/>
 </p>
 <p>
-  <img src="screenshots/4.png" alt="sp5"  height="350px"/>
-  <img src="screenshots/5.png" alt="sp6"  height="350px"/>
+  <img src="screenshots/264.png" alt="sp5"  height="350px"/>
+  <img src="screenshots/265.png" alt="sp5"  height="350px"/>
+  <img src="screenshots/266.png" alt="sp6"  height="350px"/>
 </p>
 
 ## Demo
