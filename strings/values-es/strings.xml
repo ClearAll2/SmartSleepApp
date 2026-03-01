@@ -383,8 +383,8 @@
     <string name="default_value_for_new_alarms">Valor predeterminado para nuevas alarmas</string>
     <string name="tropical_paradise">Paraíso Tropical</string>
     <string name="gentle_wake">Despertar suave</string>
-    <string name="gentle_wake_details">Al activarse, la alarma se dispara 30 minutos antes de la hora establecida, comenzando con un sonido de trino de pájaros a bajo volumen que aumenta gradualmente. Esta progresión suave ayuda a despertarse de forma natural y tranquila. A la hora de alarma establecida, suena el tono de alarma estándar como de costumbre para asegurar que estés completamente despierto.</string>
-    <string name="gentle_wake_details_2">Para que Despertar suave funcione, la alarma debe establecerse al menos 30 minutos a partir de la hora actual. Si no, se programará automáticamente para el día siguiente.</string>
+    <string name="gentle_wake_details">Al activarse, la alarma se dispara %s minutos antes de la hora establecida, comenzando con un sonido de trino de pájaros a bajo volumen que aumenta gradualmente. Esta progresión suave ayuda a despertarse de forma natural y tranquila. A la hora de alarma establecida, suena el tono de alarma estándar como de costumbre para asegurar que estés completamente despierto.</string>
+    <string name="gentle_wake_details_2">Para que Despertar suave funcione, la alarma debe establecerse al menos %s minutos a partir de la hora actual. Si no, se programará automáticamente para el día siguiente.</string>
     <string name="gentle_wake_details_3">Ideal para sesiones de sueño largas para promover una experiencia de despertar renovada y relajada.</string>
     <string name="use_gentle_wake">Usar Despertar suave</string>
     <string name="gentle_wake_subtext">Despertar con una experiencia de alarma suave y gradual</string>
@@ -415,4 +415,13 @@
     <string name="dream_screen_instruction">Para activar la Pantalla de Sueño, simplemente toca la pantalla de Sonido mientras la reproducción está activa.</string>
     <string name="background">Fondo</string>
     <string name="dream_screen_instruction_2">Para mostrar en la pantalla de bloqueo, activa la Pantalla de Sueño y luego bloquea tu dispositivo.</string>
+    <string name="suggestions">Sugerencias</string>
+    <string name="time">Tiempo</string>
+    <string name="status">Estado</string>
+    <string name="gentle_wake_time">Hora suave</string>
+    <string name="advanced">Avanzado</string>
+    <string name="appearance">Apariencia</string>
+    <string name="interaction">Interacción</string>
+    <string name="on">Activado</string>
+    <string name="off">Desactivado</string>
 </resources>

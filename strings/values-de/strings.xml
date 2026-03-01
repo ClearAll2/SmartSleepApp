@@ -383,8 +383,8 @@
     <string name="default_value_for_new_alarms">Standardwert für neue Alarme</string>
     <string name="tropical_paradise">Tropisches Paradies</string>
     <string name="gentle_wake">Sanftes Aufwachen</string>
-    <string name="gentle_wake_details">Wenn aktiviert, löst der Wecker 30 Minuten früher als die eingestellte Zeit aus, beginnend mit einem leisen Vogelzwitschern, das sich langsam steigert. Dieser sanfte Übergang hilft Ihnen, natürlich und ruhig aufzuwachen. Zur eingestellten Weckzeit ertönt der normale Weckton wie gewohnt, um sicherzustellen, dass Sie vollständig wach sind.</string>
-    <string name="gentle_wake_details_2">Damit Sanftes Aufwachen funktioniert, muss der Wecker mindestens 30 Minuten nach der aktuellen Zeit gestellt werden. Andernfalls wird er automatisch für den nächsten Tag geplant.</string>
+    <string name="gentle_wake_details">Wenn aktiviert, löst der Wecker %s Minuten früher als die eingestellte Zeit aus, beginnend mit einem leisen Vogelzwitschern, das sich langsam steigert. Dieser sanfte Übergang hilft Ihnen, natürlich und ruhig aufzuwachen. Zur eingestellten Weckzeit ertönt der normale Weckton wie gewohnt, um sicherzustellen, dass Sie vollständig wach sind.</string>
+    <string name="gentle_wake_details_2">Damit Sanftes Aufwachen funktioniert, muss der Wecker mindestens %s Minuten nach der aktuellen Zeit gestellt werden. Andernfalls wird er automatisch für den nächsten Tag geplant.</string>
     <string name="gentle_wake_details_3">Ideal für lange Schlafphasen, um ein erfrischtes und entspanntes Aufwachen zu fördern.</string>
     <string name="use_gentle_wake">Sanftes Aufwachen verwenden</string>
     <string name="gentle_wake_subtext">Aufwachen mit einer beruhigenden und allmählichen Weckererfahrung</string>
@@ -415,4 +415,13 @@
     <string name="dream_screen_instruction">Um den Traumbildschirm zu aktivieren, tippe einfach auf den Sound-Bildschirm, während die Wiedergabe läuft.</string>
     <string name="background">Hintergrund</string>
     <string name="dream_screen_instruction_2">Um auf dem Sperrbildschirm angezeigt zu werden, aktiviere den Traumbildschirm und sperre dann dein Gerät.</string>
+    <string name="suggestions">Vorschläge</string>
+    <string name="time">Zeit</string>
+    <string name="status">Status</string>
+    <string name="gentle_wake_time">Sanfte Zeit</string>
+    <string name="advanced">Erweitert</string>
+    <string name="appearance">Erscheinungsbild</string>
+    <string name="interaction">Interaktion</string>
+    <string name="on">Ein</string>
+    <string name="off">Aus</string>
 </resources>

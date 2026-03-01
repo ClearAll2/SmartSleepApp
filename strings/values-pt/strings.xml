@@ -383,8 +383,8 @@
     <string name="default_value_for_new_alarms">Valor padrão para novos alarmes</string>
     <string name="tropical_paradise">Paraíso Tropical</string>
     <string name="gentle_wake">Acordar suave</string>
-    <string name="gentle_wake_details">Ao ser ativado, o alarme dispara 30 minutos antes do horário definido, começando com um som de canto de pássaros em volume baixo que aumenta gradualmente. Esta progressão suave ajuda a acordar de forma natural e calma. No horário de alarme definido, o som padrão do alarme toca como de costume para garantir que você esteja totalmente acordado.</string>
-    <string name="gentle_wake_details_2">Para que o Acordar suave funcione, o alarme deve ser configurado com pelo menos 30 minutos a partir do horário atual. Caso contrário, será automaticamente agendado para o dia seguinte.</string>
+    <string name="gentle_wake_details">Ao ser ativado, o alarme dispara %s minutos antes do horário definido, começando com um som de canto de pássaros em volume baixo que aumenta gradualmente. Esta progressão suave ajuda a acordar de forma natural e calma. No horário de alarme definido, o som padrão do alarme toca como de costume para garantir que você esteja totalmente acordado.</string>
+    <string name="gentle_wake_details_2">Para que o Acordar suave funcione, o alarme deve ser configurado com pelo menos %s minutos a partir do horário atual. Caso contrário, será automaticamente agendado para o dia seguinte.</string>
     <string name="gentle_wake_details_3">Ideal para sessões de sono longas, promovendo uma experiência de acordar revigorada e relaxada.</string>
     <string name="use_gentle_wake">Usar Acordar suave</string>
     <string name="gentle_wake_subtext">Acordar com uma experiência de alarme suave e gradual</string>
@@ -415,4 +415,13 @@
     <string name="dream_screen_instruction">Para ativar a Tela dos Sonhos, basta tocar na tela de Som enquanto a reprodução estiver ativa.</string>
     <string name="background">Plano de fundo</string>
     <string name="dream_screen_instruction_2">Para mostrar na tela de bloqueio, ative a Tela dos Sonhos e depois bloqueie seu dispositivo.</string>
+    <string name="suggestions">Sugestões</string>
+    <string name="time">Hora</string>
+    <string name="status">Status</string>
+    <string name="gentle_wake_time">Hora suave</string>
+    <string name="advanced">Avançado</string>
+    <string name="appearance">Aparência</string>
+    <string name="interaction">Interação</string>
+    <string name="on">Ligado</string>
+    <string name="off">Desligado</string>
 </resources>

@@ -383,8 +383,8 @@
     <string name="default_value_for_new_alarms">Giá trị mặc định cho báo thức mới</string>
     <string name="tropical_paradise">Thiên đường nhiệt đới</string>
     <string name="gentle_wake">Thức dậy nhẹ nhàng</string>
-    <string name="gentle_wake_details">Khi được kích hoạt, báo thức sẽ vang lên 30 phút trước giờ đã đặt, bắt đầu bằng âm thanh chim hót ở âm lượng thấp và tăng dần. Sự tiến triển nhẹ nhàng này giúp bạn thức dậy một cách tự nhiên và bình tĩnh. Vào giờ báo thức đã đặt, âm thanh báo thức tiêu chuẩn sẽ vang lên như thường lệ để đảm bảo bạn hoàn toàn tỉnh táo.</string>
-    <string name="gentle_wake_details_2">Để Thức dậy nhẹ nhàng hoạt động, báo thức phải được đặt ít nhất 30 phút sau thời gian hiện tại. Nếu không, nó sẽ tự động lên lịch cho ngày hôm sau.</string>
+    <string name="gentle_wake_details">Khi được kích hoạt, báo thức sẽ vang lên %s phút trước giờ đã đặt, bắt đầu bằng âm thanh chim hót ở âm lượng thấp và tăng dần. Sự tiến triển nhẹ nhàng này giúp bạn thức dậy một cách tự nhiên và bình tĩnh. Vào giờ báo thức đã đặt, âm thanh báo thức tiêu chuẩn sẽ vang lên như thường lệ để đảm bảo bạn hoàn toàn tỉnh táo.</string>
+    <string name="gentle_wake_details_2">Để Thức dậy nhẹ nhàng hoạt động, báo thức phải được đặt ít nhất %s phút sau thời gian hiện tại. Nếu không, nó sẽ tự động lên lịch cho ngày hôm sau.</string>
     <string name="gentle_wake_details_3">Phù hợp với các phiên ngủ dài để thúc đẩy trải nghiệm thức dậy sảng khoái và thư giãn.</string>
     <string name="use_gentle_wake">Sử dụng Thức dậy nhẹ nhàng</string>
     <string name="gentle_wake_subtext">Thức dậy với trải nghiệm báo thức nhẹ nhàng và dần dần</string>
@@ -415,4 +415,13 @@
     <string name="dream_screen_instruction">Để kích hoạt Màn hình Giấc mơ, chỉ cần chạm vào màn hình Âm thanh trong khi đang phát nhạc.</string>
     <string name="background">Nền</string>
     <string name="dream_screen_instruction_2">Để hiển thị trên màn hình khóa, hãy kích hoạt Màn hình Giấc mơ rồi khóa thiết bị của bạn.</string>
+    <string name="suggestions">Gợi ý</string>
+    <string name="time">Thời gian</string>
+    <string name="status">Trạng thái</string>
+    <string name="gentle_wake_time">Thời gian nhẹ nhàng</string>
+    <string name="advanced">Nâng cao</string>
+    <string name="appearance">Giao diện</string>
+    <string name="interaction">Tương tác</string>
+    <string name="on">Bật</string>
+    <string name="off">Tắt</string>
 </resources>

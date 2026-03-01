@@ -390,8 +390,8 @@
     <string name="default_value_for_new_alarms">新闹钟的默认值</string>
     <string name="tropical_paradise">热带天堂</string>
     <string name="gentle_wake">温和唤醒</string>
-    <string name="gentle_wake_details">激活后，闹钟将在设定时间前30分钟响起，从低音量的鸟鸣声开始，逐渐增大音量。这种温和的渐进过程有助于自然、平静地醒来。在设定闹钟时间时，标准闹钟声音将如常响起，以确保您完全清醒。</string>
-    <string name="gentle_wake_details_2">要使用温和唤醒，闹钟必须在当前时间后至少30分钟设置。如果不是，系统将自动安排到第二天。</string>
+    <string name="gentle_wake_details">激活后，闹钟将在设定时间前%s分钟响起，从低音量的鸟鸣声开始，逐渐增大音量。这种温和的渐进过程有助于自然、平静地醒来。在设定闹钟时间时，标准闹钟声音将如常响起，以确保您完全清醒。</string>
+    <string name="gentle_wake_details_2">要使用温和唤醒，闹钟必须在当前时间后至少%s分钟设置。如果不是，系统将自动安排到第二天。</string>
     <string name="gentle_wake_details_3">适合长时间睡眠，促进清新放松的醒来体验。</string>
     <string name="use_gentle_wake">使用温和唤醒</string>
     <string name="gentle_wake_subtext">通过舒缓渐进的闹钟体验醒来</string>
@@ -422,4 +422,13 @@
     <string name="dream_screen_instruction">要激活梦境屏幕，只需在播放过程中轻点声音屏幕即可。</string>
     <string name="background">背景</string>
     <string name="dream_screen_instruction_2">要在锁屏上显示，请先激活梦境屏幕，然后锁定您的设备。</string>
+    <string name="suggestions">建议</string>
+    <string name="time">时间</string>
+    <string name="status">状态</string>
+    <string name="gentle_wake_time">温柔唤醒时间</string>
+    <string name="advanced">高级</string>
+    <string name="appearance">外观</string>
+    <string name="interaction">交互</string>
+    <string name="on">开</string>
+    <string name="off">关</string>
 </resources>

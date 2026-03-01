@@ -383,8 +383,8 @@
     <string name="default_value_for_new_alarms">새 알람의 기본값</string>
     <string name="tropical_paradise">열대 낙원</string>
     <string name="gentle_wake">부드러운 기상</string>
-    <string name="gentle_wake_details">활성화되면 알람이 설정 시간보다 30분 일찍 작동하며, 낮은 볼륨의 새소리에서 시작하여 점차 볼륨이 커집니다. 이 부드러운 진행은 자연스럽고 차분하게 깨어나는 데 도움이 됩니다. 설정된 알람 시간에 도달하면 평소처럼 표준 알람 소리가 울려 완전히 깨어 있는지 확인합니다.</string>
-    <string name="gentle_wake_details_2">부드러운 기상가 작동하려면 알람이 현재 시간부터 최소 30분 후로 설정되어야 합니다. 그렇지 않으면 자동으로 다음 날로 예약됩니다.</string>
+    <string name="gentle_wake_details">활성화되면 알람이 설정 시간보다 %s분 일찍 작동하며, 낮은 볼륨의 새소리에서 시작하여 점차 볼륨이 커집니다. 이 부드러운 진행은 자연스럽고 차분하게 깨어나는 데 도움이 됩니다. 설정된 알람 시간에 도달하면 평소처럼 표준 알람 소리가 울려 완전히 깨어 있는지 확인합니다.</string>
+    <string name="gentle_wake_details_2">부드러운 기상가 작동하려면 알람이 현재 시간부터 최소 %s분 후로 설정되어야 합니다. 그렇지 않으면 자동으로 다음 날로 예약됩니다.</string>
     <string name="gentle_wake_details_3">긴 수면 시간에 적합하여 상쾌하고 편안한 기상을 촉진합니다.</string>
     <string name="use_gentle_wake">부드러운 기상 사용</string>
     <string name="gentle_wake_subtext">부드럽고 점진적인 알람 경험으로 깨어나기</string>
@@ -415,4 +415,13 @@
     <string name="dream_screen_instruction">드림 스크린을 활성화하려면 재생 중일 때 사운드 화면을 탭하기만 하면 됩니다.</string>
     <string name="background">배경</string>
     <string name="dream_screen_instruction_2">잠금 화면에 표시하려면 드림 스크린을 활성화한 후 기기를 잠그세요.</string>
+    <string name="suggestions">제안</string>
+    <string name="time">시간</string>
+    <string name="status">상태</string>
+    <string name="gentle_wake_time">부드러운 기상 시간</string>
+    <string name="advanced">고급</string>
+    <string name="appearance">모양</string>
+    <string name="interaction">상호작용</string>
+    <string name="on">켜짐</string>
+    <string name="off">꺼짐</string>
 </resources>

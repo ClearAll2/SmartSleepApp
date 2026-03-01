@@ -383,8 +383,8 @@
     <string name="default_value_for_new_alarms">Standaardwaarde voor nieuwe alarmen</string>
     <string name="tropical_paradise">Tropisch Paradijs</string>
     <string name="gentle_wake">Zacht ontwaken</string>
-    <string name="gentle_wake_details">Wanneer geactiveerd, gaat de wekker 30 minuten eerder af dan de ingestelde tijd, beginnend met een zacht vogelgekwetter dat geleidelijk in volume toeneemt. Deze zachte overgang helpt je natuurlijk en kalm wakker te worden. Op de ingestelde alarmtijd klinkt het standaard alarmsignaal zoals gewoonlijk om te zorgen dat je volledig wakker bent.</string>
-    <string name="gentle_wake_details_2">Voor Zacht ontwaken moet de wekker minstens 30 minuten na de huidige tijd worden ingesteld. Zo niet, dan wordt deze automatisch gepland voor de volgende dag.</string>
+    <string name="gentle_wake_details">Wanneer geactiveerd, gaat de wekker %s minuten eerder af dan de ingestelde tijd, beginnend met een zacht vogelgekwetter dat geleidelijk in volume toeneemt. Deze zachte overgang helpt je natuurlijk en kalm wakker te worden. Op de ingestelde alarmtijd klinkt het standaard alarmsignaal zoals gewoonlijk om te zorgen dat je volledig wakker bent.</string>
+    <string name="gentle_wake_details_2">Voor Zacht ontwaken moet de wekker minstens %s minuten na de huidige tijd worden ingesteld. Zo niet, dan wordt deze automatisch gepland voor de volgende dag.</string>
     <string name="gentle_wake_details_3">Ideaal voor lange slaapperiodes om een verfrist en ontspannen ontwaken te bevorderen.</string>
     <string name="use_gentle_wake">Gebruik Zacht ontwaken</string>
     <string name="gentle_wake_subtext">Ontwaken met een kalmerende en geleidelijke alarmervaring</string>
@@ -415,4 +415,13 @@
     <string name="dream_screen_instruction">Om het Droomscherm te activeren, tik je gewoon op het Geluidsscherm terwijl de afspeling actief is.</string>
     <string name="background">Achtergrond</string>
     <string name="dream_screen_instruction_2">Om op het vergrendelscherm te tonen, activeer het Droomscherm en vergrendel vervolgens je apparaat.</string>
+    <string name="suggestions">Suggesties</string>
+    <string name="time">Tijd</string>
+    <string name="status">Status</string>
+    <string name="gentle_wake_time">Zachte wektijd</string>
+    <string name="advanced">Geavanceerd</string>
+    <string name="appearance">Uiterlijk</string>
+    <string name="interaction">Interactie</string>
+    <string name="on">Aan</string>
+    <string name="off">Uit</string>
 </resources>

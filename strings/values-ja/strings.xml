@@ -383,8 +383,8 @@
     <string name="default_value_for_new_alarms">新しいアラームのデフォルト値</string>
     <string name="tropical_paradise">トロピカルパラダイス</string>
     <string name="gentle_wake">穏やかな目覚め</string>
-    <string name="gentle_wake_details">有効にすると、設定時間より30分早くアラームが作動し、最初は低音量の鳥のさえずりから始まり、徐々に音量が大きくなります。この穏やかな進行は、自然で穏やかに目覚めるのを助けます。設定したアラーム時刻には、通常通り標準のアラーム音が鳴り、完全に目覚めていることを確認します。</string>
-    <string name="gentle_wake_details_2">穏やかな目覚めを使用するには、アラームを現在の時刻から少なくとも30分後に設定する必要があります。そうでない場合は、自動的に翌日にスケジュールされます。</string>
+    <string name="gentle_wake_details">有効にすると、設定時間より%s分早くアラームが作動し、最初は低音量の鳥のさえずりから始まり、徐々に音量が大きくなります。この穏やかな進行は、自然で穏やかに目覚めるのを助けます。設定したアラーム時刻には、通常通り標準のアラーム音が鳴り、完全に目覚めていることを確認します。</string>
+    <string name="gentle_wake_details_2">穏やかな目覚めを使用するには、アラームを現在の時刻から少なくとも%s分後に設定する必要があります。そうでない場合は、自動的に翌日にスケジュールされます。</string>
     <string name="gentle_wake_details_3">長時間の睡眠セッションに適しており、爽やかでリラックスした目覚めを促進します。</string>
     <string name="use_gentle_wake">穏やかな目覚めを使用</string>
     <string name="gentle_wake_subtext">穏やかで徐々に進行するアラーム体験で目覚める</string>
@@ -415,4 +415,13 @@
     <string name="dream_screen_instruction">ドリームスクリーンを有効にするには、再生中にサウンド画面をタップするだけです。</string>
     <string name="background">背景</string>
     <string name="dream_screen_instruction_2">ロック画面に表示するには、ドリームスクリーンを有効にしてからデバイスをロックしてください。</string>
+    <string name="suggestions">提案</string>
+    <string name="time">時間</string>
+    <string name="status">ステータス</string>
+    <string name="gentle_wake_time">優しい目覚め時間</string>
+    <string name="advanced">詳細設定</string>
+    <string name="appearance">外観</string>
+    <string name="interaction">インタラクション</string>
+    <string name="on">オン</string>
+    <string name="off">オフ</string>
 </resources>

@@ -390,8 +390,8 @@ Gérez le stress</string>
     <string name="default_value_for_new_alarms">Valeur par défaut pour les nouvelles alarmes</string>
     <string name="tropical_paradise">Paradis Tropical</string>
     <string name="gentle_wake">Réveil doux</string>
-    <string name="gentle_wake_details">Lorsqu\'il est activé, l\'alarme se déclenche 30 minutes avant l\'heure définie, commençant par un gazouillis d\'oiseau à faible volume qui augmente progressivement. Cette progression douce aide à se réveiller naturellement et calmement. À l\'heure de l\'alarme définie, le son d\'alarme standard se déclenche comme d\'habitude pour s\'assurer que vous êtes complètement réveillé.</string>
-    <string name="gentle_wake_details_2">Pour que Réveil doux fonctionne, l\'alarme doit être programmée au moins 30 minutes après l\'heure actuelle. Sinon, elle sera automatiquement planifiée pour le lendemain.</string>
+    <string name="gentle_wake_details">Lorsqu\'il est activé, l\'alarme se déclenche %s minutes avant l\'heure définie, commençant par un gazouillis d\'oiseau à faible volume qui augmente progressivement. Cette progression douce aide à se réveiller naturellement et calmement. À l\'heure de l\'alarme définie, le son d\'alarme standard se déclenche comme d\'habitude pour s\'assurer que vous êtes complètement réveillé.</string>
+    <string name="gentle_wake_details_2">Pour que Réveil doux fonctionne, l\'alarme doit être programmée au moins %s minutes après l\'heure actuelle. Sinon, elle sera automatiquement planifiée pour le lendemain.</string>
     <string name="gentle_wake_details_3">Idéal pour les longues sessions de sommeil afin de favoriser une expérience de réveil reposante et détendue.</string>
     <string name="use_gentle_wake">Utiliser Réveil doux</string>
     <string name="gentle_wake_subtext">Se réveiller avec une expérience d\'alarme apaisante et progressive</string>
@@ -422,4 +422,13 @@ Gérez le stress</string>
     <string name="dream_screen_instruction">Pour activer l\'Écran de Rêve, touchez simplement l\'écran Son pendant que la lecture est active.</string>
     <string name="background">Arrière-plan</string>
     <string name="dream_screen_instruction_2">Pour afficher sur l\'écran de verrouillage, activez l\'Écran de Rêve puis verrouillez votre appareil.</string>
+    <string name="suggestions">Suggestions</string>
+    <string name="time">Heure</string>
+    <string name="status">Statut</string>
+    <string name="gentle_wake_time">Réveil en douceur</string>
+    <string name="advanced">Avancé</string>
+    <string name="appearance">Apparence</string>
+    <string name="interaction">Interaction</string>
+    <string name="on">Activé</string>
+    <string name="off">Désactivé</string>
 </resources>

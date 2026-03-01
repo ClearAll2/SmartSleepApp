@@ -390,8 +390,8 @@ Gestisci lo stress</string>
     <string name="default_value_for_new_alarms">Valore predefinito per nuove allarmi</string>
     <string name="tropical_paradise">Paradiso Tropicale</string>
     <string name="gentle_wake">Risveglio delicato</string>
-    <string name="gentle_wake_details">Quando attivato, l\'allarme si attiva 30 minuti prima dell\'orario impostato, iniziando con un suono di cinguettio di uccelli a basso volume che aumenta gradualmente. Questa progressione delicata aiuta a svegliarsi in modo naturale e tranquillo. All\'orario dell\'allarme impostato, il suono standard dell\'allarme suona come al solito per assicurarsi che tu sia completamente sveglio.</string>
-    <string name="gentle_wake_details_2">Affinché Risveglio delicato funzioni, l\'allarme deve essere impostato almeno 30 minuti dopo l\'orario attuale. In caso contrario, verrà automaticamente programmato per il giorno successivo.</string>
+    <string name="gentle_wake_details">Quando attivato, l\'allarme si attiva %s minuti prima dell\'orario impostato, iniziando con un suono di cinguettio di uccelli a basso volume che aumenta gradualmente. Questa progressione delicata aiuta a svegliarsi in modo naturale e tranquillo. All\'orario dell\'allarme impostato, il suono standard dell\'allarme suona come al solito per assicurarsi che tu sia completamente sveglio.</string>
+    <string name="gentle_wake_details_2">Affinché Risveglio delicato funzioni, l\'allarme deve essere impostato almeno %s minuti dopo l\'orario attuale. In caso contrario, verrà automaticamente programmato per il giorno successivo.</string>
     <string name="gentle_wake_details_3">Ideale per lunghe sessioni di sonno per promuovere un\'esperienza di risveglio rinvigorita e rilassata.</string>
     <string name="use_gentle_wake">Usa Risveglio delicato</string>
     <string name="gentle_wake_subtext">Risveglio con un\'esperienza di allarme rassicurante e graduale</string>
@@ -422,4 +422,13 @@ Gestisci lo stress</string>
     <string name="dream_screen_instruction">Per attivare lo Schermo dei Sogni, tocca semplicemente la schermata Suono mentre la riproduzione è attiva.</string>
     <string name="background">Sfondo</string>
     <string name="dream_screen_instruction_2">Per mostrare sullo schermo di blocco, attiva lo Schermo dei Sogni e poi blocca il dispositivo.</string>
+    <string name="suggestions">Suggerimenti</string>
+    <string name="time">Ora</string>
+    <string name="status">Stato</string>
+    <string name="gentle_wake_time">Risveglio graduale</string>
+    <string name="advanced">Avanzate</string>
+    <string name="appearance">Aspetto</string>
+    <string name="interaction">Interazione</string>
+    <string name="on">Attivato</string>
+    <string name="off">Disattivato</string>
 </resources>
