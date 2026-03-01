@@ -2,6 +2,20 @@
 
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
 
+## 0.6.0 (260301.256.impal)
+
+* Gentle Wake improvement: now plus users can adjust gentle time.
+* Introduce new alarm type: Reminder notification - Option to have alarms appear as standard notifications (in the notification shade) instead of taking over the full screen.
+* Introduce alarm sorting: now you can sort alarm by multiple categories: Default, Time and Status.
+* Introduce alarm suggestions section: All alarm suggestions are now neatly grouped into one single card for quicker browsing and selection.
+* Reworked Set/Edit alarm screen : now you can select between multiple alarm types: System, Default, Gentle Wake and Reminder notification.
+* Time picker improvement: Now remembers your last chosen input mode (as a setting option).
+* Sleep music downloader UI improvement, now you can cancel current download.
+* Introduce the new settings screen and new shortcuts for quick access to each category.
+* Introduce the Google Sans Flex font across the app.
+* Fixed UI jitter, inconsistent padding values, and various other UI improvements.
+* Under the hood improvement: Major codebase refactoring for better overall stability and performance.
+
 ## 0.5.5 (260207.247.nsc)
 
 * Improvement: Now you can swipe between sleep music tabs!
@@ -19,7 +33,7 @@ Thank you for choosing Smart Sleep! We're constantly making changes and improvem
 
 * Settings improvement: Added a new floating button to scroll to top
 * Sound screen improvement: New background color + added author credit text
-* Time picker improvement: Now remembers your last chosen input mode
+* Time picker improvement: Now remembers your last chosen input mode (as temporary option)
 * Minor UI improvements.
 
 ## 0.5.2 (251231.239.nsc - Last update of 2025)
