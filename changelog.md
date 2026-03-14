@@ -2,12 +2,17 @@
 
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
 
+## 0.6.2 (260314.259.impal)
+
+* Added font selection: You now can choose between the system font and the new Google Sans Flex font.
+* Fixed inconsistent font weights across multiple UI components.
+* Various UI enhancements and refinements throughout the app.
+* Various performance and stability improvements throughout the app.
+
 ## 0.6.1 (260307.257.impal)
 
 * Fixed: "Volume booster" not working.
 * Fixed: inconsistent font of Nap and Dream Screen timer.
-
-
 
 ## 0.6.0 (260301.256.impal)
 
