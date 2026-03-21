@@ -28,6 +28,7 @@ Watch [demo](https://youtu.be/s382DU-VxZ0)
 - Determine ideal wake-up and bedtimes
 - Customize sleep cycle length and fall asleep duration
 - Play soothing relaxation and nature sounds (4 new collections)
+- Nap timer: Boost alertness
 - Fully customizable in-app alarm
 - Gentle Wake (beta)
 - Multiple themes and colors (more themes with Smart Sleep+)
@@ -44,7 +45,7 @@ For more features, you can upgrade to Smart Sleep+.
 
 Why should you get Smart Sleep+ (one-time payment):
 - Pay once and keep forever
-- Nap Timer: Take a nap without disturbance
+- Do Not Disturb for Nap: Take a nap without disturbance
 - Dream Screen: Deep darkness player view
 - Option to calculate bedtime/wake-up time directly from calculation result
 - Option to show quick actions on top of calculation result
