@@ -2,6 +2,14 @@
 
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
 
+## 0.6.4 (B263)
+
+* Added a new Alarm background option for Plus users.
+* Default alarm backgrounds now match the app color instead of the system color.
+* Improvements to the Alarm suggestions section.
+* Improvements to Alarm stability and performance.
+* Simplified the format of app version 🙂.
+
 ## 0.6.3 (260321.260.impal)
 
 * Nap Timer is now available to all users 🥳!
