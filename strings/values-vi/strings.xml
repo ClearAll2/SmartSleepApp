@@ -424,4 +424,7 @@
     <string name="interaction">Tương tác</string>
     <string name="on">Bật</string>
     <string name="off">Tắt</string>
+    <string name="font">Phông chữ</string>
+    <string name="app_color">Màu ứng dụng</string>
+    <string name="overlay_permission_request">Cho phép Smart Sleep hiển thị trên các ứng dụng khác để báo thức của bạn luôn đổ chuông đúng giờ.</string>
 </resources>

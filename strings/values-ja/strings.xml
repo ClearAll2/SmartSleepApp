@@ -424,4 +424,7 @@
     <string name="interaction">インタラクション</string>
     <string name="on">オン</string>
     <string name="off">オフ</string>
+    <string name="font">フォント</string>
+    <string name="app_color">アプリの色</string>
+    <string name="overlay_permission_request">Smart Sleep が他のアプリの上に表示されることを許可すると、アラームが常に時間通りに鳴ります。</string>
 </resources>

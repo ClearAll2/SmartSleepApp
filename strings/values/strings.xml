@@ -174,7 +174,7 @@
     <string name="minus_15">Include time to fall asleep</string>
     <string name="back">Back</string>
     <string name="calculate_again">Recalculate</string>
-    <string name="faq">F.A.Q</string>
+    <string name="faq">Frequently asked questions</string>
     <string name="q1">Can this app track my sleep?</string>
     <string name="q1_a">Smart Sleep does not and will not have sleep tracking function. It consumes battery and causes privacy concern.</string>
     <string name="q2">What is a sleep cycle?</string>
@@ -423,4 +423,7 @@
     <string name="interaction">Interaction</string>
     <string name="on">On</string>
     <string name="off">Off</string>
+    <string name="font">Font</string>
+    <string name="app_color">App color</string>
+    <string name="overlay_permission_request">Allow Smart Sleep to appear on top of other apps so your alarms always go off on time.</string>
 </resources>

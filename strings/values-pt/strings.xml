@@ -424,4 +424,7 @@
     <string name="interaction">Interação</string>
     <string name="on">Ligado</string>
     <string name="off">Desligado</string>
+    <string name="font">Fonte</string>
+    <string name="app_color">Cor do app</string>
+    <string name="overlay_permission_request">Permita que o Smart Sleep apareça sobre outros aplicativos para que seus alarmes sempre toquem no horário.</string>
 </resources>

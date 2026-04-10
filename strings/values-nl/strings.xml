@@ -424,4 +424,7 @@
     <string name="interaction">Interactie</string>
     <string name="on">Aan</string>
     <string name="off">Uit</string>
+    <string name="font">Lettertype</string>
+    <string name="app_color">App-kleur</string>
+    <string name="overlay_permission_request">Sta Smart Sleep toe om boven andere apps te verschijnen, zodat je alarmen altijd op tijd afgaan.</string>
 </resources>

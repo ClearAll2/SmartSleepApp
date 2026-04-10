@@ -431,4 +431,7 @@ Gérez le stress</string>
     <string name="interaction">Interaction</string>
     <string name="on">Activé</string>
     <string name="off">Désactivé</string>
+    <string name="font">Police</string>
+    <string name="app_color">Couleur de l\'app</string>
+    <string name="overlay_permission_request">Autorisez Smart Sleep à apparaître au-dessus des autres applications afin que vos alarmes se déclenchent toujours à l\'heure.</string>
 </resources>

@@ -424,4 +424,7 @@
     <string name="interaction">상호작용</string>
     <string name="on">켜짐</string>
     <string name="off">꺼짐</string>
+    <string name="font">글꼴</string>
+    <string name="app_color">앱 색상</string>
+    <string name="overlay_permission_request">Smart Sleep이 다른 앱 위에 표시되도록 허용하면 알람이 항상 제시간에 울립니다.</string>
 </resources>

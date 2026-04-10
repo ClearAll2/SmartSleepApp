@@ -424,4 +424,7 @@
     <string name="interaction">Interaktion</string>
     <string name="on">Ein</string>
     <string name="off">Aus</string>
+    <string name="font">Schriftart</string>
+    <string name="app_color">App-Farbe</string>
+    <string name="overlay_permission_request">Erlaube Smart Sleep, über anderen Apps zu erscheinen, damit deine Alarme immer pünktlich ausgelöst werden.</string>
 </resources>

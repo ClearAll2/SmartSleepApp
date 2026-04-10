@@ -431,4 +431,7 @@ Gestisci lo stress</string>
     <string name="interaction">Interazione</string>
     <string name="on">Attivato</string>
     <string name="off">Disattivato</string>
+    <string name="font">Carattere</string>
+    <string name="app_color">Colore app</string>
+    <string name="overlay_permission_request">Consenti a Smart Sleep di apparire sopra altre app in modo che le tue sveglie suonino sempre in orario.</string>
 </resources>

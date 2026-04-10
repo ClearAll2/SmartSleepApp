@@ -424,4 +424,7 @@
     <string name="interaction">Взаимодействие</string>
     <string name="on">Вкл</string>
     <string name="off">Выкл</string>
+    <string name="font">Шрифт</string>
+    <string name="app_color">Цвет приложения</string>
+    <string name="overlay_permission_request">Разрешите Smart Sleep отображаться поверх других приложений, чтобы ваши будильники всегда срабатывали вовремя.</string>
 </resources>
