@@ -59,6 +59,7 @@ Why should you get Smart Sleep+ (one-time payment):
 - 3 extra Gentle Wake sounds
 - Option to set default value for new alarms (vibrate & gradually increase volume)
 - Option to hide alarm tab
+- Option to change background color of alarms
 - Alarm volume slider directly in setting
 - Option to show live preview of theme
 - 5 extra app themes
