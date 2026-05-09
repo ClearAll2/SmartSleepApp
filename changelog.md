@@ -2,6 +2,11 @@
 
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
 
+## 0.7.0 (B269)
+
+* 🎨 New look, new feel: Material 3 Expressive design.
+* 📱 Android 17 ready.
+
 ## 0.6.5 (B265)
 
 * Improve user experience.
