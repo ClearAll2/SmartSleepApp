@@ -427,4 +427,14 @@
     <string name="font">Lettertype</string>
     <string name="app_color">App-kleur</string>
     <string name="overlay_permission_request">Sta Smart Sleep toe om boven andere apps te verschijnen, zodat je alarmen altijd op tijd afgaan.</string>
+    <string name="upcoming_alarm">Aankomende wekker</string>
+    <string name="paused_until">Wekker pauzeren %s</string>
+    <string name="scheduled_for">Gepland voor %s</string>
+    <string name="pause">Pauzeren</string>
+    <string name="schedule">Inplannen</string>
+    <string name="start_date">Startdatum</string>
+    <string name="end_date">Einddatum</string>
+    <string name="today">Vandaag</string>
+    <string name="yesterday">Gisteren</string>
+    <string name="tomorrow">Morgen</string>
 </resources>

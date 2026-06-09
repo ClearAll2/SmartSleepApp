@@ -2,6 +2,15 @@
 
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
 
+## 0.7.1 (B277)
+
+* ⏰ Alarm upgrade: Now you can pause or schedule alarms. New upcoming alarm notification. Now you can dismiss upcoming alarms (default and gentle wake).
+* 🎙️ Recorder upgrade: New microphone option (beta-plus). Performance and UI improvement.
+* ⬇️ Sleep music downloader improvement: now it shows files' size.
+* 🎨 UI improvement, more components updated to Material 3 Expressive design.
+
+
+
 ## 0.7.0 (B269)
 
 * 🎨 New look, new feel: Material 3 Expressive design.

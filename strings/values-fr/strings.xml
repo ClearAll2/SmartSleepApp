@@ -434,4 +434,14 @@ Gérez le stress</string>
     <string name="font">Police</string>
     <string name="app_color">Couleur de l\'app</string>
     <string name="overlay_permission_request">Autorisez Smart Sleep à apparaître au-dessus des autres applications afin que vos alarmes se déclenchent toujours à l\'heure.</string>
+    <string name="upcoming_alarm">Alarme à venir</string>
+    <string name="paused_until">Pause alarme %s</string>
+    <string name="scheduled_for">Prévue pour le %s</string>
+    <string name="pause">Pause</string>
+    <string name="schedule">Programmer</string>
+    <string name="start_date">Date de début</string>
+    <string name="end_date">Date de fin</string>
+    <string name="today">Aujourd\'hui</string>
+    <string name="yesterday">Hier</string>
+    <string name="tomorrow">Demain</string>
 </resources>

@@ -426,4 +426,14 @@
     <string name="font">Font</string>
     <string name="app_color">App color</string>
     <string name="overlay_permission_request">Allow Smart Sleep to appear on top of other apps so your alarms always go off on time.</string>
+    <string name="upcoming_alarm">Upcoming Alarm</string>
+    <string name="paused_until">Pause alarm %s</string>
+    <string name="scheduled_for">Scheduled for %s</string>
+    <string name="pause">Pause</string>
+    <string name="schedule">Schedule</string>
+    <string name="start_date">Start date</string>
+    <string name="end_date">End date</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="tomorrow">Tomorrow</string>
 </resources>

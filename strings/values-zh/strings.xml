@@ -434,4 +434,14 @@
     <string name="font">字体</string>
     <string name="app_color">应用颜色</string>
     <string name="overlay_permission_request">允许 Smart Sleep 出现在其他应用上方，以便您的闹钟始终准时响起。</string>
+    <string name="upcoming_alarm">即将到来的闹钟</string>
+    <string name="paused_until">暂停闹钟 %s</string>
+    <string name="scheduled_for">已安排在 %s</string>
+    <string name="pause">暂停</string>
+    <string name="schedule">安排</string>
+    <string name="start_date">开始日期</string>
+    <string name="end_date">结束日期</string>
+    <string name="today">今天</string>
+    <string name="yesterday">昨天</string>
+    <string name="tomorrow">明天</string>
 </resources>

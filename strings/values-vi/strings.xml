@@ -427,4 +427,14 @@
     <string name="font">Phông chữ</string>
     <string name="app_color">Màu ứng dụng</string>
     <string name="overlay_permission_request">Cho phép Smart Sleep hiển thị trên các ứng dụng khác để báo thức của bạn luôn đổ chuông đúng giờ.</string>
+    <string name="upcoming_alarm">Báo thức sắp tới</string>
+    <string name="paused_until">Tạm dừng báo thức %s</string>
+    <string name="scheduled_for">Được lên lịch vào %s</string>
+    <string name="pause">Tạm dừng</string>
+    <string name="schedule">Lên lịch</string>
+    <string name="start_date">Ngày bắt đầu</string>
+    <string name="end_date">Ngày kết thúc</string>
+    <string name="today">Hôm nay</string>
+    <string name="yesterday">Hôm qua</string>
+    <string name="tomorrow">Ngày mai</string>
 </resources>

@@ -427,4 +427,14 @@
     <string name="font">フォント</string>
     <string name="app_color">アプリの色</string>
     <string name="overlay_permission_request">Smart Sleep が他のアプリの上に表示されることを許可すると、アラームが常に時間通りに鳴ります。</string>
+    <string name="upcoming_alarm">予定されているアラーム</string>
+    <string name="paused_until">アラーム停止中 %s</string>
+    <string name="scheduled_for">%s に予定</string>
+    <string name="pause">一時停止</string>
+    <string name="schedule">スケジュール</string>
+    <string name="start_date">開始日</string>
+    <string name="end_date">終了日</string>
+    <string name="today">今日</string>
+    <string name="yesterday">昨日</string>
+    <string name="tomorrow">明日</string>
 </resources>

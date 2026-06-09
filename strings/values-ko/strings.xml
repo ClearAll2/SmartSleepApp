@@ -427,4 +427,14 @@
     <string name="font">글꼴</string>
     <string name="app_color">앱 색상</string>
     <string name="overlay_permission_request">Smart Sleep이 다른 앱 위에 표시되도록 허용하면 알람이 항상 제시간에 울립니다.</string>
+    <string name="upcoming_alarm">예정된 알람</string>
+    <string name="paused_until">알람 일시 중지 %s</string>
+    <string name="scheduled_for">%s에 예정됨</string>
+    <string name="pause">일시 중지</string>
+    <string name="schedule">일정 예약</string>
+    <string name="start_date">시작일</string>
+    <string name="end_date">종료일</string>
+    <string name="today">오늘</string>
+    <string name="yesterday">어제</string>
+    <string name="tomorrow">내일</string>
 </resources>
