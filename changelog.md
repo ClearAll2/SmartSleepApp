@@ -2,6 +2,13 @@
 
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
 
+
+## 0.7.2 (B278)
+
+* Added 2 new alarm options for Plus users.
+* Minor UI improvements.
+
+
 ## 0.7.1 (B277)
 
 * ⏰ Alarm upgrade: Now you can pause or schedule alarms. New upcoming alarm notification. Now you can dismiss upcoming alarms (default and gentle wake).
@@ -445,6 +452,21 @@ Thank you for choosing Smart Sleep! We're constantly making changes and improvem
 * Add 2 new sleep sounds.
 * Improve user experience.
 * Fixed: "remember last played" setting.
+
+## 0.2.7
+
+* Fixed: same alarm time bug.
+* Minor UI changes.
+
+## 0.2.6
+
+* Volume of alarm is now controlled by system's alarm volume instead of media/notification volume.
+
+## 0.2.5
+
+* Now you can edit scheduled alarms.
+* Add alarm troubleshooting tips.
+* Improve UI for large screen devices.
 
 ## ?.?.?
 
