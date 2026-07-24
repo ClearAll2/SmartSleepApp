@@ -3,10 +3,25 @@
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
 
 
+
+## 0.7.3
+
+* Introduced a sleek scrolling style for the time picker (beta).
+* Added a "Dismiss" button for the upcoming alarms.
+* Added a new toggle switch for the theme picker.
+* Sound Recorder and Gentle Wake have transitioned out of the beta stage.
+* Fixed a bug where snoozed alarms showed "0 minutes".
+* Fixed a bug where the Sound and Nap screens were unable to scroll properly.
+* Various UI enhancements and refinements throughout the app.
+* Simplified the format of app version (again 🗿).
+
+
+
 ## 0.7.2 (B278)
 
 * Added 2 new alarm options for Plus users.
 * Minor UI improvements.
+
 
 
 ## 0.7.1 (B277)

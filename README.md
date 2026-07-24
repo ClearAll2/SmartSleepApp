@@ -60,6 +60,8 @@ Why should you get Smart Sleep+ (one-time payment):
 - Option to set default value for new alarms (vibrate & gradually increase volume)
 - Option to hide alarm tab
 - Option to change background color of alarms
+- Option to hide alarm sort bar.
+- Option to hide alarm suggestions bar.
 - Alarm volume slider directly in setting
 - Option to show live preview of theme
 - 5 extra app themes
