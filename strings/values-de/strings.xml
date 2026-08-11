@@ -215,7 +215,7 @@
     <string name="be_the_fist_details">Beta-Funktionen einschließen</string>
     <string name="one_time_payment">Einmalige Zahlung</string>
     <string name="one_time_payment_details">Einmal bezahlen und für immer behalten</string>
-    <string name="turn_on_DND_details">Nur Prioritätsbenachrichtigungen können dich erreichen</string>
+    <string name="turn_on_DND_details">Nur Prioritätsbenachrichtigungen</string>
     <string name="bug_report">Fehlerbericht</string>
     <string name="nap_timer">Nickerchen-Timer</string>
     <string name="rate_us">Bewertung Smart Sleep</string>
@@ -293,7 +293,7 @@
     <string name="notification">Benachrichtigung</string>
     <string name="notification_details">Benachrichtigungen von Smart Sleep steuern</string>
     <string name="legal_info">Rechtliche Informationen</string>
-    <string name="turn_on_DND_details_2">Sie können keine Benachrichtigungen empfangen</string>
+    <string name="turn_on_DND_details_2">Keine Benachrichtigungen</string>
     <string name="choose_dnd_type">Wähle den Nicht stören-Typ aus</string>
     <string name="edit_alarm">Alarm bearbeiten</string>
     <string name="save">Speichern</string>
@@ -348,7 +348,7 @@
     <string name="undo">Rückgängig machen</string>
     <string name="alarm_restored">Alarm wiederhergestellt</string>
     <string name="require_long_press">Erfordert langes Drücken</string>
-    <string name="require_long_press_details">Zum Stoppen und Schlummern des Alarms gedrückt halten</string>
+    <string name="require_long_press_details">Lange drücken, um den Alarm zu stoppen oder zu schlummern</string>
     <string name="sleep">Schlafen</string>
     <string name="notification_permission_request_details">Ermöglicht Smart Sleep, Benachrichtigungen zu Updates, Tonsteuerungen und Weckern zu senden</string>
     <string name="locked_boot_alarm_advice_title">Aktion erforderlich: Telefon entsperren</string>
@@ -437,4 +437,12 @@
     <string name="today">Heute</string>
     <string name="yesterday">Gestern</string>
     <string name="tomorrow">Morgen</string>
+    <string name="show_alarm_sort_bar">Sortierleiste anzeigen</string>
+    <string name="show_alarm_suggestions">Vorschläge anzeigen</string>
+    <string name="volume_button_action">Lautstärketasten während des Alarms</string>
+    <string name="nothing">Nichts</string>
+    <string name="snooze">Schlummern</string>
+    <string name="live_updates">Live-Updates</string>
+    <string name="short_minute">Min</string>
+    <string name="stop_at">Stoppt um %s</string>
 </resources>

@@ -214,7 +214,6 @@
     <string name="be_the_fist_details">Include beta features</string>
     <string name="one_time_payment">One-time payment</string>
     <string name="one_time_payment_details">Pay once and keep forever</string>
-    <string name="turn_on_DND_details">Only priority notifications can reach you</string>
     <string name="bug_report">Bug report</string>
     <string name="nap_timer">Nap timer</string>
     <string name="rate_us">Rate Smart Sleep</string>
@@ -292,7 +291,6 @@
     <string name="notification">Notification</string>
     <string name="notification_details">Control notifications of Smart Sleep</string>
     <string name="legal_info">Legal Info</string>
-    <string name="turn_on_DND_details_2">No notifications can reach you</string>
     <string name="choose_dnd_type">Choose Do Not Disturb type</string>
     <string name="edit_alarm">Edit Alarm</string>
     <string name="save">Save</string>
@@ -347,7 +345,6 @@
     <string name="undo">Undo</string>
     <string name="alarm_restored">Alarm restored</string>
     <string name="require_long_press">Require long press</string>
-    <string name="require_long_press_details"><![CDATA[Press and hold to stop & snooze the alarm]]></string>
     <string name="sleep">Sleep</string>
     <string name="notification_permission_request_details">Allows Smart Sleep to send notifications regarding updates, sound controls, and alarms.</string>
     <string name="locked_boot_alarm_advice_title">Action Needed: Unlock Phone</string>
@@ -436,4 +433,15 @@
     <string name="today">Today</string>
     <string name="yesterday">Yesterday</string>
     <string name="tomorrow">Tomorrow</string>
+    <string name="show_alarm_sort_bar">Show sort bar</string>
+    <string name="show_alarm_suggestions">Show suggestions</string>
+    <string name="volume_button_action">Volume buttons during alarm</string>
+    <string name="nothing">Nothing</string>
+    <string name="snooze">Snooze</string>
+    <string name="live_updates">Live updates</string>
+    <string name="turn_on_DND_details">Priority notifications only</string>
+    <string name="turn_on_DND_details_2">No notifications</string>
+    <string name="require_long_press_details">Long press to stop or snooze the alarm</string>
+    <string name="short_minute">min</string>
+    <string name="stop_at">Stop at %s</string>
 </resources>

@@ -222,7 +222,7 @@
     <string name="be_the_fist_details">包含测试版功能</string>
     <string name="one_time_payment">一次性付款</string>
     <string name="one_time_payment_details">一次付款，永久保留</string>
-    <string name="turn_on_DND_details">只有优先通知才能联系到您</string>
+    <string name="turn_on_DND_details">仅优先通知</string>
     <string name="bug_report">错误报告</string>
     <string name="nap_timer">午睡计时器</string>
     <string name="rate_us">评价 Smart Sleep</string>
@@ -300,7 +300,7 @@
     <string name="notification">通知</string>
     <string name="notification_details">控制Smart Sleep的通知</string>
     <string name="legal_info">法律信息</string>
-    <string name="turn_on_DND_details_2">无法收到任何通知</string>
+    <string name="turn_on_DND_details_2">无通知</string>
     <string name="choose_dnd_type">选择免打扰类型</string>
     <string name="edit_alarm">编辑闹钟</string>
     <string name="save">保存</string>
@@ -355,7 +355,7 @@
     <string name="undo">撤销</string>
     <string name="alarm_restored">闹钟已恢复</string>
     <string name="require_long_press">需要长按</string>
-    <string name="require_long_press_details">长按以停止和打盹闹钟</string>
+    <string name="require_long_press_details">长按以停止或贪睡闹钟</string>
     <string name="sleep">睡觉</string>
     <string name="notification_permission_request_details">允许 Smart Sleep 发送关于更新、声音控制和闹钟的通知。</string>
     <string name="locked_boot_alarm_advice_title">需要操作：解锁手机</string>
@@ -444,4 +444,12 @@
     <string name="today">今天</string>
     <string name="yesterday">昨天</string>
     <string name="tomorrow">明天</string>
+    <string name="show_alarm_sort_bar">显示排序栏</string>
+    <string name="show_alarm_suggestions">显示建议</string>
+    <string name="volume_button_action">闹钟期间的音量键</string>
+    <string name="nothing">无操作</string>
+    <string name="snooze">贪睡</string>
+    <string name="live_updates">实时更新</string>
+    <string name="short_minute">分</string>
+    <string name="stop_at">在 %s 停止</string>
 </resources>

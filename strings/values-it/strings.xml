@@ -222,7 +222,7 @@ Gestisci lo stress</string>
     <string name="be_the_fist_details">Includi funzioni beta</string>
     <string name="one_time_payment">Pagamento unico</string>
     <string name="one_time_payment_details">Paga una volta e tienilo per sempre</string>
-    <string name="turn_on_DND_details">Solo le notifiche di priorità possono raggiungerti</string>
+    <string name="turn_on_DND_details">Solo notifiche prioritari</string>
     <string name="bug_report">Segnalazione di bug</string>
     <string name="nap_timer">Timer per il riposo</string>
     <string name="rate_us">Valuta Smart Sleep</string>
@@ -300,7 +300,7 @@ Gestisci lo stress</string>
     <string name="notification">Notifica</string>
     <string name="notification_details">Controlla le notifiche di Smart Sleep</string>
     <string name="legal_info">Informazioni legali</string>
-    <string name="turn_on_DND_details_2">Nessuna notifica può raggiungerti</string>
+    <string name="turn_on_DND_details_2">Nessuna notifica</string>
     <string name="choose_dnd_type">Scegli il tipo di Non disturbare</string>
     <string name="edit_alarm">Modifica allarme</string>
     <string name="save">Salva</string>
@@ -355,7 +355,7 @@ Gestisci lo stress</string>
     <string name="undo">Annulla</string>
     <string name="alarm_restored">Allarme ripristinato</string>
     <string name="require_long_press">Richiede pressione prolungata</string>
-    <string name="require_long_press_details">Premi e tieni premuto per fermare e posticipare l\'allarme</string>
+    <string name="require_long_press_details">Premi a lungo per interrompere o posticipare la sveglia</string>
     <string name="sleep">Dormire</string>
     <string name="notification_permission_request_details">Consente a Smart Sleep di inviare notifiche su aggiornamenti, controlli audio e sveglie</string>
     <string name="locked_boot_alarm_advice_title">Azione necessaria: Sblocca il telefono</string>
@@ -444,4 +444,12 @@ Gestisci lo stress</string>
     <string name="today">Oggi</string>
     <string name="yesterday">Ieri</string>
     <string name="tomorrow">Domani</string>
+    <string name="show_alarm_sort_bar">Mostra barra di ordinamento</string>
+    <string name="show_alarm_suggestions">Mostra suggerimenti</string>
+    <string name="volume_button_action">Tasti volume durante la sveglia</string>
+    <string name="nothing">Niente</string>
+    <string name="snooze">Posticipa</string>
+    <string name="live_updates">Aggiornamenti in tempo reale</string>
+    <string name="short_minute">min</string>
+    <string name="stop_at">Si ferma alle %s</string>
 </resources>

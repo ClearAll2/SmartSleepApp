@@ -222,7 +222,7 @@ Gérez le stress</string>
     <string name="be_the_fist_details">Inclure les fonctionnalités bêta</string>
     <string name="one_time_payment">Paiement unique</string>
     <string name="one_time_payment_details">Payer une fois et conserver à vie</string>
-    <string name="turn_on_DND_details">Seules les notifications prioritaires peuvent vous atteindre</string>
+    <string name="turn_on_DND_details">Notifications prioritaires uniquement</string>
     <string name="bug_report">Rapport de bug</string>
     <string name="nap_timer">Minuteur de sieste</string>
     <string name="rate_us">Évaluer Smart Sleep</string>
@@ -300,7 +300,7 @@ Gérez le stress</string>
     <string name="notification">Notification</string>
     <string name="notification_details">Contrôler les notifications de Smart Sleep</string>
     <string name="legal_info">Informations légales</string>
-    <string name="turn_on_DND_details_2">Aucune notification ne peut vous atteindre</string>
+    <string name="turn_on_DND_details_2">Aucune notification</string>
     <string name="choose_dnd_type">Choisissez le type de Ne pas déranger</string>
     <string name="edit_alarm">Modifier l\'alarme</string>
     <string name="save">Enregistrer</string>
@@ -355,7 +355,7 @@ Gérez le stress</string>
     <string name="undo">Annuler</string>
     <string name="alarm_restored">Alarme restaurée</string>
     <string name="require_long_press">Nécessite une pression longue</string>
-    <string name="require_long_press_details">Appuyez et maintenez pour arrêter et répéter l\'alarme</string>
+    <string name="require_long_press_details">Appuyez longuement pour arrêter ou reporter l\'alarme</string>
     <string name="sleep">Dormir</string>
     <string name="notification_permission_request_details">Permet à Smart Sleep d\'envoyer des notifications concernant les mises à jour, les contrôles sonores et les alarmes</string>
     <string name="locked_boot_alarm_advice_title">Action requise : Déverrouillez le téléphone</string>
@@ -444,4 +444,12 @@ Gérez le stress</string>
     <string name="today">Aujourd\'hui</string>
     <string name="yesterday">Hier</string>
     <string name="tomorrow">Demain</string>
+    <string name="show_alarm_sort_bar">Afficher la barre de tri</string>
+    <string name="show_alarm_suggestions">Afficher les suggestions</string>
+    <string name="volume_button_action">Boutons de volume pendant l\'alarme</string>
+    <string name="nothing">Rien</string>
+    <string name="snooze">Reporter</string>
+    <string name="live_updates">Mises à jour en direct</string>
+    <string name="short_minute">min</string>
+    <string name="stop_at">S\'arrête à %s</string>
 </resources>

@@ -215,7 +215,7 @@
     <string name="be_the_fist_details">Inclusief bèta functies</string>
     <string name="one_time_payment">Eenmalige betaling</string>
     <string name="one_time_payment_details">Betaal eenmalig en houd het voor altijd</string>
-    <string name="turn_on_DND_details">Alleen prioriteitsmeldingen kunnen je bereiken</string>
+    <string name="turn_on_DND_details">Alleen prioriteitsmeldingen</string>
     <string name="bug_report">Foutenrapport</string>
     <string name="nap_timer">Dutje timer</string>
     <string name="rate_us">Beoordeel Slimme Slaap</string>
@@ -293,7 +293,7 @@
     <string name="notification">Notificatie</string>
     <string name="notification_details">Notificaties van Smart Sleep beheren</string>
     <string name="legal_info">Juridische informatie</string>
-    <string name="turn_on_DND_details_2">Geen meldingen kunnen u bereiken</string>
+    <string name="turn_on_DND_details_2">Geen meldingen</string>
     <string name="choose_dnd_type">Kies het type Niet storen</string>
     <string name="edit_alarm">Alarm bewerken</string>
     <string name="save">Opslaan</string>
@@ -348,7 +348,7 @@
     <string name="undo">Ongedaan maken</string>
     <string name="alarm_restored">Alarm hersteld</string>
     <string name="require_long_press">Lang indrukken vereist</string>
-    <string name="require_long_press_details">Houd ingedrukt om het alarm te stoppen en te snoozen</string>
+    <string name="require_long_press_details">Lang indrukken om het alarm te stoppen of te sluimeren</string>
     <string name="sleep">Slapen</string>
     <string name="notification_permission_request_details">Stelt Smart Sleep in staat om meldingen te verzenden over updates, geluidsbediening en wekkers.</string>
     <string name="locked_boot_alarm_advice_title">Actie vereist: Ontgrendel de telefoon</string>
@@ -437,4 +437,12 @@
     <string name="today">Vandaag</string>
     <string name="yesterday">Gisteren</string>
     <string name="tomorrow">Morgen</string>
+    <string name="show_alarm_sort_bar">Sorteerbalk weergeven</string>
+    <string name="show_alarm_suggestions">Suggesties weergeven</string>
+    <string name="volume_button_action">Volumeknoppen tijdens alarm</string>
+    <string name="nothing">Niets</string>
+    <string name="snooze">Sluimeren</string>
+    <string name="live_updates">Live-updates</string>
+    <string name="short_minute">min</string>
+    <string name="stop_at">Stopt om %s</string>
 </resources>

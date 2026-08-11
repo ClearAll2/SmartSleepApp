@@ -24,50 +24,50 @@ Smart Sleep can calculate sleep cycle so you can estimate the time you need to g
 Watch [demo](https://youtu.be/s382DU-VxZ0)
 
 ## Features
-- Calculate sleep cycles and optimal sleep times
-- Determine ideal wake-up and bedtimes
-- Customize sleep cycle length and fall asleep duration
-- Play soothing relaxation and nature sounds (4 new collections)
-- Nap timer: Boost alertness
-- Fully customizable in-app alarm
-- Gentle Wake (beta)
-- Multiple themes and colors (more themes with Smart Sleep+)
-- Material You (Android 12+)
-- Themed icon (Android 13+)
-- Large screen device compatibility
-- Support multiple languages
-- Effortless and intuitive to use
-- No internet connection required
+- Calculate sleep cycles and optimal sleep times.
+- Determine ideal wake-up and bedtimes.
+- Customize sleep cycle length and fall asleep duration.
+- Play soothing relaxation and nature sounds.
+- Nap timer: Boost alertness.
+- Fully customizable in-app alarm.
+- Gentle Wake.
+- Multiple themes and colors (extra themes with Smart Sleep+).
+- Material You (Android 12+).
+- Themed icon (Android 13+).
+- Live updates for Nap (Android 16 QPR3+).
+- Large screen device compatibility.
+- Support multiple languages.
+- Effortless and intuitive to use.
+- No internet connection required.
 
 For more features, you can upgrade to Smart Sleep+.
 
 ## Smart Sleep+
 
 Why should you get Smart Sleep+ (one-time payment):
-- Pay once and keep forever
-- Do Not Disturb for Nap: Take a nap without disturbance
-- Dream Screen: Deep darkness player view
-- Option to calculate bedtime/wake-up time directly from calculation result
-- Option to show quick actions on top of calculation result
-- Extra sleep and relaxation songs 
-- Best sound quality (320 kbps) for recorder
-- Option to play your own sounds
-- Option to remember last played music and stop timer
-- Option to extend stop timer
-- Option to keep playing screen on
-- Volume booster option
-- 3 extra Gentle Wake sounds
-- Option to set default value for new alarms (vibrate & gradually increase volume)
-- Option to hide alarm tab
-- Option to change background color of alarms
+- Do Not Disturb for Nap: Take a nap without disturbance.
+- Dream Screen: Deep darkness player view.
+- Option to calculate bedtime/wake-up time directly from calculation result.
+- Option to show quick actions on top of calculation result.
+- Extra sleep and relaxation songs.
+- Best sound quality (320 kbps) for recorder.
+- Option to play your own sounds.
+- Option to remember last played music and stop timer.
+- Option to extend stop timer.
+- Option to keep playing screen on.
+- Volume booster option.
+- 3 extra Gentle Wake sounds.
+- Option to set default value for new alarms (vibrate & gradually increase volume).
+- Option to hide alarm tab.
+- Option to change background color of alarms.
 - Option to hide alarm sort bar.
 - Option to hide alarm suggestions bar.
-- Alarm volume slider directly in setting
-- Option to show live preview of theme
-- 5 extra app themes
-- Option to hide tabs' name
-- Support future development
-- Be the first one to get latest features
+- Alarm volume slider directly in setting.
+- Option to show live preview of theme.
+- 5 extra app themes.
+- Option to hide tabs' name.
+- Support future development.
+- Be the first one to get latest features.
 
 ## Changelog
 Read app [changelog](changelog.md)

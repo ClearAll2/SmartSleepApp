@@ -215,7 +215,7 @@
     <string name="be_the_fist_details">Включить бета-функции</string>
     <string name="one_time_payment">Единовременный платеж</string>
     <string name="one_time_payment_details">Оплатите один раз и владейте навсегда</string>
-    <string name="turn_on_DND_details">Только уведомления с приоритетом могут достичь вас</string>
+    <string name="turn_on_DND_details">Только приоритетные уведомления</string>
     <string name="bug_report">Отчет об ошибке</string>
     <string name="nap_timer">Таймер сна</string>
     <string name="rate_us">Оценить Smart Sleep</string>
@@ -293,7 +293,7 @@
     <string name="notification">Уведомление</string>
     <string name="notification_details">Управление уведомлениями Smart Sleep</string>
     <string name="legal_info">Юридическая информация</string>
-    <string name="turn_on_DND_details_2">Вам не будут доставлены уведомления</string>
+    <string name="turn_on_DND_details_2">Без уведомлений</string>
     <string name="choose_dnd_type">Выберите тип режима "Не беспокоить"</string>
     <string name="edit_alarm">Изменить будильник</string>
     <string name="save">Сохранить</string>
@@ -348,7 +348,7 @@
     <string name="undo">Отменить</string>
     <string name="alarm_restored">Будильник восстановлен</string>
     <string name="require_long_press">Требуется долгое нажатие</string>
-    <string name="require_long_press_details">Нажмите и удерживайте, чтобы остановить и отложить будильник</string>
+    <string name="require_long_press_details">Долгое нажатие, чтобы остановить или отложить будильник</string>
     <string name="sleep">Спать</string>
     <string name="notification_permission_request_details">Позволяет Smart Sleep отправлять уведомления об обновлениях, управлении звуком и будильниках</string>
     <string name="locked_boot_alarm_advice_title">Требуется действие: Разблокируйте телефон</string>
@@ -437,4 +437,12 @@
     <string name="today">Сегодня</string>
     <string name="yesterday">Вчера</string>
     <string name="tomorrow">Завтра</string>
+    <string name="show_alarm_sort_bar">Показывать панель сортировки</string>
+    <string name="show_alarm_suggestions">Показывать предложения</string>
+    <string name="volume_button_action">Кнопки громкости во время будильника</string>
+    <string name="nothing">Ничего</string>
+    <string name="snooze">Отложить</string>
+    <string name="live_updates">Обновления в реальном времени</string>
+    <string name="short_minute">мин</string>
+    <string name="stop_at">Остановка в %s</string>
 </resources>

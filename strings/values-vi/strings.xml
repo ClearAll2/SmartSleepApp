@@ -215,7 +215,7 @@
     <string name="be_the_fist_details">Bao gồm các tính năng thử nghiệm</string>
     <string name="one_time_payment">Chỉ trả một lần</string>
     <string name="one_time_payment_details">Trả một lần và giữ mãi mãi</string>
-    <string name="turn_on_DND_details">Chỉ có những thông báo quan trọng mới có thể gửi đến bạn</string>
+    <string name="turn_on_DND_details">Chỉ thông báo ưu tiên</string>
     <string name="bug_report">Báo lỗi</string>
     <string name="nap_timer">Hẹn giờ chợp mắt</string>
     <string name="rate_us">Đánh giá Smart Sleep</string>
@@ -293,7 +293,7 @@
     <string name="notification">Thông báo</string>
     <string name="notification_details">Kiểm soát các thông báo của Smart Sleep</string>
     <string name="legal_info">Thông tin pháp lý</string>
-    <string name="turn_on_DND_details_2">Không có thông báo nào sẽ được gửi đến bạn</string>
+    <string name="turn_on_DND_details_2">Không có thông báo</string>
     <string name="choose_dnd_type">Chọn loại Không Làm Phiền</string>
     <string name="edit_alarm">Thay đổi báo thức</string>
     <string name="save">Lưu</string>
@@ -348,7 +348,7 @@
     <string name="undo">Hoàn tác</string>
     <string name="alarm_restored">Báo thức đã được khôi phục</string>
     <string name="require_long_press">Yêu cầu nhấn giữ lâu</string>
-    <string name="require_long_press_details">Nhấn và giữ để dừng và báo lại báo thức</string>
+    <string name="require_long_press_details">Nhấn giữ để dừng hoặc báo lại báo thức</string>
     <string name="sleep">Ngủ</string>
     <string name="notification_permission_request_details">Cho phép Smart Sleep gửi thông báo về cập nhật, điều khiển âm thanh và báo thức</string>
     <string name="locked_boot_alarm_advice_title">Hành động cần thiết: Mở khóa điện thoại</string>
@@ -437,4 +437,12 @@
     <string name="today">Hôm nay</string>
     <string name="yesterday">Hôm qua</string>
     <string name="tomorrow">Ngày mai</string>
+    <string name="show_alarm_sort_bar">Hiển thị thanh sắp xếp</string>
+    <string name="show_alarm_suggestions">Hiển thị gợi ý</string>
+    <string name="volume_button_action">Nút âm lượng khi báo thức</string>
+    <string name="nothing">Không làm gì</string>
+    <string name="snooze">Báo lại</string>
+    <string name="live_updates">Cập nhật trực tiếp</string>
+    <string name="short_minute">phút</string>
+    <string name="stop_at">Dừng lúc %s</string>
 </resources>

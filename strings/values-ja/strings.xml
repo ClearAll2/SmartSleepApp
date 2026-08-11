@@ -215,7 +215,7 @@
     <string name="be_the_fist_details">ベータ機能を含める</string>
     <string name="one_time_payment">ワンタイム支払い</string>
     <string name="one_time_payment_details">一度支払い、永遠に保持</string>
-    <string name="turn_on_DND_details">優先通知のみがあなたに届きます</string>
+    <string name="turn_on_DND_details">優先通知のみ</string>
     <string name="bug_report">バグレポート</string>
     <string name="nap_timer">昼寝タイマー</string>
     <string name="rate_us">評価 Smart Sleep</string>
@@ -293,7 +293,7 @@
     <string name="notification">通知</string>
     <string name="notification_details">「Smart Sleepの通知を制御する」</string>
     <string name="legal_info">法的情報</string>
-    <string name="turn_on_DND_details_2">通知が届くことはありません</string>
+    <string name="turn_on_DND_details_2">通知なし</string>
     <string name="choose_dnd_type">Do Not Disturbのタイプを選択してください</string>
     <string name="edit_alarm">アラームを編集</string>
     <string name="save">保存</string>
@@ -348,7 +348,7 @@
     <string name="undo">元に戻す</string>
     <string name="alarm_restored">アラームが復元されました</string>
     <string name="require_long_press">長押しが必要です</string>
-    <string name="require_long_press_details">アラームを停止してスヌーズするには押し続けてください</string>
+    <string name="require_long_press_details">長押ししてアラームを停止またはスヌーズ</string>
     <string name="sleep">眠る</string>
     <string name="notification_permission_request_details">Smart Sleep がアップデート、サウンドコントロール、アラームに関する通知を送信できるようにします。</string>
     <string name="locked_boot_alarm_advice_title">アクションが必要：電話のロックを解除</string>
@@ -437,4 +437,12 @@
     <string name="today">今日</string>
     <string name="yesterday">昨日</string>
     <string name="tomorrow">明日</string>
+    <string name="show_alarm_sort_bar">並び替えバーを表示</string>
+    <string name="show_alarm_suggestions">提案を表示</string>
+    <string name="volume_button_action">アラーム中の音量ボタン</string>
+    <string name="nothing">何もしない</string>
+    <string name="snooze">スヌーズ</string>
+    <string name="live_updates">ライブ更新</string>
+    <string name="short_minute">分</string>
+    <string name="stop_at">%s に停止</string>
 </resources>

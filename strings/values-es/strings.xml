@@ -215,7 +215,7 @@
     <string name="be_the_fist_details">Incluir funciones beta</string>
     <string name="one_time_payment">Pago único</string>
     <string name="one_time_payment_details">Paga una vez y guarda para siempre</string>
-    <string name="turn_on_DND_details">Solo las notificaciones prioritarias pueden alcanzarte</string>
+    <string name="turn_on_DND_details">Solo notificaciones prioritarias</string>
     <string name="bug_report">Informe de errores</string>
     <string name="nap_timer">Temporizador de la siesta</string>
     <string name="rate_us">Califica Smart Sleep</string>
@@ -293,7 +293,7 @@
     <string name="notification">Notificación</string>
     <string name="notification_details">Controlar las notificaciones de Smart Sleep</string>
     <string name="legal_info">Información Legal</string>
-    <string name="turn_on_DND_details_2">No se pueden recibir notificaciones</string>
+    <string name="turn_on_DND_details_2">Sin notificaciones</string>
     <string name="choose_dnd_type">Selecciona el tipo de No molestar</string>
     <string name="edit_alarm">Editar alarma</string>
     <string name="save">Guardar</string>
@@ -348,7 +348,7 @@
     <string name="undo">Deshacer</string>
     <string name="alarm_restored">Alarma restaurada</string>
     <string name="require_long_press">Requiere presión prolongada</string>
-    <string name="require_long_press_details">Presione y mantenga presionado para detener y posponer la alarma</string>
+    <string name="require_long_press_details">Mantén presionado para detener o posponer la alarma</string>
     <string name="sleep">Dormir</string>
     <string name="notification_permission_request_details">Permite que Smart Sleep envíe notificaciones sobre actualizaciones, controles de sonido y alarmas</string>
     <string name="locked_boot_alarm_advice_title">Acción requerida: Desbloquea el teléfono</string>
@@ -437,4 +437,12 @@
     <string name="today">Hoy</string>
     <string name="yesterday">Ayer</string>
     <string name="tomorrow">Mañana</string>
+    <string name="show_alarm_sort_bar">Mostrar barra de ordenación</string>
+    <string name="show_alarm_suggestions">Mostrar sugerencias</string>
+    <string name="volume_button_action">Botones de volumen durante la alarma</string>
+    <string name="nothing">Nada</string>
+    <string name="snooze">Posponer</string>
+    <string name="live_updates">Actualizaciones en vivo</string>
+    <string name="short_minute">min</string>
+    <string name="stop_at">Se detiene a las %s</string>
 </resources>

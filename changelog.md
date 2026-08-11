@@ -2,7 +2,12 @@
 
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
 
+## 0.7.4
 
+* A brand-new Nap timer with a maximum time of 120 minutes 🥳.
+* New "Live updates" style for Nap notification (Android 16 QPR3+, availability varies by manufacturer).
+* New "Volume buttons during alarm" option.
+* Minor UI improvements.
 
 ## 0.7.3
 
@@ -451,37 +456,6 @@ Thank you for choosing Smart Sleep! We're constantly making changes and improvem
 
 * Add Nap (beta for plus users only).
 * Improve user experience.
-
-## 0.2.9
-
-* Support Vietnamese.
-* Alarm will no longer be canceled when you reboot device.
-* Improve performance and app size.
-* Fixed: a bug of play/stop button.
-* Fixed: a bug of purchase button.
-
-## 0.2.8
-
-* New "Set Alarm" button.
-* New changelog section.
-* Add 2 new sleep sounds.
-* Improve user experience.
-* Fixed: "remember last played" setting.
-
-## 0.2.7
-
-* Fixed: same alarm time bug.
-* Minor UI changes.
-
-## 0.2.6
-
-* Volume of alarm is now controlled by system's alarm volume instead of media/notification volume.
-
-## 0.2.5
-
-* Now you can edit scheduled alarms.
-* Add alarm troubleshooting tips.
-* Improve UI for large screen devices.
 
 ## ?.?.?
 
