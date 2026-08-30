@@ -2,6 +2,14 @@
 
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
 
+## 0.7.5
+
+* Introduced Nap timer widget (beta) 🥳.
+* Various UI enhancements and refinements throughout the app.
+* Various performance and stability improvements throughout the app.
+
+
+
 ## 0.7.4
 
 * A brand-new Nap timer with a maximum time of 120 minutes 🥳.
