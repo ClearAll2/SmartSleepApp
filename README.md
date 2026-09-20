@@ -18,6 +18,7 @@ Smart Sleep can calculate sleep cycle so you can estimate the time you need to g
   <img src="screenshots/264.png" alt="sp5"  height="350px"/>
   <img src="screenshots/265.png" alt="sp5"  height="350px"/>
   <img src="screenshots/266.png" alt="sp6"  height="350px"/>
+  <img src="screenshots/267.png" alt="sp7"  height="350px"/>
 </p>
 
 ## Demo
