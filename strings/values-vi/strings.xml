@@ -379,7 +379,7 @@
     <string name="rename">Đổi tên</string>
     <string name="rename_recording">Đổi tên bản ghi</string>
     <string name="invalid_name">Tên tệp không hợp lệ</string>
-    <string name="tap_to_add_stoptime">Chạm vào bộ đếm thời gian để thêm thời gian</string>
+    <string name="extra_time_for_stop_timer">Thời gian thêm cho bộ đếm dừng</string>
     <string name="default_value_for_new_alarms">Giá trị mặc định cho báo thức mới</string>
     <string name="tropical_paradise">Thiên đường nhiệt đới</string>
     <string name="gentle_wake">Thức dậy nhẹ nhàng</string>
@@ -445,4 +445,22 @@
     <string name="live_updates">Cập nhật trực tiếp</string>
     <string name="short_minute">phút</string>
     <string name="stop_at">Dừng lúc %s</string>
+    <string name="restart">Khởi động lại</string>
+    <string name="update_ready">Phiên bản mới đã sẵn sàng</string>
+    <string name="no_subscription">Không có đăng ký</string>
+    <string name="what_you_unlock">BẠN MỞ KHÓA ĐƯỢC</string>
+    <string name="and_everything_else">VÀ TẤT CẢ NHỮNG GÌ KHÁC</string>
+    <string name="lifetime_updates">Cập nhật trọn đời</string>
+    <string name="one_time_price">GIÁ MỘT LẦN</string>
+    <string name="best_recorder_quality">Chất lượng ghi âm tốt nhất</string>
+    <string name="best_recorder_quality_details">Thưởng thức chất lượng tốt nhất 320 kbps cho trình ghi âm</string>
+    <string name="extend_timer_details">Dễ dàng điều khiển bộ đếm dừng</string>
+    <string name="extra_gentle_wake_details">Mở khóa và tận hưởng thêm nhiều âm thanh cho báo thức đánh thức nhẹ nhàng</string>
+    <string name="extra_gentle_wake">Âm thanh đánh thức nhẹ nhàng tuyệt vời</string>
+    <string name="cycle">Chu kỳ %s</string>
+    <string name="fall_asleep">Thời gian đi vào giấc ngủ</string>
+    <string name="details">Chi tiết</string>
+    <string name="overview">Tổng quan</string>
+    <string name="artwork">Hình ảnh</string>
+    <string name="opacity">Độ mờ</string>
 </resources>

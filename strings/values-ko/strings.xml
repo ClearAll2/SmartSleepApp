@@ -379,7 +379,7 @@
     <string name="rename">이름 바꾸기</string>
     <string name="rename_recording">녹음 이름 바꾸기</string>
     <string name="invalid_name">잘못된 파일 이름</string>
-    <string name="tap_to_add_stoptime">타이머를 탭하여 시간을 추가</string>
+    <string name="extra_time_for_stop_timer">정지 타이머 추가 시간</string>
     <string name="default_value_for_new_alarms">새 알람의 기본값</string>
     <string name="tropical_paradise">열대 낙원</string>
     <string name="gentle_wake">부드러운 기상</string>
@@ -445,4 +445,22 @@
     <string name="live_updates">실시간 업데이트</string>
     <string name="short_minute">분</string>
     <string name="stop_at">%s에 중지</string>
+    <string name="restart">다시 시작</string>
+    <string name="update_ready">새 버전을 사용할 수 있습니다</string>
+    <string name="no_subscription">구독 없음</string>
+    <string name="what_you_unlock">잠금 해제되는 기능</string>
+    <string name="and_everything_else">그리고 그 외 모든 것</string>
+    <string name="lifetime_updates">평생 업데이트</string>
+    <string name="one_time_price">일회성 가격</string>
+    <string name="best_recorder_quality">최고 녹음 품질</string>
+    <string name="best_recorder_quality_details">오디오 레코더에서 최고 품질 320 kbps를 즐기세요</string>
+    <string name="extend_timer_details">정지 타이머를 쉽게 제어하세요</string>
+    <string name="extra_gentle_wake_details">부드러운 기상 알람용 더 많은 사운드를 잠금 해제하고 즐기세요</string>
+    <string name="extra_gentle_wake">멋진 부드러운 기상 사운드</string>
+    <string name="cycle">주기 %s</string>
+    <string name="fall_asleep">입면 시간</string>
+    <string name="details">상세</string>
+    <string name="overview">개요</string>
+    <string name="artwork">아트워크</string>
+    <string name="opacity">불투명도</string>
 </resources>

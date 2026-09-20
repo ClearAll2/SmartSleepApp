@@ -379,7 +379,7 @@
     <string name="rename">Renombrar</string>
     <string name="rename_recording">Renombrar grabación</string>
     <string name="invalid_name">Nombre de archivo no válido</string>
-    <string name="tap_to_add_stoptime">Toca el temporizador para añadir más tiempo</string>
+    <string name="extra_time_for_stop_timer">Tiempo extra del temporizador de parada</string>
     <string name="default_value_for_new_alarms">Valor predeterminado para nuevas alarmas</string>
     <string name="tropical_paradise">Paraíso Tropical</string>
     <string name="gentle_wake">Despertar suave</string>
@@ -445,4 +445,22 @@
     <string name="live_updates">Actualizaciones en vivo</string>
     <string name="short_minute">min</string>
     <string name="stop_at">Se detiene a las %s</string>
+    <string name="restart">Reiniciar</string>
+    <string name="update_ready">La nueva versión está lista</string>
+    <string name="no_subscription">Sin suscripción</string>
+    <string name="what_you_unlock">LO QUE DESBLOQUEAS</string>
+    <string name="and_everything_else">Y TODO LO DEMÁS</string>
+    <string name="lifetime_updates">Actualizaciones de por vida</string>
+    <string name="one_time_price">PRECIO ÚNICO</string>
+    <string name="best_recorder_quality">Mejor calidad de grabación</string>
+    <string name="best_recorder_quality_details">Disfruta de la mejor calidad a 320 kbps para la grabadora de audio</string>
+    <string name="extend_timer_details">Controla el temporizador de parada con facilidad</string>
+    <string name="extra_gentle_wake_details">Desbloquea y disfruta de más sonidos para la alarma de despertar suave</string>
+    <string name="extra_gentle_wake">Increíbles sonidos de despertar suave</string>
+    <string name="cycle">Ciclo %s</string>
+    <string name="fall_asleep">Tiempo para dormirse</string>
+    <string name="details">Detalles</string>
+    <string name="overview">Resumen</string>
+    <string name="artwork">Portada</string>
+    <string name="opacity">Opacidad</string>
 </resources>

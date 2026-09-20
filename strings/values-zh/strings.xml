@@ -386,7 +386,7 @@
     <string name="rename">重命名</string>
     <string name="rename_recording">重命名录音</string>
     <string name="invalid_name">无效文件名</string>
-    <string name="tap_to_add_stoptime">点击计时器以添加更多时间</string>
+    <string name="extra_time_for_stop_timer">停止计时器额外时间</string>
     <string name="default_value_for_new_alarms">新闹钟的默认值</string>
     <string name="tropical_paradise">热带天堂</string>
     <string name="gentle_wake">温和唤醒</string>
@@ -452,4 +452,22 @@
     <string name="live_updates">实时更新</string>
     <string name="short_minute">分</string>
     <string name="stop_at">在 %s 停止</string>
+    <string name="restart">重新启动</string>
+    <string name="update_ready">新版本已就绪</string>
+    <string name="no_subscription">无订阅</string>
+    <string name="what_you_unlock">您将解锁</string>
+    <string name="and_everything_else">以及所有其他功能</string>
+    <string name="lifetime_updates">终身更新</string>
+    <string name="one_time_price">一次性价格</string>
+    <string name="best_recorder_quality">最佳录音质量</string>
+    <string name="best_recorder_quality_details">享受录音机最佳质量 320 kbps</string>
+    <string name="extend_timer_details">轻松控制停止计时器</string>
+    <string name="extra_gentle_wake_details">解锁并享受更多温柔唤醒闹钟音效</string>
+    <string name="extra_gentle_wake">精彩的温柔唤醒音效</string>
+    <string name="cycle">周期 %s</string>
+    <string name="fall_asleep">入睡时间</string>
+    <string name="details">详情</string>
+    <string name="overview">概览</string>
+    <string name="artwork">封面</string>
+    <string name="opacity">不透明度</string>
 </resources>

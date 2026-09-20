@@ -386,7 +386,7 @@ Gérez le stress</string>
     <string name="rename">Renommer</string>
     <string name="rename_recording">Renommer l\'enregistrement</string>
     <string name="invalid_name">Nom de fichier invalide</string>
-    <string name="tap_to_add_stoptime">Appuyez sur le minuteur pour ajouter plus de temps</string>
+    <string name="extra_time_for_stop_timer">Temps supplémentaire du minuteur d\'arrêt</string>
     <string name="default_value_for_new_alarms">Valeur par défaut pour les nouvelles alarmes</string>
     <string name="tropical_paradise">Paradis Tropical</string>
     <string name="gentle_wake">Réveil doux</string>
@@ -452,4 +452,22 @@ Gérez le stress</string>
     <string name="live_updates">Mises à jour en direct</string>
     <string name="short_minute">min</string>
     <string name="stop_at">S\'arrête à %s</string>
+    <string name="restart">Redémarrer</string>
+    <string name="update_ready">La nouvelle version est prête</string>
+    <string name="no_subscription">Pas d\'abonnement</string>
+    <string name="what_you_unlock">CE QUE VOUS DÉBLOQUEZ</string>
+    <string name="and_everything_else">ET TOUT LE RESTE</string>
+    <string name="lifetime_updates">Mises à jour à vie</string>
+    <string name="one_time_price">PRIX UNIQUE</string>
+    <string name="best_recorder_quality">Meilleure qualité d\'enregistrement</string>
+    <string name="best_recorder_quality_details">Profitez de la meilleure qualité à 320 kbps pour l\'enregistreur audio</string>
+    <string name="extend_timer_details">Contrôlez facilement le minuteur d\'arrêt</string>
+    <string name="extra_gentle_wake_details">Débloquez et profitez de plus de sons pour l\'alarme de réveil en douceur</string>
+    <string name="extra_gentle_wake">Sons de réveil en douceur exceptionnels</string>
+    <string name="cycle">Cycle %s</string>
+    <string name="fall_asleep">Temps d\'endormissement</string>
+    <string name="details">Détails</string>
+    <string name="overview">Aperçu</string>
+    <string name="artwork">Illustration</string>
+    <string name="opacity">Opacité</string>
 </resources>

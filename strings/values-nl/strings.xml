@@ -379,7 +379,7 @@
     <string name="rename">Hernoemen</string>
     <string name="rename_recording">Opname hernoemen</string>
     <string name="invalid_name">Ongeldige bestandsnaam</string>
-    <string name="tap_to_add_stoptime">Tik op de timer om meer tijd toe te voegen</string>
+    <string name="extra_time_for_stop_timer">Extra tijd voor de stoptimer</string>
     <string name="default_value_for_new_alarms">Standaardwaarde voor nieuwe alarmen</string>
     <string name="tropical_paradise">Tropisch Paradijs</string>
     <string name="gentle_wake">Zacht ontwaken</string>
@@ -445,4 +445,22 @@
     <string name="live_updates">Live-updates</string>
     <string name="short_minute">min</string>
     <string name="stop_at">Stopt om %s</string>
+    <string name="restart">Opnieuw opstarten</string>
+    <string name="update_ready">Nieuwe versie is gereed</string>
+    <string name="no_subscription">Geen abonnement</string>
+    <string name="what_you_unlock">WAT JE ONTGRENDELT</string>
+    <string name="and_everything_else">EN ALLES ANDERS</string>
+    <string name="lifetime_updates">Levenslange updates</string>
+    <string name="one_time_price">EENMALIGE PRIJS</string>
+    <string name="best_recorder_quality">Beste opnamekwaliteit</string>
+    <string name="best_recorder_quality_details">Geniet van de beste kwaliteit van 320 kbps voor de audiorecorder</string>
+    <string name="extend_timer_details">Beheer de stoptimer eenvoudig</string>
+    <string name="extra_gentle_wake_details">Ontgrendel en geniet van meer geluiden voor de zachte wekker</string>
+    <string name="extra_gentle_wake">Geweldige zachte wekgeluiden</string>
+    <string name="cycle">Cyclus %s</string>
+    <string name="fall_asleep">Inslaaptijd</string>
+    <string name="details">Details</string>
+    <string name="overview">Overzicht</string>
+    <string name="artwork">Artwork</string>
+    <string name="opacity">Dekking</string>
 </resources>

@@ -379,7 +379,7 @@
     <string name="rename">Umbenennen</string>
     <string name="rename_recording">Aufnahme umbenennen</string>
     <string name="invalid_name">Ungültiger Dateiname</string>
-    <string name="tap_to_add_stoptime">Tippen Sie auf den Timer, um mehr Zeit hinzuzufügen</string>
+    <string name="extra_time_for_stop_timer">Zusätzliche Zeit für den Stopp-Timer</string>
     <string name="default_value_for_new_alarms">Standardwert für neue Alarme</string>
     <string name="tropical_paradise">Tropisches Paradies</string>
     <string name="gentle_wake">Sanftes Aufwachen</string>
@@ -445,4 +445,22 @@
     <string name="live_updates">Live-Updates</string>
     <string name="short_minute">Min</string>
     <string name="stop_at">Stoppt um %s</string>
+    <string name="restart">Neu starten</string>
+    <string name="update_ready">Neue Version ist bereit</string>
+    <string name="no_subscription">Kein Abonnement</string>
+    <string name="what_you_unlock">WAS SIE FREISCHALTEN</string>
+    <string name="and_everything_else">UND ALLES ANDERE</string>
+    <string name="lifetime_updates">Lebenslange Updates</string>
+    <string name="one_time_price">EINMALIGER PREIS</string>
+    <string name="best_recorder_quality">Beste Aufnahmequalität</string>
+    <string name="best_recorder_quality_details">Genießen Sie die beste Qualität mit 320 kbps für den Audio-Rekorder</string>
+    <string name="extend_timer_details">Steuern Sie den Stopp-Timer ganz einfach</string>
+    <string name="extra_gentle_wake_details">Schalten Sie mehr Sounds für den Sanften Weckruf frei und genießen Sie sie</string>
+    <string name="extra_gentle_wake">Tolle Sanfte-Weckruf-Sounds</string>
+    <string name="cycle">Zyklus %s</string>
+    <string name="fall_asleep">Einschlafzeit</string>
+    <string name="details">Details</string>
+    <string name="overview">Übersicht</string>
+    <string name="artwork">Artwork</string>
+    <string name="opacity">Deckkraft</string>
 </resources>

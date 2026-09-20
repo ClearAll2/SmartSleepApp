@@ -1,6 +1,26 @@
 # Changelog
 
+
+
+
+
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
+
+
+
+
+
+## 0.8.0
+
+* A brand-new Sound screen 💪.
+* A brand-new Stop timer 🥳.
+* Introduced a new Dream Screen type: Artwork.
+* Introduced details breakdown for sleep calculation result items.
+* Removed the buggy microphone option from Sound Recorder, simplified the flow.
+* Updated more components to Material 3 Expressive design.
+* Various performance and stability improvements throughout the app.
+
+
 
 ## 0.7.5
 

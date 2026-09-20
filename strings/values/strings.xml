@@ -375,7 +375,7 @@
     <string name="rename">Rename</string>
     <string name="rename_recording">Rename recording</string>
     <string name="invalid_name">Invalid file name</string>
-    <string name="tap_to_add_stoptime">Tap timer to add more time</string>
+    <string name="extra_time_for_stop_timer">Stop timer extra time</string>
     <string name="default_value_for_new_alarms">Default value for new alarms</string>
     <string name="tropical_paradise">Tropical Paradise</string>
     <string name="gentle_wake">Gentle wake</string>
@@ -444,4 +444,22 @@
     <string name="require_long_press_details">Long press to stop or snooze the alarm</string>
     <string name="short_minute">min</string>
     <string name="stop_at">Stop at %s</string>
+    <string name="restart">Restart</string>
+    <string name="update_ready">New version is ready</string>
+    <string name="no_subscription">No Subscription</string>
+    <string name="what_you_unlock">WHAT YOU UNLOCK</string>
+    <string name="and_everything_else">AND EVERYTHING ELSE</string>
+    <string name="lifetime_updates">Lifetime updates</string>
+    <string name="one_time_price">ONE-TIME PRICE</string>
+    <string name="best_recorder_quality">Best recorder quality</string>
+    <string name="best_recorder_quality_details">Enjoy the best quality 320 kbps for the audio recorder</string>
+    <string name="extend_timer_details">Control the stop timer with ease</string>
+    <string name="extra_gentle_wake_details">Unlock and enjoy more sounds for the Gentle Wake alarm</string>
+    <string name="extra_gentle_wake">Amazing Gentle Wake sounds</string>
+    <string name="cycle">Cycle %s</string>
+    <string name="fall_asleep">Fall asleep time</string>
+    <string name="details">Details</string>
+    <string name="overview">Overview</string>
+    <string name="artwork">Artwork</string>
+    <string name="opacity">Opacity</string>
 </resources>

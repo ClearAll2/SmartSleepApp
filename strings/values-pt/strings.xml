@@ -379,7 +379,7 @@
     <string name="rename">Renomear</string>
     <string name="rename_recording">Renomear gravação</string>
     <string name="invalid_name">Nome de arquivo inválido</string>
-    <string name="tap_to_add_stoptime">Toque no temporizador para adicionar mais tempo</string>
+    <string name="extra_time_for_stop_timer">Tempo extra do temporizador de parada</string>
     <string name="default_value_for_new_alarms">Valor padrão para novos alarmes</string>
     <string name="tropical_paradise">Paraíso Tropical</string>
     <string name="gentle_wake">Acordar suave</string>
@@ -445,4 +445,22 @@
     <string name="live_updates">Atualizações ao vivo</string>
     <string name="short_minute">min</string>
     <string name="stop_at">Para às %s</string>
+    <string name="restart">Reiniciar</string>
+    <string name="update_ready">A nova versão está pronta</string>
+    <string name="no_subscription">Sem assinatura</string>
+    <string name="what_you_unlock">O QUE VOCÊ DESBLOQUEIA</string>
+    <string name="and_everything_else">E TODO O RESTO</string>
+    <string name="lifetime_updates">Atualizações vitalícias</string>
+    <string name="one_time_price">PREÇO ÚNICO</string>
+    <string name="best_recorder_quality">Melhor qualidade de gravação</string>
+    <string name="best_recorder_quality_details">Desfrute da melhor qualidade de 320 kbps no gravador de áudio</string>
+    <string name="extend_timer_details">Controle o temporizador de parada com facilidade</string>
+    <string name="extra_gentle_wake_details">Desbloqueie e aproveite mais sons para o alarme de despertar suave</string>
+    <string name="extra_gentle_wake">Sons incríveis de despertar suave</string>
+    <string name="cycle">Ciclo %s</string>
+    <string name="fall_asleep">Tempo para adormecer</string>
+    <string name="details">Detalhes</string>
+    <string name="overview">Visão geral</string>
+    <string name="artwork">Arte</string>
+    <string name="opacity">Opacidade</string>
 </resources>

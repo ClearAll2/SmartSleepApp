@@ -379,7 +379,7 @@
     <string name="rename">名前の変更</string>
     <string name="rename_recording">録音の名前を変更</string>
     <string name="invalid_name">無効なファイル名</string>
-    <string name="tap_to_add_stoptime">タイマーをタップして時間を追加</string>
+    <string name="extra_time_for_stop_timer">ストップタイマーの追加時間</string>
     <string name="default_value_for_new_alarms">新しいアラームのデフォルト値</string>
     <string name="tropical_paradise">トロピカルパラダイス</string>
     <string name="gentle_wake">穏やかな目覚め</string>
@@ -445,4 +445,22 @@
     <string name="live_updates">ライブ更新</string>
     <string name="short_minute">分</string>
     <string name="stop_at">%s に停止</string>
+    <string name="restart">再起動</string>
+    <string name="update_ready">新しいバージョンが利用可能です</string>
+    <string name="no_subscription">サブスクリプションなし</string>
+    <string name="what_you_unlock">アンロックされる機能</string>
+    <string name="and_everything_else">その他すべて</string>
+    <string name="lifetime_updates">生涯アップデート</string>
+    <string name="one_time_price">一回限りの価格</string>
+    <string name="best_recorder_quality">最高の録音品質</string>
+    <string name="best_recorder_quality_details">オーディオレコーダーで最高品質の320 kbpsをお楽しみください</string>
+    <string name="extend_timer_details">ストップタイマーを簡単に操作</string>
+    <string name="extra_gentle_wake_details">ジェントルウェイクアラーム用の追加サウンドをアンロックして楽しめます</string>
+    <string name="extra_gentle_wake">素晴らしいジェントルウェイクサウンド</string>
+    <string name="cycle">サイクル %s</string>
+    <string name="fall_asleep">入眠時間</string>
+    <string name="details">詳細</string>
+    <string name="overview">概要</string>
+    <string name="artwork">アートワーク</string>
+    <string name="opacity">不透明度</string>
 </resources>

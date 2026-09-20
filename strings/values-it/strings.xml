@@ -386,7 +386,7 @@ Gestisci lo stress</string>
     <string name="rename">Rinomina</string>
     <string name="rename_recording">Rinomina registrazione</string>
     <string name="invalid_name">Nome file non valido</string>
-    <string name="tap_to_add_stoptime">Tocca il timer per aggiungere più tempo</string>
+    <string name="extra_time_for_stop_timer">Tempo extra del timer di interruzione</string>
     <string name="default_value_for_new_alarms">Valore predefinito per nuove allarmi</string>
     <string name="tropical_paradise">Paradiso Tropicale</string>
     <string name="gentle_wake">Risveglio delicato</string>
@@ -452,4 +452,22 @@ Gestisci lo stress</string>
     <string name="live_updates">Aggiornamenti in tempo reale</string>
     <string name="short_minute">min</string>
     <string name="stop_at">Si ferma alle %s</string>
+    <string name="restart">Riavvia</string>
+    <string name="update_ready">La nuova versione è pronta</string>
+    <string name="no_subscription">Nessun abbonamento</string>
+    <string name="what_you_unlock">COSA SBLOCCI</string>
+    <string name="and_everything_else">E TUTTO IL RESTO</string>
+    <string name="lifetime_updates">Aggiornamenti a vita</string>
+    <string name="one_time_price">PREZZO UNA TANTUM</string>
+    <string name="best_recorder_quality">Migliore qualità di registrazione</string>
+    <string name="best_recorder_quality_details">Goditi la migliore qualità a 320 kbps per il registratore audio</string>
+    <string name="extend_timer_details">Controlla facilmente il timer di interruzione</string>
+    <string name="extra_gentle_wake_details">Sblocca e goditi più suoni per la sveglia di risveglio graduale</string>
+    <string name="extra_gentle_wake">Suoni di risveglio graduale fantastici</string>
+    <string name="cycle">Ciclo %s</string>
+    <string name="fall_asleep">Tempo per addormentarsi</string>
+    <string name="details">Dettagli</string>
+    <string name="overview">Panoramica</string>
+    <string name="artwork">Copertina</string>
+    <string name="opacity">Opacità</string>
 </resources>

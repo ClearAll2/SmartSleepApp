@@ -14,6 +14,7 @@ Our Privacy Policy is very simple, short and easy to understand, please read it 
 * This app does not access, collect, or transmit personal information (data that could be used to identify a person).
 * This app does not use the microphone in the background.
 * This app does not use the microphone while in use without the user's permission or consent.
+* This app does not access nearby device info to share or transmit any data.
 * This app does not share or transmit the data that user created by using this app.
 * This app does not use background services to send or receive any data.
 * This app does not use Do Not Disturb/Modes access to collect any data.
@@ -29,6 +30,7 @@ Our Privacy Policy is very simple, short and easy to understand, please read it 
 * This app does not access network info to share or transmit any data.
 * This app does not access phone info to share or transmit any data.
 * This app does not access nearby device info to share or transmit any data.
+* This app does not access camera or camera info while in use without the user's permission or consent.
 * This app does not access packages info to share or transmit any data.
 * This app is open-source.
 
