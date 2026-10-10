@@ -437,8 +437,6 @@
     <string name="today">今日</string>
     <string name="yesterday">昨日</string>
     <string name="tomorrow">明日</string>
-    <string name="show_alarm_sort_bar">並び替えバーを表示</string>
-    <string name="show_alarm_suggestions">提案を表示</string>
     <string name="volume_button_action">アラーム中の音量ボタン</string>
     <string name="nothing">何もしない</string>
     <string name="snooze">スヌーズ</string>
@@ -463,4 +461,9 @@
     <string name="overview">概要</string>
     <string name="artwork">アートワーク</string>
     <string name="opacity">不透明度</string>
+    <string name="compact">コンパクト</string>
+    <string name="library_navigation">ライブラリナビゲーション</string>
+    <string name="unlock_notification">ロック解除通知</string>
+    <string name="follow_current_time">時間の自動同期</string>
+    <string name="follow_current_time_details">選択した時間と計算をリアルタイムに同期します。</string>
 </resources>

@@ -1,12 +1,21 @@
 # Changelog
 
-
-
-
-
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
 
+## 0.8.1
 
+* Introduced a new navigation type and a new option for the Sleep sounds library.
+* Introduced a new option for sleep calculation: Auto-Sync Time.
+* Introduced a new shortcut for the Sound Recorder.
+* Introduced a 10-minute Gentle Time option for the Gentle Wake alarm (Plus).
+* Revamped the alarm suggestions, alarm sort bar, alarm screen, and alarm notification screen.
+* Revamped the calculation result quick-actions bar.
+* Updated the app's color scheme to the Material 3 Expressive style.
+* Fixed a bug that prevented "Unlock notification" from working.
+* Fixed a bug where the snooze notification time did not match the actual alarm snooze time.
+* Fixed a bug where the alarm type did not reset correctly.
+* Fixed a long-overdue bug related to Play Services that caused the app to crash.
+* Various performance and stability improvements throughout the app.
 
 
 

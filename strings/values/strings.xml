@@ -433,8 +433,6 @@
     <string name="today">Today</string>
     <string name="yesterday">Yesterday</string>
     <string name="tomorrow">Tomorrow</string>
-    <string name="show_alarm_sort_bar">Show sort bar</string>
-    <string name="show_alarm_suggestions">Show suggestions</string>
     <string name="volume_button_action">Volume buttons during alarm</string>
     <string name="nothing">Nothing</string>
     <string name="snooze">Snooze</string>
@@ -462,4 +460,9 @@
     <string name="overview">Overview</string>
     <string name="artwork">Artwork</string>
     <string name="opacity">Opacity</string>
+    <string name="compact">Compact</string>
+    <string name="library_navigation">Library navigation</string>
+    <string name="unlock_notification">Unlock notification</string>
+    <string name="follow_current_time">Auto-Sync Time</string>
+    <string name="follow_current_time_details">Syncs the selected time and calculations to real-time.</string>
 </resources>

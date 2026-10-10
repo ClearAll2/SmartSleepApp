@@ -444,8 +444,6 @@ Gestisci lo stress</string>
     <string name="today">Oggi</string>
     <string name="yesterday">Ieri</string>
     <string name="tomorrow">Domani</string>
-    <string name="show_alarm_sort_bar">Mostra barra di ordinamento</string>
-    <string name="show_alarm_suggestions">Mostra suggerimenti</string>
     <string name="volume_button_action">Tasti volume durante la sveglia</string>
     <string name="nothing">Niente</string>
     <string name="snooze">Posticipa</string>
@@ -470,4 +468,9 @@ Gestisci lo stress</string>
     <string name="overview">Panoramica</string>
     <string name="artwork">Copertina</string>
     <string name="opacity">Opacità</string>
+    <string name="compact">Compatto</string>
+    <string name="library_navigation">Navigazione della libreria</string>
+    <string name="unlock_notification">Notifica di sblocco</string>
+    <string name="follow_current_time">Sincronizzazione automatica dell\'ora</string>
+    <string name="follow_current_time_details">Sincronizza l\'ora selezionata e i calcoli con il tempo reale.</string>
 </resources>

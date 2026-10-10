@@ -437,8 +437,6 @@
     <string name="today">Hôm nay</string>
     <string name="yesterday">Hôm qua</string>
     <string name="tomorrow">Ngày mai</string>
-    <string name="show_alarm_sort_bar">Hiển thị thanh sắp xếp</string>
-    <string name="show_alarm_suggestions">Hiển thị gợi ý</string>
     <string name="volume_button_action">Nút âm lượng khi báo thức</string>
     <string name="nothing">Không làm gì</string>
     <string name="snooze">Báo lại</string>
@@ -463,4 +461,9 @@
     <string name="overview">Tổng quan</string>
     <string name="artwork">Hình ảnh</string>
     <string name="opacity">Độ mờ</string>
+    <string name="compact">Gọn</string>
+    <string name="library_navigation">Điều hướng thư viện</string>
+    <string name="unlock_notification">Thông báo mở khóa</string>
+    <string name="follow_current_time">Đồng bộ thời gian tự động</string>
+    <string name="follow_current_time_details">Đồng bộ thời gian đã chọn và các phép tính với thời gian thực.</string>
 </resources>

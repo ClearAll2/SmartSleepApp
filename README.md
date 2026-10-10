@@ -13,12 +13,12 @@ Smart Sleep can calculate sleep cycle so you can estimate the time you need to g
   <img src="screenshots/261.png" alt="sp1"  height="350px"/>
   <img src="screenshots/262.png" alt="sp2"  height="350px"/>
   <img src="screenshots/263.png" alt="sp3"  height="350px"/>
+<img src="screenshots/267.png" alt="sp7"  height="350px"/>
 </p>
 <p>
   <img src="screenshots/264.png" alt="sp5"  height="350px"/>
   <img src="screenshots/265.png" alt="sp5"  height="350px"/>
   <img src="screenshots/266.png" alt="sp6"  height="350px"/>
-  <img src="screenshots/267.png" alt="sp7"  height="350px"/>
 </p>
 
 ## Demo
@@ -54,15 +54,13 @@ Why should you get Smart Sleep+ (one-time payment):
 - Best sound quality (320 kbps) for recorder.
 - Option to play your own sounds.
 - Option to remember last played music and stop timer.
-- Option to extend stop timer.
-- Option to keep playing screen on.
+- Option to change the stop timer extra time.
 - Volume booster option.
 - 3 extra Gentle Wake sounds.
+- Option to change Gentle Time.
 - Option to set default value for new alarms (vibrate & gradually increase volume).
 - Option to hide alarm tab.
-- Option to change background color of alarms.
-- Option to hide alarm sort bar.
-- Option to hide alarm suggestions bar.
+- Option to change background color of alarm notification screen.
 - Alarm volume slider directly in setting.
 - Option to show live preview of theme.
 - 5 extra app themes.

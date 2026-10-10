@@ -444,8 +444,6 @@
     <string name="today">今天</string>
     <string name="yesterday">昨天</string>
     <string name="tomorrow">明天</string>
-    <string name="show_alarm_sort_bar">显示排序栏</string>
-    <string name="show_alarm_suggestions">显示建议</string>
     <string name="volume_button_action">闹钟期间的音量键</string>
     <string name="nothing">无操作</string>
     <string name="snooze">贪睡</string>
@@ -470,4 +468,9 @@
     <string name="overview">概览</string>
     <string name="artwork">封面</string>
     <string name="opacity">不透明度</string>
+    <string name="compact">紧凑</string>
+    <string name="library_navigation">资料库导航</string>
+    <string name="unlock_notification">解锁通知</string>
+    <string name="follow_current_time">自动同步时间</string>
+    <string name="follow_current_time_details">将所选时间和计算同步到实时。</string>
 </resources>

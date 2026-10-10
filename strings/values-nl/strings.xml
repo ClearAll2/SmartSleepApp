@@ -437,8 +437,6 @@
     <string name="today">Vandaag</string>
     <string name="yesterday">Gisteren</string>
     <string name="tomorrow">Morgen</string>
-    <string name="show_alarm_sort_bar">Sorteerbalk weergeven</string>
-    <string name="show_alarm_suggestions">Suggesties weergeven</string>
     <string name="volume_button_action">Volumeknoppen tijdens alarm</string>
     <string name="nothing">Niets</string>
     <string name="snooze">Sluimeren</string>
@@ -463,4 +461,9 @@
     <string name="overview">Overzicht</string>
     <string name="artwork">Artwork</string>
     <string name="opacity">Dekking</string>
+    <string name="compact">Compact</string>
+    <string name="library_navigation">Bibliotheeknavigatie</string>
+    <string name="unlock_notification">Ontgrendelingsmelding</string>
+    <string name="follow_current_time">Tijd automatisch synchroniseren</string>
+    <string name="follow_current_time_details">Synchroniseert de geselecteerde tijd en berekeningen met realtime.</string>
 </resources>

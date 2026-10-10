@@ -437,8 +437,6 @@
     <string name="today">Hoje</string>
     <string name="yesterday">Ontem</string>
     <string name="tomorrow">Amanhã</string>
-    <string name="show_alarm_sort_bar">Mostrar barra de ordenação</string>
-    <string name="show_alarm_suggestions">Mostrar sugestões</string>
     <string name="volume_button_action">Botões de volume durante o alarme</string>
     <string name="nothing">Nada</string>
     <string name="snooze">Adiar</string>
@@ -463,4 +461,9 @@
     <string name="overview">Visão geral</string>
     <string name="artwork">Arte</string>
     <string name="opacity">Opacidade</string>
+    <string name="compact">Compacto</string>
+    <string name="library_navigation">Navegação da biblioteca</string>
+    <string name="unlock_notification">Notificação de desbloqueio</string>
+    <string name="follow_current_time">Sincronização automática de hora</string>
+    <string name="follow_current_time_details">Sincroniza a hora selecionada e os cálculos com o tempo real.</string>
 </resources>

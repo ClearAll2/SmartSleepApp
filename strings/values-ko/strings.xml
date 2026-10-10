@@ -437,8 +437,6 @@
     <string name="today">오늘</string>
     <string name="yesterday">어제</string>
     <string name="tomorrow">내일</string>
-    <string name="show_alarm_sort_bar">정렬 바 표시</string>
-    <string name="show_alarm_suggestions">제안 표시</string>
     <string name="volume_button_action">알람 중 볼륨 버튼</string>
     <string name="nothing">없음</string>
     <string name="snooze">다시 알림</string>
@@ -463,4 +461,9 @@
     <string name="overview">개요</string>
     <string name="artwork">아트워크</string>
     <string name="opacity">불투명도</string>
+    <string name="compact">컴팩트</string>
+    <string name="library_navigation">라이브러리 탐색</string>
+    <string name="unlock_notification">잠금 해제 알림</string>
+    <string name="follow_current_time">시간 자동 동기화</string>
+    <string name="follow_current_time_details">선택한 시간과 계산을 실시간으로 동기화합니다.</string>
 </resources>

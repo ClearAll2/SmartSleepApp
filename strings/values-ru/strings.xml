@@ -437,8 +437,6 @@
     <string name="today">Сегодня</string>
     <string name="yesterday">Вчера</string>
     <string name="tomorrow">Завтра</string>
-    <string name="show_alarm_sort_bar">Показывать панель сортировки</string>
-    <string name="show_alarm_suggestions">Показывать предложения</string>
     <string name="volume_button_action">Кнопки громкости во время будильника</string>
     <string name="nothing">Ничего</string>
     <string name="snooze">Отложить</string>
@@ -463,4 +461,9 @@
     <string name="overview">Обзор</string>
     <string name="artwork">Обложка</string>
     <string name="opacity">Непрозрачность</string>
+    <string name="compact">Компактный</string>
+    <string name="library_navigation">Навигация по библиотеке</string>
+    <string name="unlock_notification">Уведомление о разблокировке</string>
+    <string name="follow_current_time">Автосинхронизация времени</string>
+    <string name="follow_current_time_details">Синхронизирует выбранное время и расчёты с реальным временем.</string>
 </resources>
