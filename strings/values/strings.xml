@@ -465,4 +465,12 @@
     <string name="unlock_notification">Unlock notification</string>
     <string name="follow_current_time">Auto-Sync Time</string>
     <string name="follow_current_time_details">Syncs the selected time and calculations to real-time.</string>
+    <string name="first_day_of_week">First day of week</string>
+    <string name="notification_background">Notification background</string>
+    <string name="sort">Sort</string>
+    <string name="sort_by">Sort by</string>
+    <string name="order">Order</string>
+    <string name="docked">Docked</string>
+    <string name="floating">Floating</string>
+    <string name="navigation_bar">Navigation bar</string>
 </resources>

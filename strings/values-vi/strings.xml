@@ -466,4 +466,12 @@
     <string name="unlock_notification">Thông báo mở khóa</string>
     <string name="follow_current_time">Đồng bộ thời gian tự động</string>
     <string name="follow_current_time_details">Đồng bộ thời gian đã chọn và các phép tính với thời gian thực.</string>
+    <string name="first_day_of_week">Ngày đầu tuần</string>
+    <string name="notification_background">Nền thông báo</string>
+    <string name="sort">Sắp xếp</string>
+    <string name="sort_by">Sắp xếp theo</string>
+    <string name="order">Thứ tự</string>
+    <string name="docked">Cố định</string>
+    <string name="floating">Nổi</string>
+    <string name="navigation_bar">Thanh điều hướng</string>
 </resources>

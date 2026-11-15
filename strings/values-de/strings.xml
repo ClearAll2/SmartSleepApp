@@ -466,4 +466,12 @@
     <string name="unlock_notification">Entsperrbenachrichtigung</string>
     <string name="follow_current_time">Zeit automatisch synchronisieren</string>
     <string name="follow_current_time_details">Synchronisiert die ausgewählte Zeit und Berechnungen mit der Echtzeit.</string>
+    <string name="first_day_of_week">Erster Tag der Woche</string>
+    <string name="notification_background">Benachrichtigungshintergrund</string>
+    <string name="sort">Sortieren</string>
+    <string name="sort_by">Sortieren nach</string>
+    <string name="order">Reihenfolge</string>
+    <string name="docked">Angedockt</string>
+    <string name="floating">Schwebend</string>
+    <string name="navigation_bar">Navigationsleiste</string>
 </resources>

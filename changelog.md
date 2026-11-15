@@ -2,6 +2,20 @@
 
 Thank you for choosing Smart Sleep! We're constantly making changes and improvements to enhance your experience. To stay updated with the latest features and improvements, please keep your updates turned on.
 
+## 0.8.2
+
+* New Feature: Added a brand-new floating navigation bar option, available for all users! 😎
+* New Feature: Added a "First day of week" option.
+* New Feature: Added a view toggle for the Alarm screen, allowing you to choose between default and compact views.
+* New Feature: Added a brand-new app color picker.
+* New Feature: Added new "Set Alarm" app shortcut.
+* Enhancement: The Set Alarm and Edit Alarm screens are now full-screen.
+* Enhancement: Improved the Alarm Suggestion bar and sorting actions.
+* Enhancement: Expanded the Gentle Time range for Plus users, now customizable from 5 to 60 minutes.
+* Enhancement: Optimized the Sleep and Calculator screens for large-screen devices.
+* Enhancement: Improved general alarm performance.
+* Design: Updated more components to the Material 3 Expressive design.
+
 ## 0.8.1
 
 * Introduced a new navigation type and a new option for the Sleep sounds library.

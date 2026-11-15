@@ -466,4 +466,12 @@
     <string name="unlock_notification">잠금 해제 알림</string>
     <string name="follow_current_time">시간 자동 동기화</string>
     <string name="follow_current_time_details">선택한 시간과 계산을 실시간으로 동기화합니다.</string>
+    <string name="first_day_of_week">주의 첫 날</string>
+    <string name="notification_background">알림 배경</string>
+    <string name="sort">정렬</string>
+    <string name="sort_by">정렬 기준</string>
+    <string name="order">순서</string>
+    <string name="docked">고정</string>
+    <string name="floating">플로팅</string>
+    <string name="navigation_bar">탐색 모음</string>
 </resources>

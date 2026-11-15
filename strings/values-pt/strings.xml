@@ -466,4 +466,12 @@
     <string name="unlock_notification">Notificação de desbloqueio</string>
     <string name="follow_current_time">Sincronização automática de hora</string>
     <string name="follow_current_time_details">Sincroniza a hora selecionada e os cálculos com o tempo real.</string>
+    <string name="first_day_of_week">Primeiro dia da semana</string>
+    <string name="notification_background">Fundo da notificação</string>
+    <string name="sort">Ordenar</string>
+    <string name="sort_by">Ordenar por</string>
+    <string name="order">Ordem</string>
+    <string name="docked">Ancorado</string>
+    <string name="floating">Flutuante</string>
+    <string name="navigation_bar">Barra de navegação</string>
 </resources>

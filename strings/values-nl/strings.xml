@@ -466,4 +466,12 @@
     <string name="unlock_notification">Ontgrendelingsmelding</string>
     <string name="follow_current_time">Tijd automatisch synchroniseren</string>
     <string name="follow_current_time_details">Synchroniseert de geselecteerde tijd en berekeningen met realtime.</string>
+    <string name="first_day_of_week">Eerste dag van de week</string>
+    <string name="notification_background">Meldingsachtergrond</string>
+    <string name="sort">Sorteren</string>
+    <string name="sort_by">Sorteren op</string>
+    <string name="order">Volgorde</string>
+    <string name="docked">Vastgezet</string>
+    <string name="floating">Zwevend</string>
+    <string name="navigation_bar">Navigatiebalk</string>
 </resources>

@@ -473,4 +473,12 @@ Gestisci lo stress</string>
     <string name="unlock_notification">Notifica di sblocco</string>
     <string name="follow_current_time">Sincronizzazione automatica dell\'ora</string>
     <string name="follow_current_time_details">Sincronizza l\'ora selezionata e i calcoli con il tempo reale.</string>
+    <string name="first_day_of_week">Primo giorno della settimana</string>
+    <string name="notification_background">Sfondo notifica</string>
+    <string name="sort">Ordina</string>
+    <string name="sort_by">Ordina per</string>
+    <string name="order">Ordine</string>
+    <string name="docked">Ancorato</string>
+    <string name="floating">Mobile</string>
+    <string name="navigation_bar">Barra di navigazione</string>
 </resources>

@@ -466,4 +466,12 @@
     <string name="unlock_notification">ロック解除通知</string>
     <string name="follow_current_time">時間の自動同期</string>
     <string name="follow_current_time_details">選択した時間と計算をリアルタイムに同期します。</string>
+    <string name="first_day_of_week">週の最初の日</string>
+    <string name="notification_background">通知の背景</string>
+    <string name="sort">並べ替え</string>
+    <string name="sort_by">並べ替え基準</string>
+    <string name="order">順序</string>
+    <string name="docked">固定</string>
+    <string name="floating">フローティング</string>
+    <string name="navigation_bar">ナビゲーションバー</string>
 </resources>

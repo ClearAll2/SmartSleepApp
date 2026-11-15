@@ -466,4 +466,12 @@
     <string name="unlock_notification">Уведомление о разблокировке</string>
     <string name="follow_current_time">Автосинхронизация времени</string>
     <string name="follow_current_time_details">Синхронизирует выбранное время и расчёты с реальным временем.</string>
+    <string name="first_day_of_week">Первый день недели</string>
+    <string name="notification_background">Фон уведомления</string>
+    <string name="sort">Сортировка</string>
+    <string name="sort_by">Сортировать по</string>
+    <string name="order">Порядок</string>
+    <string name="docked">Закреплено</string>
+    <string name="floating">Плавающая</string>
+    <string name="navigation_bar">Панель навигации</string>
 </resources>

@@ -473,4 +473,12 @@
     <string name="unlock_notification">解锁通知</string>
     <string name="follow_current_time">自动同步时间</string>
     <string name="follow_current_time_details">将所选时间和计算同步到实时。</string>
+    <string name="first_day_of_week">一周的第一天</string>
+    <string name="notification_background">通知背景</string>
+    <string name="sort">排序</string>
+    <string name="sort_by">排序方式</string>
+    <string name="order">顺序</string>
+    <string name="docked">固定</string>
+    <string name="floating">浮动</string>
+    <string name="navigation_bar">导航栏</string>
 </resources>
